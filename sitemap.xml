@@ -16,8 +16,8 @@
  <url>
   <loc>http://www.saffre-rumma.net/about/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="et" href="http://www.saffre-rumma.net/et/about/" />
   <xhtml:link rel="alternate" hreflang="fr" href="http://www.saffre-rumma.net/fr/about/" />
+  <xhtml:link rel="alternate" hreflang="et" href="http://www.saffre-rumma.net/et/about/" />
  </url>
  <url>
   <loc>http://www.saffre-rumma.net/archive.html</loc>
@@ -114,10 +114,6 @@
   <loc>http://www.saffre-rumma.net/de/foo/bar/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="http://www.saffre-rumma.net/foo/bar/" />
- </url>
- <url>
-  <loc>http://www.saffre-rumma.net/de/galleries/</loc>
-  <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.saffre-rumma.net/de/jobs/</loc>
@@ -286,10 +282,6 @@
   <loc>http://www.saffre-rumma.net/et/foo/bar/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="http://www.saffre-rumma.net/foo/bar/" />
- </url>
- <url>
-  <loc>http://www.saffre-rumma.net/et/galleries/</loc>
-  <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.saffre-rumma.net/et/jobs/</loc>
@@ -469,10 +461,6 @@
   <xhtml:link rel="alternate" hreflang="en" href="http://www.saffre-rumma.net/foo/bar/" />
  </url>
  <url>
-  <loc>http://www.saffre-rumma.net/fr/galleries/</loc>
-  <lastmod>2017-01-19T02:10:00Z</lastmod>
- </url>
- <url>
   <loc>http://www.saffre-rumma.net/fr/jobs/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
@@ -585,10 +573,6 @@
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.saffre-rumma.net/galleries/</loc>
-  <lastmod>2017-01-19T02:10:00Z</lastmod>
- </url>
- <url>
   <loc>http://www.saffre-rumma.net/jobs/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
@@ -615,10 +599,6 @@
  </url>
  <url>
   <loc>http://www.saffre-rumma.net/jobs/uidev/</loc>
-  <lastmod>2017-01-19T02:10:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.saffre-rumma.net/listings/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
@@ -684,8 +664,8 @@
  <url>
   <loc>http://www.saffre-rumma.net/welfare/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fr" href="http://www.saffre-rumma.net/fr/welfare/" />
   <xhtml:link rel="alternate" hreflang="de" href="http://www.saffre-rumma.net/de/welfare/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="http://www.saffre-rumma.net/fr/welfare/" />
  </url>
  <url>
   <loc>http://www.saffre-rumma.net/welfare_flyer/</loc>
