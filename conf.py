@@ -619,14 +619,14 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 
 #username = 'lsaffre@85.222.235.211'
-username = 'luc@lino-framework.org'
-pth = '~/public_html/nikola/sr'
-DEPLOY_COMMANDS = {
-    'default': [
-        # "rsync -rav --delete output/ joe@my.site:/srv/www/site",
-        "rsync -e ssh -rav --delete output/ {0}:{1}".format(username, pth),
-    ]
-}
+# username = 'luc@lino-framework.org'
+# pth = '~/public_html/nikola/sr'
+# DEPLOY_COMMANDS = {
+#     'default': [
+#         # "rsync -rav --delete output/ joe@my.site:/srv/www/site",
+#         "rsync -e ssh -rav --delete output/ {0}:{1}".format(username, pth),
+#     ]
+# }
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
@@ -641,11 +641,11 @@ GITHUB_COMMIT_SOURCE = True
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
 # to the location of conf.py
-# OUTPUT_FOLDER = 'output'
+OUTPUT_FOLDER = 'output'
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
-# CACHE_FOLDER = 'cache'
+CACHE_FOLDER = 'cache'
 
 # Filters to apply to the output.
 # A directory where the keys are either: a file extensions, or
