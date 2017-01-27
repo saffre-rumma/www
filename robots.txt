@@ -1,4 +1,0 @@
-Sitemap: http://www.saffre-rumma.net/sitemapindex.xml
-
-User-Agent: *
-Host: www.saffre-rumma.net
