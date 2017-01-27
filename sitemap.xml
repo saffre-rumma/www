@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.saffre-rumma.net/</loc>
-  <lastmod>2017-01-19T02:10:00Z</lastmod>
+  <lastmod>2017-01-27T11:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.saffre-rumma.net/2015/</loc>
@@ -303,8 +303,8 @@
  <url>
   <loc>http://www.saffre-rumma.net/et/jobs/analyst/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="http://www.saffre-rumma.net/jobs/analyst/" />
   <xhtml:link rel="alternate" hreflang="de" href="http://www.saffre-rumma.net/de/jobs/analyst/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://www.saffre-rumma.net/jobs/analyst/" />
  </url>
  <url>
   <loc>http://www.saffre-rumma.net/et/jobs/consultant/</loc>
@@ -484,8 +484,8 @@
  <url>
   <loc>http://www.saffre-rumma.net/fr/jobs/analyst/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="http://www.saffre-rumma.net/jobs/analyst/" />
   <xhtml:link rel="alternate" hreflang="de" href="http://www.saffre-rumma.net/de/jobs/analyst/" />
+  <xhtml:link rel="alternate" hreflang="en" href="http://www.saffre-rumma.net/jobs/analyst/" />
  </url>
  <url>
   <loc>http://www.saffre-rumma.net/fr/jobs/consultant/</loc>
