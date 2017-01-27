@@ -7,27 +7,27 @@ These are the Nikola source files for generating our
 
 Instructions:
 
-- fork the repo on GitHub
-
-- clone your repo to your computer (using ssh, not https because you
-  will want to write to it)::
+- clone this project to your computer (using ssh, not https because
+  you will want to write to it)::
 
     $ cd ~/repositories
-    $ mkdir sr
-    $ cd sr
-    $ git clone git@github.com:username/saffre-rumma.git
+    $ git clone git@github.com:saffre-rumma/www.git
   
-- Create a Python3 environment and install Nikola::
+- Create a Python3 environment below your repository::
 
+    $ cd ~/repositories/www
     $ virtualenv -p python3 env
+    
+  Activate it and install Nikola::
+    
     $ . env/bin/activate
     $ pip install nikola
     $ pip install ghp-import2
 
   See `virtualenv --help` if needed.
 
-- Build the html files by invoking::
+- Change your .rst files and deploy them 
 
-    $ nikola build
+    $ nikola github_deploy
 
 - Before deploying for the first time    
