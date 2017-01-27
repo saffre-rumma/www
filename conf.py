@@ -22,7 +22,8 @@ BLOG_TITLE = "Rumma & Ko"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 # SITE_URL = "http://www.saffre-rumma.net/"
-SITE_URL = "https://lsaffre.github.io/saffre-rumma/"
+# SITE_URL = "https://lsaffre.github.io/saffre-rumma/"
+SITE_URL = "https://saffre-rumma.github.io/www/"
 
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
