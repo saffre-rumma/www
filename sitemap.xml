@@ -6,680 +6,680 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/</loc>
+  <loc>https://saffre-rumma.github.io/www/</loc>
   <lastmod>2017-01-27T11:07:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/2015/</loc>
+  <loc>https://saffre-rumma.github.io/www/2015/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/about/</loc>
+  <loc>https://saffre-rumma.github.io/www/about/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="et" href="https://lsaffre.github.io/saffre-rumma/et/about/" />
-  <xhtml:link rel="alternate" hreflang="fr" href="https://lsaffre.github.io/saffre-rumma/fr/about/" />
+  <xhtml:link rel="alternate" hreflang="et" href="https://saffre-rumma.github.io/www/et/about/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="https://saffre-rumma.github.io/www/fr/about/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/archive.html</loc>
-  <lastmod>2017-01-27T13:59:00Z</lastmod>
+  <loc>https://saffre-rumma.github.io/www/archive.html</loc>
+  <lastmod>2017-01-27T14:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/bar/</loc>
+  <loc>https://saffre-rumma.github.io/www/bar/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/be/</loc>
+  <loc>https://saffre-rumma.github.io/www/be/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://lsaffre.github.io/saffre-rumma/de/be/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://saffre-rumma.github.io/www/de/be/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/blog/</loc>
+  <loc>https://saffre-rumma.github.io/www/blog/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/board/</loc>
+  <loc>https://saffre-rumma.github.io/www/board/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/care/</loc>
+  <loc>https://saffre-rumma.github.io/www/care/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://lsaffre.github.io/saffre-rumma/de/care/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://saffre-rumma.github.io/www/de/care/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/categories/</loc>
+  <loc>https://saffre-rumma.github.io/www/categories/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/contact/</loc>
+  <loc>https://saffre-rumma.github.io/www/contact/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fr" href="https://lsaffre.github.io/saffre-rumma/fr/contact/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="https://saffre-rumma.github.io/www/fr/contact/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/cosi/</loc>
+  <loc>https://saffre-rumma.github.io/www/cosi/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/2015/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/2015/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/about/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/about/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/archive.html</loc>
-  <lastmod>2017-01-27T13:59:00Z</lastmod>
+  <loc>https://saffre-rumma.github.io/www/de/archive.html</loc>
+  <lastmod>2017-01-27T14:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/bar/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/bar/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/be/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/be/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/blog/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/blog/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/board/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/board/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/care/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/care/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/categories/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/categories/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/contact/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/contact/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/cosi/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/cosi/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/foo/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/foo/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/foo/bar/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/foo/bar/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/foo/bar/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/foo/bar/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/jobs/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/jobs/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/jobs/admin/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/jobs/admin/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/admin/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/admin/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/jobs/analyst/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/jobs/analyst/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/analyst/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/analyst/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/jobs/consultant/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/jobs/consultant/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/consultant/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/consultant/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/jobs/coredev/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/jobs/coredev/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/coredev/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/coredev/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/jobs/documentor/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/jobs/documentor/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/documentor/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/documentor/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/jobs/uidev/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/jobs/uidev/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/uidev/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/uidev/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/noi/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/noi/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/posts/20150811/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/posts/20150811/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20150811/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20150811/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/posts/20151004/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/posts/20151004/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20151004/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20151004/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/posts/20151027/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/posts/20151027/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20151027/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20151027/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/posts/20151209/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/posts/20151209/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20151209/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20151209/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/posts/new-website-using-nikola/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/posts/new-website-using-nikola/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/new-website-using-nikola/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/new-website-using-nikola/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/services/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/services/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/team/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/team/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/tim/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/tim/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/vcc/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/vcc/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/views/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/views/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/vilma/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/vilma/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/voga/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/voga/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/vtt/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/vtt/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/welfare/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/welfare/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/welfare_flyer/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/welfare_flyer/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/welfare_services/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/welfare_services/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/de/yearlyde/</loc>
+  <loc>https://saffre-rumma.github.io/www/de/yearlyde/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/2015/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/2015/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/about/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/about/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/archive.html</loc>
-  <lastmod>2017-01-27T13:59:00Z</lastmod>
+  <loc>https://saffre-rumma.github.io/www/et/archive.html</loc>
+  <lastmod>2017-01-27T14:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/bar/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/bar/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/be/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/be/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/blog/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/blog/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/board/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/board/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/care/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/care/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/categories/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/categories/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/contact/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/contact/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/cosi/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/cosi/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/foo/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/foo/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/foo/bar/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/foo/bar/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/foo/bar/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/foo/bar/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/jobs/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/jobs/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/jobs/admin/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/jobs/admin/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/admin/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/admin/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/jobs/analyst/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/jobs/analyst/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://lsaffre.github.io/saffre-rumma/de/jobs/analyst/" />
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/analyst/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/analyst/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://saffre-rumma.github.io/www/de/jobs/analyst/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/jobs/consultant/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/jobs/consultant/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/consultant/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/consultant/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/jobs/coredev/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/jobs/coredev/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/coredev/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/coredev/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/jobs/documentor/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/jobs/documentor/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/documentor/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/documentor/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/jobs/uidev/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/jobs/uidev/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/uidev/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/uidev/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/noi/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/noi/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/posts/20150811/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/posts/20150811/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20150811/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20150811/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/posts/20151004/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/posts/20151004/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20151004/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20151004/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/posts/20151027/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/posts/20151027/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20151027/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20151027/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/posts/20151209/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/posts/20151209/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20151209/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20151209/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/posts/new-website-using-nikola/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/posts/new-website-using-nikola/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/new-website-using-nikola/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/new-website-using-nikola/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/services/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/services/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/team/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/team/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/tim/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/tim/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/vcc/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/vcc/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/views/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/views/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/vilma/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/vilma/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/voga/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/voga/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/vtt/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/vtt/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/welfare/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/welfare/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/welfare_flyer/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/welfare_flyer/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/welfare_services/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/welfare_services/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/et/yearlyde/</loc>
+  <loc>https://saffre-rumma.github.io/www/et/yearlyde/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/foo/</loc>
+  <loc>https://saffre-rumma.github.io/www/foo/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/foo/bar/</loc>
+  <loc>https://saffre-rumma.github.io/www/foo/bar/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/2015/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/2015/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/about/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/about/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/archive.html</loc>
-  <lastmod>2017-01-27T13:59:00Z</lastmod>
+  <loc>https://saffre-rumma.github.io/www/fr/archive.html</loc>
+  <lastmod>2017-01-27T14:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/bar/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/bar/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/be/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/be/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/blog/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/blog/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/board/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/board/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/care/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/care/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/categories/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/categories/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/contact/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/contact/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/cosi/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/cosi/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/foo/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/foo/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/foo/bar/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/foo/bar/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/foo/bar/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/foo/bar/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/jobs/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/jobs/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/jobs/admin/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/jobs/admin/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/admin/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/admin/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/jobs/analyst/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/jobs/analyst/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://lsaffre.github.io/saffre-rumma/de/jobs/analyst/" />
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/analyst/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/analyst/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://saffre-rumma.github.io/www/de/jobs/analyst/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/jobs/consultant/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/jobs/consultant/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/consultant/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/consultant/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/jobs/coredev/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/jobs/coredev/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/coredev/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/coredev/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/jobs/documentor/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/jobs/documentor/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/documentor/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/documentor/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/jobs/uidev/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/jobs/uidev/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/jobs/uidev/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/jobs/uidev/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/noi/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/noi/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/posts/20150811/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/posts/20150811/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20150811/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20150811/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/posts/20151004/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/posts/20151004/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20151004/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20151004/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/posts/20151027/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/posts/20151027/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20151027/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20151027/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/posts/20151209/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/posts/20151209/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/20151209/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/20151209/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/posts/new-website-using-nikola/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/posts/new-website-using-nikola/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://lsaffre.github.io/saffre-rumma/posts/new-website-using-nikola/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://saffre-rumma.github.io/www/posts/new-website-using-nikola/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/services/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/services/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/team/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/team/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/tim/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/tim/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/vcc/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/vcc/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/views/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/views/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/vilma/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/vilma/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/voga/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/voga/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/vtt/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/vtt/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/welfare/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/welfare/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/welfare_flyer/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/welfare_flyer/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/welfare_services/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/welfare_services/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/fr/yearlyde/</loc>
+  <loc>https://saffre-rumma.github.io/www/fr/yearlyde/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/jobs/</loc>
+  <loc>https://saffre-rumma.github.io/www/jobs/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/jobs/admin/</loc>
+  <loc>https://saffre-rumma.github.io/www/jobs/admin/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/jobs/analyst/</loc>
+  <loc>https://saffre-rumma.github.io/www/jobs/analyst/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://lsaffre.github.io/saffre-rumma/de/jobs/analyst/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://saffre-rumma.github.io/www/de/jobs/analyst/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/jobs/consultant/</loc>
+  <loc>https://saffre-rumma.github.io/www/jobs/consultant/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/jobs/coredev/</loc>
+  <loc>https://saffre-rumma.github.io/www/jobs/coredev/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/jobs/documentor/</loc>
+  <loc>https://saffre-rumma.github.io/www/jobs/documentor/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/jobs/uidev/</loc>
+  <loc>https://saffre-rumma.github.io/www/jobs/uidev/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/noi/</loc>
+  <loc>https://saffre-rumma.github.io/www/noi/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/posts/20150811/</loc>
+  <loc>https://saffre-rumma.github.io/www/posts/20150811/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/posts/20151004/</loc>
+  <loc>https://saffre-rumma.github.io/www/posts/20151004/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/posts/20151027/</loc>
+  <loc>https://saffre-rumma.github.io/www/posts/20151027/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/posts/20151209/</loc>
+  <loc>https://saffre-rumma.github.io/www/posts/20151209/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/posts/new-website-using-nikola/</loc>
+  <loc>https://saffre-rumma.github.io/www/posts/new-website-using-nikola/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/services/</loc>
+  <loc>https://saffre-rumma.github.io/www/services/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fr" href="https://lsaffre.github.io/saffre-rumma/fr/services/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="https://saffre-rumma.github.io/www/fr/services/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/team/</loc>
+  <loc>https://saffre-rumma.github.io/www/team/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/tim/</loc>
+  <loc>https://saffre-rumma.github.io/www/tim/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/vcc/</loc>
+  <loc>https://saffre-rumma.github.io/www/vcc/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/views/</loc>
+  <loc>https://saffre-rumma.github.io/www/views/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://lsaffre.github.io/saffre-rumma/de/views/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://saffre-rumma.github.io/www/de/views/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/vilma/</loc>
+  <loc>https://saffre-rumma.github.io/www/vilma/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/voga/</loc>
+  <loc>https://saffre-rumma.github.io/www/voga/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://lsaffre.github.io/saffre-rumma/de/voga/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://saffre-rumma.github.io/www/de/voga/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/vtt/</loc>
+  <loc>https://saffre-rumma.github.io/www/vtt/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="et" href="https://lsaffre.github.io/saffre-rumma/et/vtt/" />
+  <xhtml:link rel="alternate" hreflang="et" href="https://saffre-rumma.github.io/www/et/vtt/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/welfare/</loc>
+  <loc>https://saffre-rumma.github.io/www/welfare/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://lsaffre.github.io/saffre-rumma/de/welfare/" />
-  <xhtml:link rel="alternate" hreflang="fr" href="https://lsaffre.github.io/saffre-rumma/fr/welfare/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="https://saffre-rumma.github.io/www/fr/welfare/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://saffre-rumma.github.io/www/de/welfare/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/welfare_flyer/</loc>
+  <loc>https://saffre-rumma.github.io/www/welfare_flyer/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fr" href="https://lsaffre.github.io/saffre-rumma/fr/welfare_flyer/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="https://saffre-rumma.github.io/www/fr/welfare_flyer/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/welfare_services/</loc>
+  <loc>https://saffre-rumma.github.io/www/welfare_services/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fr" href="https://lsaffre.github.io/saffre-rumma/fr/welfare_services/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="https://saffre-rumma.github.io/www/fr/welfare_services/" />
  </url>
  <url>
-  <loc>https://lsaffre.github.io/saffre-rumma/yearlyde/</loc>
+  <loc>https://saffre-rumma.github.io/www/yearlyde/</loc>
   <lastmod>2017-01-19T02:10:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="de" href="https://lsaffre.github.io/saffre-rumma/de/yearlyde/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://saffre-rumma.github.io/www/de/yearlyde/" />
  </url>
 </urlset>

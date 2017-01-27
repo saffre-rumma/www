@@ -1,4 +1,4 @@
-Sitemap: https://lsaffre.github.io/saffre-rumma/sitemapindex.xml
+Sitemap: https://saffre-rumma.github.io/www/sitemapindex.xml
 
 User-Agent: *
-Host: lsaffre.github.io
+Host: saffre-rumma.github.io
