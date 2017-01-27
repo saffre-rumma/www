@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Rumma &amp; Ko</title><link>http://www.saffre-rumma.net/</link><description>Welcome to our web site!</description><atom:link href="http://www.saffre-rumma.net/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 27 Jan 2017 13:40:35 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Die Richtung stimmt</title><link>http://www.saffre-rumma.net/posts/20151209/</link><dc:creator>Luc Saffre</dc:creator><description>&lt;div&gt;&lt;p&gt;Liebe Benutzer von TIM und Lino,&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rumma &amp; Ko</title><link>https://lsaffre.github.io/saffre-rumma/</link><description>Welcome to our web site!</description><atom:link rel="self" href="https://lsaffre.github.io/saffre-rumma/rss.xml" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 27 Jan 2017 13:59:04 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Die Richtung stimmt</title><link>https://lsaffre.github.io/saffre-rumma/posts/20151209/</link><dc:creator>Luc Saffre</dc:creator><description>&lt;div&gt;&lt;p&gt;Liebe Benutzer von TIM und Lino,&lt;/p&gt;
 &lt;p&gt;es wurde nochmal Zeit für einen Rundbrief.&lt;/p&gt;
 &lt;p&gt;Seit drei Monaten arbeite ich jetzt nicht mehr alleine an &lt;a class="reference external" href="http://lino-framework.org/"&gt;Lino&lt;/a&gt;, sondern zusammen mit meinem Assistenen
 &lt;strong&gt;Hamza&lt;/strong&gt; in Tunesien.  Ich bin sehr zufrieden über den Lauf der
@@ -13,7 +13,7 @@ die belgischen ÖSHZ sind, die ja bekanntlich zur Zeit viel Arbeit
 haben mit den Folgen fundamentalistischer religiöser Konflikte.&lt;/p&gt;
 &lt;p&gt;Aber Lino ist ja nicht nur für den Sozialdienst, sondern auch für die
 Privatwirtschaft. Auch hier kommen wir langsam auf die Zielgerade.
-&lt;a class="reference external" href="http://www.saffre-rumma.net/cosi/"&gt;Lino Così&lt;/a&gt; und &lt;a class="reference external" href="http://www.saffre-rumma.net/voga/"&gt;Lino Voga&lt;/a&gt; sind so gut wie fertig, und ich suche
+&lt;a class="reference external" href="https://lsaffre.github.io/saffre-rumma/cosi/"&gt;Lino Così&lt;/a&gt; und &lt;a class="reference external" href="https://lsaffre.github.io/saffre-rumma/voga/"&gt;Lino Voga&lt;/a&gt; sind so gut wie fertig, und ich suche
 jetzt einen &lt;a class="reference external" href="http://www.saffre-rumma.net/de/jobs/analyst/"&gt;Anwendungsberater für den Raum Eupen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Überhaupt blicke ich zur Zeit optimistisch in die Zukunft. Mein
 &lt;strong&gt;kurzfristiger&lt;/strong&gt; Plan ist, unser Team zunächst noch um &lt;em&gt;freiwillige&lt;/em&gt;
@@ -60,15 +60,15 @@ versuchen, Know-how als Privateigentum für sich zu behalten.&lt;/p&gt;
 &lt;p&gt;Ich wünsche weiterhin eine besinnliche Adventszeit in froher
 Anschauung des Religionsgründers, der Nächstenliebe, Teilen und
 Solidarität an erste Stelle setzte.&lt;/p&gt;
-&lt;p&gt;Luc Saffre&lt;/p&gt;&lt;/div&gt;</description><guid>http://www.saffre-rumma.net/posts/20151209/</guid><pubDate>Wed, 09 Dec 2015 03:40:02 GMT</pubDate></item><item><title>New website using Nikola</title><link>http://www.saffre-rumma.net/posts/new-website-using-nikola/</link><dc:creator>Luc Saffre</dc:creator><description>&lt;div&gt;&lt;p&gt;This weekend I finally invested some time into a task which had been
-waiting since &lt;a class="reference external" href="http://www.saffre-rumma.net/posts/20151027/"&gt;Lino Welfare meeting in Eupen&lt;/a&gt;: make the Rumma &amp;amp; Ko website
+&lt;p&gt;Luc Saffre&lt;/p&gt;&lt;/div&gt;</description><guid>https://lsaffre.github.io/saffre-rumma/posts/20151209/</guid><pubDate>Wed, 09 Dec 2015 03:40:02 GMT</pubDate></item><item><title>New website using Nikola</title><link>https://lsaffre.github.io/saffre-rumma/posts/new-website-using-nikola/</link><dc:creator>Luc Saffre</dc:creator><description>&lt;div&gt;&lt;p&gt;This weekend I finally invested some time into a task which had been
+waiting since &lt;a class="reference external" href="https://lsaffre.github.io/saffre-rumma/posts/20151027/"&gt;Lino Welfare meeting in Eupen&lt;/a&gt;: make the Rumma &amp;amp; Ko website
 multilingual, and add information in French about our pricing policy.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.saffre-rumma.net/posts/new-website-using-nikola/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://www.saffre-rumma.net/posts/new-website-using-nikola/</guid><pubDate>Sun, 22 Nov 2015 04:06:02 GMT</pubDate></item><item><title>Lino Welfare meeting in Eupen</title><link>http://www.saffre-rumma.net/posts/20151027/</link><dc:creator>Luc Saffre</dc:creator><description>&lt;div&gt;&lt;p&gt;Today was a historic day: Gerd, Mathieu, Aurélie, Elmar, Annabell and
+&lt;p&gt;&lt;a href="https://lsaffre.github.io/saffre-rumma/posts/new-website-using-nikola/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://lsaffre.github.io/saffre-rumma/posts/new-website-using-nikola/</guid><pubDate>Sun, 22 Nov 2015 04:06:02 GMT</pubDate></item><item><title>Lino Welfare meeting in Eupen</title><link>https://lsaffre.github.io/saffre-rumma/posts/20151027/</link><dc:creator>Luc Saffre</dc:creator><description>&lt;div&gt;&lt;p&gt;Today was a historic day: Gerd, Mathieu, Aurélie, Elmar, Annabell and
 I met in order to discuss the strategies and priorities for &lt;em&gt;Lino
 Welfare&lt;/em&gt; for the next years.  We formulated our agreement on both the
 distribution of responsibilities (French text below) and --finally-- a
-tarification system which satisfies both sides (see &lt;a class="reference external" href="http://www.saffre-rumma.net/welfare/"&gt;Lino Welfare&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.saffre-rumma.net/posts/20151027/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://www.saffre-rumma.net/posts/20151027/</guid><pubDate>Tue, 27 Oct 2015 20:06:02 GMT</pubDate></item><item><title>Lino News #2 -- October 2015</title><link>http://www.saffre-rumma.net/posts/20151004/</link><dc:creator>Luc Saffre</dc:creator><description>&lt;div&gt;&lt;!-- (Click `here &lt;http://luc.lino-framework.org/news/20151004.html&gt;`_ if
+tarification system which satisfies both sides (see &lt;a class="reference external" href="https://lsaffre.github.io/saffre-rumma/welfare/"&gt;Lino Welfare&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lsaffre.github.io/saffre-rumma/posts/20151027/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://lsaffre.github.io/saffre-rumma/posts/20151027/</guid><pubDate>Tue, 27 Oct 2015 20:06:02 GMT</pubDate></item><item><title>Lino News #2 -- October 2015</title><link>https://lsaffre.github.io/saffre-rumma/posts/20151004/</link><dc:creator>Luc Saffre</dc:creator><description>&lt;div&gt;&lt;!-- (Click `here &lt;http://luc.lino-framework.org/news/20151004.html&gt;`_ if
 you prefer to read this mail in your browser.  You received it because
 I subscribed you to my low-traffic newsletter mailing list about the
 `Lino project &lt;http://lino-framework.org/&gt;`__.) --&gt;
@@ -78,7 +78,7 @@ month".  Now finally here is the second newsletter about Lino!&lt;/p&gt;
 &lt;p&gt;One reason for being late is that something important has happened:
 Lino found a second core developer.  Hamza from Tunisia started to
 contribute in september as a freelancer.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.saffre-rumma.net/posts/20151004/"&gt;Read more…&lt;/a&gt; (4 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://www.saffre-rumma.net/posts/20151004/</guid><pubDate>Sun, 04 Oct 2015 21:29:02 GMT</pubDate></item><item><title>Lino News #1 -- August 2015</title><link>http://www.saffre-rumma.net/posts/20150811/</link><dc:creator>Luc Saffre</dc:creator><description>&lt;div&gt;&lt;p&gt;Dear friends of Lino,&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lsaffre.github.io/saffre-rumma/posts/20151004/"&gt;Read more…&lt;/a&gt; (4 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://lsaffre.github.io/saffre-rumma/posts/20151004/</guid><pubDate>Sun, 04 Oct 2015 21:29:02 GMT</pubDate></item><item><title>Lino News #1 -- August 2015</title><link>https://lsaffre.github.io/saffre-rumma/posts/20150811/</link><dc:creator>Luc Saffre</dc:creator><description>&lt;div&gt;&lt;p&gt;Dear friends of Lino,&lt;/p&gt;
 &lt;!-- (click `here &lt;http://luc.lino-framework.org/news/20150811.html&gt;`_ if you
 prefer to read this mail in your browser.  You received it because I
 added you to this low-traffic newsletter mailing list about the `Lino
@@ -88,4 +88,4 @@ in a month about what's going on in the project.  About 20 software
 developers and 10 non-technical stakeholders in the world are reading
 this right now because they showed their interest in Lino during the
 last years. Not a huge number, but it's worth a newsletter.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.saffre-rumma.net/posts/20150811/"&gt;Read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>http://www.saffre-rumma.net/posts/20150811/</guid><pubDate>Tue, 11 Aug 2015 15:07:02 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://lsaffre.github.io/saffre-rumma/posts/20150811/"&gt;Read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://lsaffre.github.io/saffre-rumma/posts/20150811/</guid><pubDate>Tue, 11 Aug 2015 15:07:02 GMT</pubDate></item></channel></rss>

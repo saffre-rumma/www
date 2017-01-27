@@ -6,23 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://www.saffre-rumma.net/de/rss.xml</loc>
-  <lastmod>2017-01-27T13:40:00Z</lastmod>
+  <loc>https://lsaffre.github.io/saffre-rumma/de/rss.xml</loc>
+  <lastmod>2017-01-27T13:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.saffre-rumma.net/et/rss.xml</loc>
-  <lastmod>2017-01-27T13:40:00Z</lastmod>
+  <loc>https://lsaffre.github.io/saffre-rumma/et/rss.xml</loc>
+  <lastmod>2017-01-27T13:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.saffre-rumma.net/fr/rss.xml</loc>
-  <lastmod>2017-01-27T13:40:00Z</lastmod>
+  <loc>https://lsaffre.github.io/saffre-rumma/fr/rss.xml</loc>
+  <lastmod>2017-01-27T13:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.saffre-rumma.net/rss.xml</loc>
-  <lastmod>2017-01-27T13:40:00Z</lastmod>
+  <loc>https://lsaffre.github.io/saffre-rumma/rss.xml</loc>
+  <lastmod>2017-01-27T13:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.saffre-rumma.net/sitemap.xml</loc>
-  <lastmod>2017-01-27T13:50:00Z</lastmod>
+  <loc>https://lsaffre.github.io/saffre-rumma/sitemap.xml</loc>
+  <lastmod>2017-01-27T13:59:00Z</lastmod>
  </sitemap>
 </sitemapindex>
