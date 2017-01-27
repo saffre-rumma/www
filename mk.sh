@@ -2,4 +2,4 @@
 set -e  # exit on error
 . env/bin/activate
 nikola build
-nikola deploy
+nikola github_deploy
