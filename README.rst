@@ -26,8 +26,8 @@ Instructions:
 
   See `virtualenv --help` if needed.
 
-- Change your .rst files and deploy them 
+- Modify your :file:`.rst` files and deploy them::
 
     $ nikola github_deploy
 
-- Before deploying for the first time    
+  You need of course write permission to the repository.
