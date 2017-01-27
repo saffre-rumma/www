@@ -1,0 +1,94 @@
+.. title: Die Richtung stimmt
+.. date: 2015-12-09 05:40:02 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Liebe Benutzer von TIM und Lino,
+
+es wurde nochmal Zeit für einen Rundbrief.
+
+Seit drei Monaten arbeite ich jetzt nicht mehr alleine an `Lino
+<http://lino-framework.org/>`_, sondern zusammen mit meinem Assistenen
+**Hamza** in Tunesien.  Ich bin sehr zufrieden über den Lauf der
+Dinge. Im Notfall wäre dieser junge Mann schon jetzt durchaus fähig,
+mich zu ersetzen.  Man darf also behaupten, dass Linos `Bus-Faktor
+<https://de.wikipedia.org/wiki/Truck_Number>`_ von 1 auf 2 gestiegen
+ist (also es müssten inzwischen **zwei Leute** auf einmal von einem
+Bus überfahren werden, damit das Projekt stirbt).  Interessant finde
+ich auch den spirituellen Aspekt dieser Mannschaft: ein Christ und ein
+Muslim arbeiten gemeinsam an einem Projekt, dessen erster Nutznießer
+die belgischen ÖSHZ sind, die ja bekanntlich zur Zeit viel Arbeit
+haben mit den Folgen fundamentalistischer religiöser Konflikte.
+
+Aber Lino ist ja nicht nur für den Sozialdienst, sondern auch für die
+Privatwirtschaft. Auch hier kommen wir langsam auf die Zielgerade.
+:doc:`cosi` und :doc:`voga` sind so gut wie fertig, und ich suche
+jetzt einen `Anwendungsberater für den Raum Eupen
+<http://www.saffre-rumma.net/de/jobs/analyst/>`_.
+
+Überhaupt blicke ich zur Zeit optimistisch in die Zukunft. Mein
+**kurzfristiger** Plan ist, unser Team zunächst noch um *freiwillige*
+Helfer zu erweitern und weitere Leute einzustellen, sobald sich
+genügend zahlende Benutzer gefunden haben. **Langfristig** will ich
+auch unser Geschäftsmodell immer besser öffentlich dokumentieren und
+dafür sorgen, dass Rumma & Ko klein bleibt und sich eher teilt als
+unübersichtlich zu werden.
+
+Hier ein paar Zeitungsschnipsel und Fragmente, die meinen Optimismus
+bestärken.
+
+**Kein öffentliches Geld mehr für proprietäre Software** : ein
+utopisch anmutendes Ziel, aber die `FSFE <https://fsfe.org/>`_ wird in
+2016 verstärkt daran arbeiten, "dass **Software, die mit öffentlichen
+Geldern finanziert wurde, auch unter einer freien Lizenz zur Verfügung
+steht** – dies betrifft sowohl Kommunen, die Bundesregierung, die
+Europäische Kommission, aber auch Forschungseinrichtungen." (`Mathias
+Kirschner, Präsident der FSFE im `Interview mit Fabian Warislohner
+<https://netzpolitik.org/2015/netzrueckblick-interview-mit-matthias-kirschner-freie-software-im-jahr-2015/>`_)
+
+Oder hier: das Parlament der EU hat seine `Resolution zur
+elektronischen Massenüberwachung der Unionsbürger
+<http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+TA+P8-TA-2015-0388+0+DOC+PDF+V0//DE>`_
+aktualisiert, in der es "fordert, dass herstellereigene Software
+systematisch durch eine in allen EU-Organen einheitliche prüf- und
+verifizierbare quelloffene Software ersetzt wird, dass bei allen
+künftigen Vergabeverfahren im IKT-Bereich ein öffentlich zugänglicher
+Quellcode als verbindliches Auswahlkriterium eingeführt wird."  (via
+`European Parliament pushes for Free Software migration
+<https://fsfe.org/news/2015/news-20151110-01.en.html>`_)
+
+Es geht aber nicht nur um freie *Software*, sondern allgemein um freie
+*Informationen*. Auch da lernt die Menschheit langsam hinzu. `Selor
+<https://www.selor.be/fr/a-propos-de-selor/>`_ (die belgische
+Vermittlungsagentur des öffentlichen Dienstes) fördert die Verwendung
+von Mozillas `Open Badges
+<https://en.wikipedia.org/wiki/Mozilla_Open_Badges>`_, einem **offenen
+Standard zum Austausch von digitalen Informationen über berufliche
+Fähigkeiten**. Im November stellten sie ihr Projekt `Belgian Open
+Badges Meetup <http://www.meetup.com/fr/Belgian-Open-Badges-Meetup/>`_
+in die Öffentlichkeit. (Quelle: `joinup
+<https://joinup.ec.europa.eu/community/osor/news/belgian-hr-agency-promoting-use-open-badges?utm_source=newsletterOct15&utm_medium=email&utm_campaign=link>`_)
+
+Laut einer `Studie von Intuit
+<http://http-download.intuit.com/http.intuit/CMO/intuit/futureofsmallbusiness/intuit_2020_report.pdf>`_
+planen mehr als 80 Prozent der großen Korporationen, ihre Arbeit noch
+mehr durch **selbstständige Vertragnehmer** ausführen zu lassen.
+(Quelle: `The Advantages of Being a Contractor
+<http://sbinfocanada.about.com/od/startingadvice/ss/The-Advantages-of-Being-a-Contractor.htm>`_). Das
+ist eine erfreuliche Tendenz, weil es für Einheit in Vielfalt sorgt
+und ein friedliches Gleichgewicht zwischen großen und kleinen Akteuren
+ermöglicht.
+
+
+Alle diese Nachrichten deuten darauf hin, dass Lino in die **richtige
+Richtung** fährt.  Die Zukunft gehört denen, die gar nicht erst
+versuchen, Know-how als Privateigentum für sich zu behalten.  
+
+Ich wünsche weiterhin eine besinnliche Adventszeit in froher
+Anschauung des Religionsgründers, der Nächstenliebe, Teilen und
+Solidarität an erste Stelle setzte.
+
+Luc Saffre

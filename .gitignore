@@ -1,9 +1,0 @@
-*~
-*.pyc
-__pycache__
-env
-.doit.db
-cache
-output
-state_data.json
-
