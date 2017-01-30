@@ -13,21 +13,19 @@ Instructions:
     $ cd ~/repositories
     $ git clone git@github.com:saffre-rumma/www.git
   
-- Create a Python3 environment below your repository::
+- Install Nikola::
 
-    $ cd ~/repositories/www
-    $ virtualenv -p python3 env
-    
-  Activate it and install Nikola::
-    
-    $ . env/bin/activate
     $ pip install nikola
-    $ pip install ghp-import2
 
-  See `virtualenv --help` if needed.
+- Modify your :file:`.rst` files
+  
+- Build your local copy::    
 
-- Modify your :file:`.rst` files and deploy them::
+    $ inv bd
+    
+- Deploy your files::
 
-    $ nikola github_deploy
+    $ inv pd
 
-  You need of course write permission to the repository.
+  You need of course to configure atelier and write permission to the
+  repository.
