@@ -21,9 +21,9 @@ BLOG_AUTHOR = "Luc Saffre"  # (translatable)
 BLOG_TITLE = "Rumma & Ko"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-# SITE_URL = "http://www.saffre-rumma.net/"
+SITE_URL = "http://www.saffre-rumma.net/"
 # SITE_URL = "https://lsaffre.github.io/saffre-rumma/"
-SITE_URL = "https://saffre-rumma.github.io/www/"
+# SITE_URL = "https://saffre-rumma.github.io/www/"
 
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
@@ -621,12 +621,11 @@ REDIRECTIONS = []
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
 
-#username = 'lsaffre@85.222.235.211'
-# username = 'luc@lino-framework.org'
+# username = 'joe@example.com'
 # pth = '~/public_html/nikola/sr'
 # DEPLOY_COMMANDS = {
 #     'default': [
-#         # "rsync -rav --delete output/ joe@my.site:/srv/www/site",
+#         # "rsync -rav --delete output/ joe@example.com:/srv/www/site",
 #         "rsync -e ssh -rav --delete output/ {0}:{1}".format(username, pth),
 #     ]
 # }
@@ -1044,10 +1043,11 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
+
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
@@ -1246,3 +1246,5 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+
