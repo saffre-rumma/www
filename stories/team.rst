@@ -47,7 +47,7 @@ Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`__
    :align: left
 
 **Tanel Saimre** 
-|br| Luc's assistant in **Vigala** since January 2017.
+|br| Product manager since January 2017.
 
 |br| |br| |br| 
 
