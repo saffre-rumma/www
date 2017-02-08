@@ -6,38 +6,41 @@ Ce document décrit notre tarif principal pour :doc:`welfare` à
 destination des CPAS belges.  Il est publié à titre indicatif et ne
 remplace pas une offre individuelle.
 
-Notez la différence entre Rumma & Ko et AbAKUS. Pour Rumma & Ko chaque
-client représente un projet de développement individuel.  Nous
-attendons de nos clients une participation active à l'analyse et aux
-tests. Si vous préférez une version confort (plus stable mais moins
-adaptée), nous conseillons `AbAKUS it-solutions
-<http://www.abakusitsolutions.eu/>`__.
+Rumma & Ko est l’entreprise qui développe le progiciel Lino
+Welfare. `AbAKUS it-solutions <http://www.abakusitsolutions.eu/>`__
+est la société qui en assure la commercialisation.
+
+Les projets réalisés avec Rumma & Ko sont des projets de développement
+individuel associés à la mise en place de prototypes nécessitant une
+participation active des clients à l'analyse et aux tests.
+
+Les projets réalisés avec *AbAKUS it-solutions* le sont sur bases de
+produits.
 
 N'hésitez pas à nous :doc:`contacter <contact>` si vous êtes un
 candidat potentiel.  Nous vous aiderons à décider si Lino Welfare est
 ce qu'il vous faut et quel sera votre partenaire.
 
+..
+    Tarif principal
 
-Tarif principal
-===============
+    **Services de base** 
 
-**Services de base** 
+    - Hébergement_ à assurer par chaque CPAS
+    - `Installation`_ sur une machine virtuelle — **600€ /site**
+    - `Maintenance et support`_ — **6€/bénéficiaire/année** avec un minimum
+      de 600€
 
-- Hébergement_ à assurer par chaque CPAS
-- `Installation`_ sur une machine virtuelle — **600€ /site**
-- `Maintenance et support`_ — **6€/bénéficiaire/année** avec un minimum
-  de 600€
-                                                                      
-**Options**
+    **Options**
 
-- Import de données existantes — **Prix individuel**
-- Formation sur place — **480€	/jour** + hébergement ou déplacement depuis Eupen
-- Environnement de test  — **Prix individuel**
-- `Adaptations sur mesure`_ et développement de nouvelles fonctions
-  — **Prix individuel**
+    - Import de données existantes — **Prix individuel**
+    - Formation sur place — **480€	/jour** + hébergement ou déplacement depuis Eupen
+    - Environnement de test  — **Prix individuel**
+    - `Adaptations sur mesure`_ et développement de nouvelles fonctions
+      — **Prix individuel**
 
-Tous les prix s'entendent *hors TVA* et *indexés selon l'indice santé
-belge* avec base octobre 2015.
+    Tous les prix s'entendent *hors TVA* et *indexés selon l'indice santé
+    belge* avec base octobre 2015.
 
 
 
@@ -71,11 +74,8 @@ Le serveur doit répondre aux exigences suivantes:
   signera sur demande un **accord de non-divulgation**.
 
 
-Installation
-============
-
 Les travaux d'installation peuvent commencer dès que le serveur est
-disponible et que la côtisation pour la maintenance et le support est
+disponible et que la cotisation pour la maintenance et le support est
 réglée.
 
 Maintenance et support
@@ -89,14 +89,10 @@ questions concernant l'utilisation et le traîtement des problèmes
 besoins.
 
 Ce contrat est renouvelable annuellement des deux côtés.  Le montant
-de la côtisation annuelle est fonction du nombre de bénéficiaires de
+de la cotisation annuelle est fonction du nombre de bénéficiaires de
 la commune (chiffre officiel DIS + ERIS selon le ministère, cfr
 `www.mi-is.be
 <http://www.mi-is.be/be-fr/publications-etudes-et-statistiques/statistiques>`_).
-
-Si un besoin dépasse le cadre normal, nous ferons gratuitement une
-estimation pour `adaptations sur mesure`_ sans obligation d'achat.
-
 
 Adaptations sur mesure
 ======================
