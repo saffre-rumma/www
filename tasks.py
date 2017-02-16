@@ -8,5 +8,7 @@ cfg = dict()
 cfg.update(revision_control_system='git')
 cfg.update(doc_trees=[
     ("atelier.invlib.utils.NikolaTree", ".")])
-
+# cfg.update(
+#     docs_rsync_dest='luc@167.114.252.122:~/public_html/{prj}')
 ns.configure(cfg)
+
