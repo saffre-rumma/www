@@ -1,0 +1,40 @@
+.. title: February 2017
+.. slug: 20170222
+.. date: 2017-02-22 14:07:54 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Here is Luc's status report after three weeks with three employees
+working on Lino.
+
+**Tonis** is learning quickly. Of course understanding Lino is a lot
+of work, but already he brings his own ideas into Lino. For the moment
+he is working on the comments module.  Also he has more experience
+than I with Git branches, so it is he who gives me hands-on training.
+We are working on the CI workflow and try to improve the
+testing. Let's hope that Lino will soon be stable enough so that
+getting started is a painless experience for more future Lino hosters
+and application developers.
+
+**Tanel** is currently working for the Vilma project. The idea is to
+use our home village as a prototype user for a new variant of *Lino
+Care*. This work is more sociologic and administrative than technical:
+how should it work, how do people react to it and who is going to pay
+for it.  Let's hope that this project will become a beautiful success
+story about how Free Software makes this world better.
+
+**Luc's** work is getting more diverse.  Besides programming he now
+must meet with Tonis and Tanel and tell them what he expects them to
+do. And before telling them he must find it out himself.  With Hamza
+this was much less of a problem because he is a freelancer.  With this
+increased workload Luc is definitively not getting enough sleep. Lino
+cannot yet help with measuring sleeping time, but Luc estimates that
+he is currently running with 4 hours of sleep per day. That's clearly
+not enough.  Let's hope that this period doesn't last longer than his
+body is able to bear up.  Beyond all that he has more and more the
+feeling that it was the right decision to engage Tanel and Tonis.
+
+
