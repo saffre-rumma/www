@@ -16,11 +16,12 @@ which combines the powers of Django_ with those of ExtJS_.
 
 During the first decade we satisfied our customers with only one
 full-time developer. But our customers had more projects than a single
-person can deliver.  Since 2015 we employ a freelance assistant to
-help Luc with his job with Lino.
+person can deliver.  Since 2015 we employ a freelance assistant in
+Douz (Tunisia) to help Luc with his job with Lino. Since 2017 we
+employ another full-time developer in Tallinn (Estonia).
 
 We believe that Lino and our business model have a future that goes
-beyond the career of a single developer.  Our strategy is to follow a
+beyond the career of a few developers.  Our strategy is to follow a
 gentle and sustainable way, making Lino grow into a community project.
 
 
