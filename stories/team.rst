@@ -42,12 +42,22 @@ Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`__
 
 |br| |br| |br| 
 
+.. image:: /images/tonis.jpg
+   :width: 80px
+   :align: left
+
+**Tonis Piip** 
+|br| Developer and consultant in **Tallinn**
+works for us since February 2017.
+
+|br| |br| |br| 
+
 .. image:: /images/tanel.jpg
    :width: 80px
    :align: left
 
 **Tanel Saimre** 
-|br| Product manager since January 2017.
+|br| Product manager and Luc's assistant in **Vigala** since January 2017.
 
 |br| |br| |br| 
 
