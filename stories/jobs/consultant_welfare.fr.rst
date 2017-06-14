@@ -20,7 +20,7 @@ Nous cherchons une personne
 
 **Conditions génerales**
 
-- Dans une première phase nous attendons un engagement volontaire
+- Dans une première phase nous attendons un engagement bénévole.
 
 - Une bonne connaissance de l'anglais serait un avantage.
 
