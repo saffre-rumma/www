@@ -27,6 +27,7 @@ their own money.
 
 **Short-term**
 
+- :doc:`consultant_welfare`
 - :doc:`admin`
 - :doc:`coredev`
 - :doc:`analyst`
