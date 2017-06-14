@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>The Lino framework &mdash; Lino</title>
+    
+    <link rel="stylesheet" href="_static/basic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/styles.css" type="text/css" />
+    <link rel="stylesheet" href="_static/single.css" type="text/css" />
+    
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '2017.05.22',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/common.js"></script>
+    
+    <script type="text/javascript" src="_static/slides.js"></script>
+    <script type="text/javascript" src="_static/sync.js"></script>
+    <script type="text/javascript" src="_static/controller.js"></script>
+    <script type="text/javascript" src="_static/init.js"></script>
+    
+    
+    <link rel="top" title="Lino" href="#" /> 
+  </head>
+  <body>
+
+<section
+   id="slide_container"
+   class='slides layout-regular'>
+
+
+  
+<article class="slide level-1" id="the-lino-framework">
+
+<h1>The Lino framework</h1>
+
+<p>A free framework for writing database applications</p>
+<div class="figure">
+<a class="reference internal image-reference" href="_images/logo_web3.png"><img alt="_images/logo_web3.png" src="_images/logo_web3.png" style="height: 150px;" /></a>
+</div>
+
+
+
+<div class="slide-no">1</div>
+
+
+</article>
+<article class="slide level-2" id="what-is-lino">
+
+<h2>What is Lino</h2>
+
+<ul class="build simple">
+<li>Lino is a high-level <strong>framework</strong> for writing <strong>customized database
+applications</strong>.</li>
+<li>More than MS-Access for cheaper than SAP</li>
+<li>Lino is written in <strong>Python</strong> and <strong>JavaScript</strong>, based on Django
+and Sencha ExtJS.</li>
+<li>Lino is <strong>free software</strong>.</li>
+<li>Lino is <strong>slowly</strong> growing from a one-man project into an
+international community.</li>
+</ul>
+
+
+
+<div class="slide-no">2</div>
+
+
+</article>
+<article class="slide level-2" id="for-whom">
+
+<h2>For whom</h2>
+
+<ul class="build simple">
+<li>Primary <strong>target users</strong> of Lino applications are organizations and
+companies who need a customized database application.</li>
+<li>Lino as a framework is designed to be used by <strong>professional
+developers</strong> who write and maintain a database application for their
+employer or for their customers.</li>
+<li>A small but growing collection of existing Lino applications is to
+be used by <strong>hosting providers</strong> who offer professional hosting of
+one of these applications.</li>
+</ul>
+
+
+
+<div class="slide-no">3</div>
+
+
+</article>
+<article class="slide level-2" id="rumma-ko-ou">
+
+<h2>Rumma &amp; Ko OÜ</h2>
+
+<ul class="build simple">
+<li>Exists because Luc moved to Estonia.</li>
+<li>Small and successful since 2001.</li>
+<li>We do development, maintenance and end-user support of free
+customized database applications.</li>
+<li>Since 2009 we are investing most of our energy into&nbsp;Lino.</li>
+</ul>
+
+
+
+<div class="slide-no">4</div>
+
+
+</article>
+<article class="slide level-2" id="growing-slowly">
+
+<h2>Growing slowly</h2>
+
+<ul class="build simple">
+<li>During the first decade we satisfied our customers with only one
+full-time developer.</li>
+<li>But our customers had more projects than a single person can deliver.</li>
+<li>Only in 2015 we started to build our own team. At the same time we
+continue our search for partners.</li>
+</ul>
+
+
+
+<div class="slide-no">5</div>
+
+
+</article>
+<article class="slide level-2" id="years">
+
+<h2>15 years</h2>
+
+<div class="figure">
+<a class="reference internal image-reference" href="_images/15years.png"><img alt="_images/15years.png" src="_images/15years.png" style="width: 900px;" /></a>
+</div>
+
+
+
+<div class="slide-no">6</div>
+
+
+</article>
+<article class="slide level-2" id="mastering-a-complex-database">
+
+<h2>Mastering a complex database</h2>
+
+<p>Typical Lino applications have a rather complex database structure.</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="24%" />
+<col width="17%" />
+<col width="31%" />
+<col width="9%" />
+<col width="19%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Application</th>
+<th class="head">Plugins</th>
+<th class="head">Database tables</th>
+<th class="head">Views</th>
+<th class="head">User types</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>Lino Welfare</td>
+<td>63</td>
+<td>139</td>
+<td>535</td>
+<td>15</td>
+</tr>
+<tr class="row-odd"><td>Lino Avanti</td>
+<td>36</td>
+<td>74</td>
+<td>271</td>
+<td>4</td>
+</tr>
+<tr class="row-even"><td>Lino Noi</td>
+<td>32</td>
+<td>44</td>
+<td>239</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+
+
+<div class="slide-no">7</div>
+
+
+</article>
+<article class="slide level-2" id="lino-welfare">
+
+<h2>Lino Welfare</h2>
+
+<ul class="build simple">
+<li>Lino Welfare is used as a central administrative tool for PCSWs
+(Public Centres for Social Welfare) in Belgium.</li>
+<li>A PCSW is a public agency in every city where inhabitants can apply
+for social help.</li>
+<li>About 60 users in 2 production sites</li>
+<li>Functions : clients, calendar, reception, workshops, job supplyment,
+contracts with employers, debts mediation, …</li>
+</ul>
+
+
+
+<div class="slide-no">8</div>
+
+
+</article>
+<article class="slide level-2" id="lino-avanti">
+
+<h2>Lino Avanti</h2>
+
+<ul class="build simple">
+<li>Lino Avanti is used by social workers in East Belgium for helping
+immigrants with their “integration course”.</li>
+<li>The integration course is a Belgian administrative procedure
+consisting in an individual mentoring and a series of courses,
+with the goal of helping new residents to acquire the base
+knowledge about society and social relations in Belgium in order to
+ease their integration on the territory.</li>
+<li>developed by order of the Ministery of the German-speaking Community
+of Belgium (Ministerium der Deutschsprachigen Gemeinschaft).</li>
+<li>About 4 main users
++ external course providers</li>
+</ul>
+
+
+
+<div class="slide-no">9</div>
+
+
+</article>
+<article class="slide level-2" id="lino-voga">
+
+<h2>Lino Voga</h2>
+
+<ul class="build simple">
+<li>Lino Voga for managing courses, participants and meeting rooms.</li>
+<li>3 main users (Monique, Gaby, Roger)
++ 5 occasional administrative assistants
++ 20 teachers (planned)</li>
+</ul>
+
+
+
+<div class="slide-no">10</div>
+
+
+</article>
+<article class="slide level-2" id="lino-noi">
+
+<h2>Lino Noi</h2>
+
+<ul class="build simple">
+<li>Lino Noi is the ticket management and time tracking system used by the
+Lino team.</li>
+<li>Eat your own dog food</li>
+<li>3 active workers, a few users and other collaborators</li>
+</ul>
+
+
+
+<div class="slide-no">11</div>
+
+
+</article>
+<article class="slide level-2" id="why-free-software">
+
+<h2>Why free software</h2>
+
+<ul class="build simple">
+<li>Proprietary software developers try to avoid sharing their knowledge
+because they consider it their private property.</li>
+<li>Free software developers work differently because they have other
+priorities.</li>
+<li>Many frameworks are designed for usage by proprietary developers and
+their customers.</li>
+</ul>
+
+
+
+<div class="slide-no">12</div>
+
+
+</article>
+<article class="slide level-2" id="a-personal-choice">
+
+<h2>A personal choice</h2>
+
+<ul class="build simple">
+<li>I believe that software must be free because the more our everyday
+lives depend on computers, the more it is important to decide who
+controls these computers.</li>
+<li>Many companies and organizations ignore the important role of
+software for their long-term success.</li>
+<li>I refuse to invest my time into proprietary knowledge because I
+believe that the situation is alarming.</li>
+</ul>
+
+
+
+<div class="slide-no">13</div>
+
+
+</article>
+<article class="slide level-2" id="the-dependence-on-microsoft">
+
+<h2>The dependence on Microsoft</h2>
+
+<ul class="build simple">
+<li>causes costs to rise continuously, and blocks technical progress in
+government organisations;</li>
+<li>systematically undermines European procurement and competition laws;</li>
+<li>gives Microsoft overwhelming political influence, culminating in
+personal interdependence as well as penetration of schools and
+universities; and</li>
+<li>puts government IT systems, together with their citizens’ personal
+information, at high risk both technologically and politically.</li>
+<li>(Source: <a class="reference external" href="http://www.investigate-europe.eu/en/new-investigation-europes-dire-dependency-on-microsoft/">Investigate Europe</a>)</li>
+</ul>
+
+
+
+<div class="slide-no">14</div>
+
+
+</article>
+<article class="slide level-2" id="who-makes-money-with-lino">
+
+<h2>Who makes money with Lino</h2>
+
+<ul class="build simple">
+<li>Rumma &amp; Ko (Estonia) is currently the main developer and hosting
+provider.</li>
+<li>DigitalServices (Tunisia) works as freelancer for Rumma &amp; Ko</li>
+<li>AbAKUS it solutions (Belgium) provides professional hosting to Lino users</li>
+<li>WPJ s.r.o. (Czechia) develops and maintains inhouse Lino
+applications</li>
+</ul>
+
+
+
+<div class="slide-no">15</div>
+
+
+</article>
+<article class="slide level-2" id="design-goals">
+
+<h2>Design goals</h2>
+
+<ul class="build simple">
+<li>Lino applications are intuitive and easy to understand for the end user.</li>
+<li>Lino applications are easy to maintain because the framework encourages sustainable application development.</li>
+</ul>
+
+
+
+<div class="slide-no">16</div>
+
+
+</article>
+<article class="slide level-2" id="wish-list">
+
+<h2>Wish list</h2>
+
+<ul class="build simple">
+<li>Low-cost mass deployment for Voga or Noi. We are looking for
+somebody who wants to run that business.</li>
+<li>Lino applications are not yet mobile friendly. We are working on it.</li>
+<li>Lino is not yet well documented. It is a young framework with a
+small community. But our community is growing and we are working on
+it.</li>
+</ul>
+
+
+
+<div class="slide-no">17</div>
+
+
+</article>
+<article class="slide level-2" id="limitations">
+
+<h2>Limitations</h2>
+
+<p class="build">Lino is not for you, if...</p>
+<ul class="simple">
+<li>you just want a cheap, quick and dirty website with dynamic content</li>
+<li>you don’t want to spend your time into developing or optimizing your
+application</li>
+<li>you want a cool website featuring the latest web technologies</li>
+<li>you don’t plan to maintain your application over a longer period</li>
+</ul>
+
+
+
+<div class="slide-no">18</div>
+
+
+</article>
+<article class="slide level-2" id="not-sexy">
+
+<h2>Not sexy</h2>
+
+<ul class="build simple">
+<li>Lino applications don’t try to be “sexy”.</li>
+<li>They are optimized for people who get a few hours of training before
+they start using it and who will use it for their everyday work.</li>
+<li>With Lino it takes a few hours before an end user starts loving it,
+but that love is deeper and last longer.</li>
+</ul>
+
+
+
+<div class="slide-no">19</div>
+
+
+</article>
+<article class="slide level-2" id="good-enough">
+
+<h2>Good enough</h2>
+
+<ul class="build simple">
+<li>The Lino user interface is just <em>good enough</em> and not more.</li>
+<li>“good enough is not enough” is a true vocation for some people,</li>
+<li>but these people are not the majority</li>
+<li>we should stop making the masses believe that they need more than
+“good enough”.</li>
+</ul>
+
+
+
+<div class="slide-no">20</div>
+
+
+</article>
+<article class="slide level-2" id="about-beauty">
+
+<h2>About beauty</h2>
+
+<ul class="build simple">
+<li>Lino is a programming library, not a user interface.</li>
+<li>The beauty of Lino lies beyond the first impression.</li>
+<li>End-users love Lino because it does what they want it to do.</li>
+<li>Developers love Lino because it is powerful.</li>
+</ul>
+
+
+
+<div class="slide-no">21</div>
+
+
+</article>
+<article class="slide level-2" id="a-powerful-expert-tool">
+
+<h2>A powerful expert tool</h2>
+
+<ul class="build simple">
+<li>Lino as a framework does not even try to be easy to learn.</li>
+<li>The Lino framework is too complex for occasional usage.</li>
+<li>There are other frameworks who can deliver quick visible results.</li>
+<li>This is a <strong>design choice</strong>, not a limitation.</li>
+<li>You need an experienced Python developer for creating new Lino
+applications.</li>
+</ul>
+
+
+
+<div class="slide-no">22</div>
+
+
+</article>
+<article class="slide level-2" id="a-big-beast">
+
+<h2>A big beast</h2>
+
+<ul class="build simple">
+<li>Lino is a big beast to tackle for a developer</li>
+<li>(comparend to plain Django or similar frameworks)</li>
+<li>Because it has rather high-level UI concepts:</li>
+<li>tables, forms, slave tables, menus, actions, virtual fields...</li>
+</ul>
+
+
+
+<div class="slide-no">23</div>
+
+
+</article>
+<article class="slide level-2" id="for-the-stakeholder">
+
+<h2>For the stakeholder</h2>
+
+<ul class="build simple">
+<li>For a stakeholder this means that you need an experienced Python
+developer for creating new Lino applications.</li>
+<li>Yes, such people tend to be expensive these days</li>
+<li>Python was second after Java in 2016, according to Highest Paying
+Programming Languages In 2016</li>
+</ul>
+
+
+
+<div class="slide-no">24</div>
+
+
+</article>
+<article class="slide level-2" id="lino-vs-plain-django">
+
+<h2>Lino vs. plain Django</h2>
+
+<ul class="build simple">
+<li>The difference with plain Django projects is that Lino applications
+have an out-of-the box user interface.</li>
+<li>Advantages: everything gets much easier:</li>
+<li>writing a prototype, changing database structures and business logic;</li>
+<li>long-term maintenance and documentation.</li>
+<li>Disadvantage: you are limited to applications that fit into this
+out-of-the box user interface.</li>
+</ul>
+
+
+
+<div class="slide-no">25</div>
+
+
+</article>
+<article class="slide level-2" id="think-in-python">
+
+<h2>Think in Python</h2>
+
+<ul class="build simple">
+<li>When using Lino as a developer, you should understand a fundamental
+design choice of the Lino framework: Lino requires you to think in
+Python.</li>
+<li>We believe that database structure, screen layouts and business
+logic should be written in plain Python, and not in some additional
+text file format like XML, or using a visual GUI editor.</li>
+<li>Yes, this requires you to know Python before you can see a result.</li>
+<li>The advantage is better maintainability and re-usability.</li>
+<li>This choice is important when it comes to maintaining complex
+database applications in a sustainable way.</li>
+</ul>
+
+
+
+<div class="slide-no">26</div>
+
+
+</article>
+<article class="slide level-2" id="sustainable-software-development">
+
+<h2>Sustainable software development</h2>
+
+<ul class="build simple">
+<li>agile programming and rapid prototyping</li>
+<li>short release cycles</li>
+<li>libraries of reusable code</li>
+<li>extensive unit testing</li>
+<li>use open standards</li>
+</ul>
+
+
+
+<div class="slide-no">27</div>
+
+
+</article>
+<article class="slide level-2" id="search-for-partners">
+
+<h2>Search for partners</h2>
+
+<ul class="build simple">
+<li>IMIO (July 2012 - April 2013)</li>
+<li>CodeGears (mylino.org)</li>
+<li>Alexa (February 2016)</li>
+<li>July 2016 -- Search for independent hosters</li>
+<li>Jüri (September 2016)</li>
+<li>Abakus (September 2016)</li>
+</ul>
+
+
+
+<div class="slide-no">28</div>
+
+
+</article>
+<article class="slide level-2" id="search-for-developers">
+
+<h2>Search for developers</h2>
+
+<ul class="build simple">
+<li>Joe (Sept 2013)</li>
+<li>Manuel (Feb 2014)</li>
+<li>Hamza (Sept 2015-)</li>
+<li>Rauno (October 2016)</li>
+<li>Tanel (January-April 2017)</li>
+<li>Tonis (Feb 2017-)</li>
+</ul>
+
+
+
+<div class="slide-no">29</div>
+
+
+</article>
+<article class="slide level-2" id="the-future">
+
+<h2>The future?</h2>
+
+<ul class="build simple">
+<li>We believe that Lino and our business model have a future that goes
+beyond the career of a few developers.</li>
+<li>Our strategy is to follow a gentle and sustainable way, making Lino
+grow into a community project.</li>
+</ul>
+
+
+
+<div class="slide-no">30</div>
+
+
+</article>
+
+</section>
+
+<section id="slide_notes">
+
+</section>
+
+  </body>
+</html>

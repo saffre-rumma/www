@@ -1,0 +1,446 @@
+
+.. Lino slides file, created by
+   hieroglyph-quickstart on Mon May 22 11:19:31 2017.
+
+
+==================
+The Lino framework
+==================
+
+A free framework for writing database applications
+
+.. figure:: logo_web3.png
+    :height: 150
+
+
+What is Lino
+============
+
+.. rst-class:: build
+
+- Lino is a high-level **framework** for writing **customized database
+  applications**.
+  
+- More than MS-Access for cheaper than SAP
+
+- Lino is written in **Python** and **JavaScript**, based on Django
+  and Sencha ExtJS.
+
+- Lino is **free software**.
+
+- Lino is **slowly** growing from a one-man project into an
+  international community.
+
+
+For whom
+========
+
+.. rst-class:: build
+ 
+- Primary **target users** of Lino applications are organizations and
+  companies who need a customized database application.
+  
+- Lino as a framework is designed to be used by **professional
+  developers** who write and maintain a database application for their
+  employer or for their customers.
+  
+- A small but growing collection of existing Lino applications is to
+  be used by **hosting providers** who offer professional hosting of
+  one of these applications.
+  
+
+Rumma & Ko OÜ
+=============
+
+.. rst-class:: build
+               
+- Exists because Luc moved to Estonia.
+- Small and successful since 2001.
+
+- We do development, maintenance and end-user support of free
+  customized database applications.
+  
+- Since 2009 we are investing most of our energy into Lino.
+  
+Growing slowly
+==============
+
+.. rst-class:: build
+               
+- During the first decade we satisfied our customers with only one
+  full-time developer.
+
+- But our customers had more projects than a single person can deliver.
+
+- Only in 2015 we started to build our own team. At the same time we
+  continue our search for partners.
+  
+  
+15 years
+========
+
+.. figure:: 15years.png
+    :width: 900
+
+  
+  
+Mastering a complex database
+============================
+
+Typical Lino applications have a rather complex database structure.
+
+============= ========= ================= ===== ==========
+Application   Plugins   Database tables   Views User types
+============= ========= ================= ===== ==========
+Lino Welfare  63        139               535   15
+Lino Avanti   36        74                271   4
+Lino Noi      32        44                239   4
+============= ========= ================= ===== ==========
+
+
+
+Lino Welfare
+============
+
+.. rst-class:: build
+  
+
+- Lino Welfare is used as a central administrative tool for PCSWs
+  (Public Centres for Social Welfare) in Belgium.
+  
+- A PCSW is a public agency in every city where inhabitants can apply
+  for social help.
+  
+- About 60 users in 2 production sites
+  
+- Functions : clients, calendar, reception, workshops, job supplyment,
+  contracts with employers, debts mediation, …
+  
+Lino Avanti
+===========
+
+.. rst-class:: build
+  
+- Lino Avanti is used by social workers in East Belgium for helping
+  immigrants with their “integration course”.
+  
+- The integration course is a Belgian administrative procedure
+  consisting in an individual mentoring and a series of courses,
+  with the goal of helping new residents to acquire the base
+  knowledge about society and social relations in Belgium in order to
+  ease their integration on the territory.
+  
+- developed by order of the Ministery of the German-speaking Community
+  of Belgium (Ministerium der Deutschsprachigen Gemeinschaft).
+  
+- About 4 main users
+  + external course providers
+  
+Lino Voga
+=========
+
+.. rst-class:: build
+               
+- Lino Voga for managing courses, participants and meeting rooms.
+  
+- 3 main users (Monique, Gaby, Roger) 
+  + 5 occasional administrative assistants 
+  + 20 teachers (planned)
+    
+Lino Noi
+========
+
+.. rst-class:: build
+               
+- Lino Noi is the ticket management and time tracking system used by the
+  Lino team.
+
+- Eat your own dog food
+  
+- 3 active workers, a few users and other collaborators
+  
+  
+Why free software
+=================
+
+.. rst-class:: build
+
+- Proprietary software developers try to avoid sharing their knowledge
+  because they consider it their private property.
+
+- Free software developers work differently because they have other
+  priorities.
+
+- Many frameworks are designed for usage by proprietary developers and
+  their customers.
+  
+
+A personal choice
+=================
+
+.. rst-class:: build
+  
+
+- I believe that software must be free because the more our everyday
+  lives depend on computers, the more it is important to decide who
+  controls these computers.
+
+- Many companies and organizations ignore the important role of
+  software for their long-term success.
+
+- I refuse to invest my time into proprietary knowledge because I
+  believe that the situation is alarming.
+  
+The dependence on Microsoft
+===========================
+  
+.. rst-class:: build
+  
+- causes costs to rise continuously, and blocks technical progress in
+  government organisations;
+  
+- systematically undermines European procurement and competition laws;
+  
+- gives Microsoft overwhelming political influence, culminating in
+  personal interdependence as well as penetration of schools and
+  universities; and
+  
+- puts government IT systems, together with their citizens’ personal
+  information, at high risk both technologically and politically.
+  
+- (Source: `Investigate Europe
+  <http://www.investigate-europe.eu/en/new-investigation-europes-dire-dependency-on-microsoft/>`__)
+
+
+Who makes money with Lino
+=========================
+
+.. rst-class:: build
+               
+- Rumma & Ko (Estonia) is currently the main developer and hosting
+  provider.
+  
+- DigitalServices (Tunisia) works as freelancer for Rumma & Ko
+  
+- AbAKUS it solutions (Belgium) provides professional hosting to Lino users
+  
+- WPJ s.r.o. (Czechia) develops and maintains inhouse Lino
+  applications
+  
+Design goals
+============
+
+.. rst-class:: build
+               
+- Lino applications are intuitive and easy to understand for the end user.
+  
+- Lino applications are easy to maintain because the framework encourages sustainable application development.
+  
+Wish list
+=========
+
+.. rst-class:: build
+               
+- Low-cost mass deployment for Voga or Noi. We are looking for
+  somebody who wants to run that business.
+  
+- Lino applications are not yet mobile friendly. We are working on it.
+  
+- Lino is not yet well documented. It is a young framework with a
+  small community. But our community is growing and we are working on
+  it.
+  
+Limitations
+===========
+
+.. rst-class:: build
+               
+Lino is not for you, if...
+
+- you just want a cheap, quick and dirty website with dynamic content
+  
+- you don’t want to spend your time into developing or optimizing your
+  application
+  
+- you want a cool website featuring the latest web technologies
+  
+- you don’t plan to maintain your application over a longer period
+
+Not sexy
+========
+
+.. rst-class:: build
+               
+- Lino applications don’t try to be “sexy”.
+
+- They are optimized for people who get a few hours of training before
+  they start using it and who will use it for their everyday work.
+
+- With Lino it takes a few hours before an end user starts loving it,
+  but that love is deeper and last longer.
+
+Good enough
+===========
+
+.. rst-class:: build
+               
+- The Lino user interface is just *good enough* and not more.
+
+- “good enough is not enough” is a true vocation for some people,
+
+- but these people are not the majority
+
+- we should stop making the masses believe that they need more than
+  “good enough”.
+
+
+About beauty
+============
+
+.. rst-class:: build
+               
+- Lino is a programming library, not a user interface.
+
+- The beauty of Lino lies beyond the first impression.
+
+- End-users love Lino because it does what they want it to do.
+
+- Developers love Lino because it is powerful.
+  
+
+A powerful expert tool
+======================
+
+.. rst-class:: build
+               
+- Lino as a framework does not even try to be easy to learn.
+  
+- The Lino framework is too complex for occasional usage.
+
+- There are other frameworks who can deliver quick visible results.
+
+- This is a **design choice**, not a limitation.
+  
+- You need an experienced Python developer for creating new Lino
+  applications.
+
+A big beast
+===========
+  
+.. rst-class:: build
+               
+
+.. Note that using a Lino application is easy and intuitive (or at
+   least it should be… this depends on the competence of the
+   developers and their communication with the users). Note also that
+   writing and maintaining Lino applications is actually easy once you
+   learned it. We just speak about learning to write new Lino
+   applications.
+
+- Lino is a big beast to tackle for a developer
+  
+- (comparend to plain Django or similar frameworks)
+  
+- Because it has rather high-level UI concepts:
+
+- tables, forms, slave tables, menus, actions, virtual fields...
+
+For the stakeholder
+===================
+
+.. rst-class:: build
+               
+- For a stakeholder this means that you need an experienced Python
+  developer for creating new Lino applications.
+
+- Yes, such people tend to be expensive these days
+
+- Python was second after Java in 2016, according to Highest Paying
+  Programming Languages In 2016
+
+
+Lino vs. plain Django
+=====================
+
+.. rst-class:: build
+
+- The difference with plain Django projects is that Lino applications
+  have an out-of-the box user interface.
+
+- Advantages: everything gets much easier:
+  
+- writing a prototype, changing database structures and business logic;
+
+- long-term maintenance and documentation.
+
+- Disadvantage: you are limited to applications that fit into this
+  out-of-the box user interface.
+
+Think in Python
+===============
+
+.. rst-class:: build
+               
+- When using Lino as a developer, you should understand a fundamental
+  design choice of the Lino framework: Lino requires you to think in
+  Python.
+
+- We believe that database structure, screen layouts and business
+  logic should be written in plain Python, and not in some additional
+  text file format like XML, or using a visual GUI editor.
+
+- Yes, this requires you to know Python before you can see a result.
+
+- The advantage is better maintainability and re-usability.
+
+- This choice is important when it comes to maintaining complex
+  database applications in a sustainable way.
+
+Sustainable software development
+================================
+
+.. rst-class:: build
+               
+- agile programming and rapid prototyping
+- short release cycles
+- libraries of reusable code
+- extensive unit testing
+- use open standards
+
+Search for partners
+===================
+
+.. rst-class:: build
+               
+- IMIO (July 2012 - April 2013)
+- CodeGears (mylino.org)
+- Alexa (February 2016)
+- July 2016 -- Search for independent hosters
+- Jüri (September 2016)
+- Abakus (September 2016)
+  
+Search for developers
+=====================
+
+.. rst-class:: build
+               
+- Joe (Sept 2013)
+- Manuel (Feb 2014)
+- Hamza (Sept 2015-)
+- Rauno (October 2016)
+- Tanel (January-April 2017)
+- Tonis (Feb 2017-)
+
+
+The future?
+==============
+
+.. rst-class:: build
+               
+- We believe that Lino and our business model have a future that goes
+  beyond the career of a few developers.
+
+- Our strategy is to follow a gentle and sustainable way, making Lino
+  grow into a community project.
+
+  
