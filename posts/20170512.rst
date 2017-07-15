@@ -1,0 +1,50 @@
+.. title: Looking back at the "Tanel" project
+.. slug: 20170512
+.. date: 2017-05-12 14:07:54 UTC+02:00
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Looking back at the "Tanel" project
+===================================
+
+Rumma & Ko is sad to announce that we stopped our employment contract
+with Tanel. He was employed at Rumma & Ko from January to
+April 2017. Only four months. We had been hoping for a much longer
+period.
+
+The idea of engaging Tanel had been very intuitive. His immediate
+advantage was that he lives in the same village as I do. After my
+first meeting with him I felt "Yes, I want this guy as my local
+assistent".  I had no clear idea about what he was concretely going to
+do, but we were both confident that he would find himself his place in
+the Lino project.  He is a talented and intelligent young man with a
+wide view at this world.
+
+After a few experimental weeks we found the Vilma project to be ideal
+for him. This project is probably a great idea, and we will maybe
+continue to work on this project together. But we also realized that
+it would not be easy to make money with that project.
+
+Thanks to Tanel I realized that Lino is not yet interesting enough for
+stakeholders who think big.  Hamza, Tonis and I believe in Lino
+because we are *developers* and see its inner beauty.  Many Lino
+*users* believe in Lino because they are using it every day and they
+feel that database design is more important than web design for their
+work.  But *deciders* look at software from the outside and judge it
+by the user interface and the documentation.  Actually Lino *does*
+need somebody like Tanel who helps us with managing and promoting the
+Lino project.  But for the moment that guy obviously needs to live in
+Belgium and speak both German and French.
+
+I also learned that the Estonian market is not yet interesting for
+Lino. There is more than enough work for us with our Belgian
+customers, we simply have no human resources for starting promotional
+low-budget projects in Estonia.
+
+As a summary we are grateful for these four months of enriching
+relationship with Tanel who will continue to support the Lino project
+as a volunteer.  He is a guy who thinks big. I can recommend him as a
+product manager of a medium-sized company or organization.  And maybe
+he will even return back to our team as Lino gets bigger.

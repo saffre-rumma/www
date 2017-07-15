@@ -1,0 +1,26 @@
+.. title: AbAKUS als Lino Hosting provider
+.. date: 2017-03-17 14:07:54 UTC+02:00
+.. slug: 20170317
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+AbAKUS als Lino Hosting provider
+================================
+
+Nachdem ich zwei Monate lang mit dem Gedanken gelebt habe,
+Lino-Hosting selber anzubieten, gibt es jetzt die erfreuliche
+Neuigkeit, dass AbAKUS das Hosting doch anbieten werden.  AbAKUS sind
+somit der erste `Lino Hosting Provider
+<http://lino-framework.org/community/hosters.html>`__, der auch aktiv
+mitmacht.
+
+Für Lino ist das wachstumsfördernd, für mich eine Belastung weniger,
+und für die Endbenutzer eine Sicherheit mehr, weil sie das Hosting
+dadurch nicht einem Anfänger anzuvertrauen brauchen.
+
+Knackpunkt für Abakus war die Tatsache, dass jedes gehostete Produkt
+ja doch auch ein Minimum an Know-How verlangt. Das haben sie jetzt,
+und ich kann das bestätigen.
+
