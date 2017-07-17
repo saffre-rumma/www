@@ -16,11 +16,14 @@ We have around 20 satisfied customers being handled by only three core
 developers.  Our team is doing a great job with Lino, but our
 customers have more projects than we can deliver.
 
-We believe that Lino and our marketing model have a future that goes
-beyond the career of a few developers.  Our strategy is to follow a
-**gentle, organic and sustainable** way for developing our competence
-in helping our customers to use Lino and other free software.  Besides
-engaging people ourselves, we also provide free **mentoring** and
+We believe that Lino and our business model have a future that goes
+beyond the career of a few developers.
+Our mission is to provide professional **competence**
+in helping our customers to use Lino and other free software.
+Our strategy is to follow a
+**gentle, organic and sustainable** way of growing.
+We grow because *Lino* grows, not because *we* want to be big.
+Besides engaging people ourselves, we also provide free **mentoring** and
 encourage independent actors to learn Lino and use it to make their
 own money.
 
