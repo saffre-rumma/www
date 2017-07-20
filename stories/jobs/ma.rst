@@ -14,7 +14,7 @@ But Lino is growing, and the more it grows, the more we need somebody who does t
 - feel well with authoring PR texts
 - have experience with managing information systems in general and
   database applications in particular
-- understand why software must be free and can explain shat choice to
+- understand why software must be free and can explain that choice to
   others
 
 **Your duties**
