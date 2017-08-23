@@ -1,28 +1,31 @@
 ========================
-Lino marketing assistant
+Lino Marketing Assistant
 ========================
 
-Luc loves talking about Lino, but he is not a fighter.
-He has never been a good salesman.
-He has no talent for convincing distrustful people why they should trust in Lino.
-We never needed to fight as long as Lino was small.
-But Lino is growing, and the more it grows, the more we need somebody who does that job.
+Until now we never needed to sell Lino because
+it was being used in small organisations where trust
+works on human level.
+But more and more medium-sized organisations want to use Lino.
+Having bigger customers requires additional work for
+marketing, promotion and sales.
+Lino needs somebody who does that job.
  
-**You**
+**Requirements**
 
-- love explaining to others why they should choose your product
-- feel well with authoring PR texts
-- have experience with managing information systems in general and
-  database applications in particular
-- understand why software must be free and can explain that choice to
-  others
+- You love explaining to others why they should choose your product.
+- You feel well with authoring PR texts.
+- You have experience with managing information systems in general and
+  database applications in particular.
+- You understand why software must be free and can explain that choice to
+  others.
 
 **Your duties**
 
+- talk with potential new customers and partners
 - write regular newsletters about Lino and free software
 - review the *lino-framework.org* and *saffre-rumma.net* websites,
   write content where necessary
-- talk with potential new customers
+- describe workflow processes and requirements for our development team
 - help us with deciding what's important
 
 

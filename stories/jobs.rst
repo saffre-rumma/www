@@ -14,10 +14,10 @@ the Lino community.
 
 We have around 20 satisfied customers being handled by only three core
 developers.  Our team is doing a great job with Lino, but our
-customers have more projects than we can deliver.
-
-We believe that Lino and our business model have a future that goes
+customers have more projects than we can deliver.  That's why we
+believe that Lino and our business model have a future that goes
 beyond the career of a few developers.
+
 Our mission is to provide professional **competence**
 in helping our customers to use Lino and other free software.
 Our strategy is to follow a
@@ -35,12 +35,12 @@ those who have proven their skills by voluntary contributions.
 
 - :doc:`ma`
 - :doc:`consultant_welfare`
-- :doc:`admin`
 - :doc:`coredev`
 - :doc:`analyst`
 
 **Medium-term**
 
+- :doc:`admin`
 - :doc:`consultant`
 - :doc:`uidev`
 - :doc:`documentor`

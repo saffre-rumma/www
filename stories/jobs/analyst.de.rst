@@ -29,14 +29,13 @@ Kinderkrankheiten auszubügeln und Teufel im Detail einzufangen.
 
 **Anforderungen**
 
-- Du kannst selbstsicher auftreten und hast keine Angst, offen mit
-  anderen Menschen umzugehen.
+- Du kennst die Grenzen und Möglichkeiten von Lino und hast keine
+  Angst, offen mit anderen Menschen umzugehen.
 
 - Du hast Erfahrung mit Datenbankanwendungen und ein Gefühl dafür,
   Softwarefehler zu entdecken und zu melden.
 
 - Du gehst verantwortungsbewusst mit deiner Zeit um und bist bereit,
-  deine Arbeitsstunden in unserem Zeiterfassungssystem `Lino Noi
-  <http://noi.lino-framework.org>`_ zu erfassen.
+  deine Arbeitsstunden in unserem Zeiterfassungssystem zu erfassen.
 
 .. include:: include/jobs_contact.rst
