@@ -33,6 +33,9 @@ gentle and sustainable way, making Lino grow into a community project.
   and testing, and you don't expect a finished product
 - you want to remain the master of your data even if our collaboration
   stops for some reason
+- you agree that the software created by our common efforts is being
+  published as open source under a free license and can be used by
+  others.
 
 
 **We are hiring!** If you have experience with programming in Python
