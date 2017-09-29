@@ -52,41 +52,6 @@ works for us since February 2017.
 
 |br| |br| |br| 
 
-.. image:: /images/tanel.jpg
-   :width: 80px
-   :align: left
-
-**Tanel Saimre** 
-|br| Product manager and Luc's assistant in **Vigala** since January 2017.
-
-|br| |br| |br| 
-
-.. image:: /images/subha.jpg
-   :width: 80px
-   :align: left
-           
-
-**Subha Bera** 
-|br| Code and ideas contributor in **Mumbai**.
-|br| `LinkedIn <https://www.linkedin.com/in/subha-bera-a6023ba6>`__
-or `GitHub <https://github.com/orgs/lino-framework/people/subha-py>`__
-
-
-|br| |br| |br| 
-
-
-.. image:: /images/sandeep.jpg
-   :width: 80px
-   :align: left
-
-**Sandeep Sawant** 
-|br| Code and ideas contributor in **Mumbai**.
-|br| `LinkedIn <https://www.linkedin.com/in/sandeep-sawant-a0479133>`__
-or `GitHub <https://github.com/sandeez>`__
-
-
-|br| |br| |br| 
-
 
 
 .. _TIM: http://tim.saffre-rumma.net/129.html
