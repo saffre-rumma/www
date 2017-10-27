@@ -37,7 +37,7 @@ Um schnellstmöglich eine Lösung zu finden und vor allem in Zukunft
 eine solche Situation zu vermeiden, entschied sich das ÖSHZ Eupen, mit
 Hilfe einer Eupener Firma maßgeschneiderte Software entwickeln zu
 lassen und dies auf Basis eines Frameworks namens `TIM
-<http://tim.saffre-rumma.net/115.html>`_.
+<http://tim.lino-framework.org/115.html>`_.
 
 Bereits im Januar 1996 war "unser TIM" einsatzbereit und schon einige
 Monate später fragte sich das anfänglich skeptische Personal, wie es

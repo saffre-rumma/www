@@ -54,7 +54,7 @@ works for us since February 2017.
 
 
 
-.. _TIM: http://tim.saffre-rumma.net/129.html
+.. _TIM: http://tim.lino-framework.org/129.html
 .. _Lino: http://www.lino-framework.org
 .. _Django: http://www.djangoproject.org
 .. _ExtJS: http://www.sencha.com/products/extjs/

@@ -13,5 +13,5 @@ bei PAC Systems tätig gewesen war. Support wird seitdem hauptsächlich
 von Estland per Telefon und Internet gewährleistet.
 
 Lesen Sie weiter auf der `Webseite von 2011
-<http://tim.saffre-rumma.net/115.html>`_
+<http://tim.lino-framework.org/115.html>`_
 
