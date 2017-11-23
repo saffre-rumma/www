@@ -133,10 +133,11 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ((
-            ("/welfare", "Lino Welfare"),
-            ("/cosi", "Lino Così"),
-            ("/noi", "Lino Noi"),
-            ("/care", "Lino Care"),
+            ("/lino", "Lino"),
+            # ("/welfare", "Lino Welfare"),
+            # ("/cosi", "Lino Così"),
+            # ("/noi", "Lino Noi"),
+            # ("/care", "Lino Care"),
             ("/tim", "TIM"),
             ), "Services"),
         ((

@@ -1,0 +1,71 @@
+.. title: November 2017
+.. slug: 20171122
+.. date: 2017-11-22 16:24:54 UTC+02:00
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+November 2017 (in Bearbeitung)
+==============================
+
+Liebe Benutzer von TIM und Lino,
+
+stellen Sie sich vor: eine Woche lang habe ich an Lino gezweifelt! Und
+zwar nachdem ich gehört hatte, dass die Eiche VoG, die zwei Jahre lang
+mit uns Lino Voga als Pilotprojekt entwickelt hat, sich nun doch für
+ein anderes Produkt entscheiden hat. Das war schon ein **Rückschlag**
+für uns.  Aber wie jeder Rückschlag bringt auch dieser letzten Endes
+Gutes in Gange: nach einigen Versammlungen mit Tonis sind wir uns
+einig, dass wir deshalb nicht die Flinte ins Korn werfen, sondern
+daraus lernen.
+
+Habe ich Ihnen **Tonis** eigentlich schon vorgestellt? Er arbeitet
+seit Februar 2017 ganztags für Rumma & Ko als mein Assistent.
+Inzwischen darf man ihn als den zweiten Mann hinter Lino
+bezeichnen. Auf unserer `Team-Site
+<http://www.saffre-rumma.net/team/>`__ ist ein Foto von ihm. Im
+Programmieren ist er stellenweise besser als ich. Zumal er im
+Gegensatz zu mir ein `digital native
+<https://de.wikipedia.org/wiki/Digital_Native>`__ ist. Dagegen haben
+Leute meines Alters einfach keine Chance.
+
+Wie gesagt, der Rückschlag hat uns eher **gestärkt** als geschwächt.
+Wir sind uns mehr denn je dessen bewusst, dass Lino genial ist und
+seine Daseinsberechtigung auf dem Markt hat. Dass Lino nicht perfekt
+ist und nicht jedem auf den ersten Blick gefällt, liegt lediglich an
+unseren begrenzten Ressourcen. Aber wir sind immerhin zwei
+Progammierer, die dran glauben und sich ganztags dafür einsetzen,
+damit Lino immer besser wird. Wir legen weiterhin viel Wert auf
+Forschungsarbeit und Qualitätssicherung, denn wahre Schönheit kommt
+von innen.  Dass ich im Marketing nicht der richtige Mann bin, wussten
+wir im Grunde ja schon lange. Wir hoffen also weiterhin auf den
+dritten Mann im Bunde (es darf auch eine Frau sein). Offizielle
+Stellenbeschreibung: http://www.saffre-rumma.net/jobs/ma/
+
+Wir haben auch erkannt, dass Rumma & Ko mehr Verantwortung übernehmen
+und **Komplettlösungen für kleinere Betriebe** bieten muss.  Neben dem
+"inhouse hosting" und dem "partner hosting" werden wir deshalb
+demnächst auch unser eigenes "cloud hosting" anbieten zu einem
+konkurrenzfähigen Preis, wodurch Lino-Anwendungen wie Così, Noi, Voga
+und Amici für kleine Unternehmen erschwinglich werden. Diese Idee
+hatte ich ja schon im Januar 2017 angekündigt und im März dann einen
+Rückzieher gemacht, weil ich hoffte, dass AbAKUS mir diese Arbeit
+abnehmen würde.  Aber wie sich herausstellt, würde das für kleine
+Betriebe zu teuer.  AbAKUS ist weiterhin Vertreter und Hosting-Partner
+für größere Lino-Projekte. Mehr über unser Angebot `in Englisch
+</lino>`__.
+
+Ich halte Sie so gut es geht auf dem Laufenden, aber das ist nicht
+immer leicht, denn es passiert ja so viel! Sie dürfen mich gerne
+jederzeit anrufen, ich freue mich über Ideen und lobende wie kritische
+Anregungen.
+
+Luc Saffre
+|br|
+http://luc.lino-framework.org/about
+
+.. |br| raw:: html
+
+   <br />   
+   

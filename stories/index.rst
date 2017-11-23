@@ -8,6 +8,8 @@
 
 
 ..
+  <div class="jumbotron">
+    <div class="container">
         <div class="col-md-6 text-center">
          Go placidly amid the noise and haste.
          <br>As far as possible be on good terms with all persons.
@@ -15,83 +17,43 @@
          <super><a href="https://en.wikipedia.org/wiki/Desiderata">[1]</a></super>
         </div>
 
-
 .. raw:: html
-
+         
     <div class="container">
+    
       <div class="row text-center">
-
-        <div class="col-md-4 text-center">
-        <a href="welfare">
-          <img src="/lino_logo.png" width="50px"/>
-          <h2>Lino Welfare</h2>
+        <div class="col-md-3 text-center">
+          <p><a href="about">
+          <img src="/rumma_logo.png" width="150px"/>
+          </a></p>
+          
+        </div>
+         
+        <div class="col-md-6 text-center">
+          <h1>Bringing free software to humans since 2001</h1>
+        </div>
+         
+        <div class="col-md-3 text-center">
+        <a href="lino">
+          <img src="/lino_logo.png" width="120px"/>
           </a>
-          <p>Facilite le travail des travailleurs sociaux dans les CPAS belges</p>
         </div>
 
-        <div class="col-md-4 text-center">
-        <a href="voga">
-          <img src="/lino_logo.png" width="50px"/>
-          <h2>Lino Voga</h2>
-          </a>
-          <p>Das Verwaltung&shy;sprogramm für 
-          die Erwachsenen&shy;bildungs&shy;organisationen der Deutschsprachigen Gemeinschaft</p>
-         </div>
-
-        <div class="col-md-4">
-          <a href="/de/tim">
-          <img src="/rumma_logo.png" width="60px"/>
-          <h2>TIM</h2>
-          </a>
-          <p>Ein Buchhaltungsprogramm, das seit 1994 l&auml;uft 
-          und auch in 2016 noch ganz ohne Maus benutzt wird.</p>
         </div>
-
-      </div>
       <div class="row text-center">
-
-        <div class="col-md-3">
-          <a href="/fr/cosi"><img src="/lino_logo.png" width="50px"/>
-          <h2>Lino Così</h2>
-          </a>
-          <p>Une <b>co</b>mptabilit&egrave; <b>si</b>mple?
-          c'est comme ça qu'on aime la compta!
+          <div class="jumbotron">
+          <p><a href="about">Rumma &amp; Ko</a>
+          provides
+          custom database solutions
+          for small and medium-sized organizations
+          using the <a href="lino">Lino framework</a>.
           </p>
-        </div>
 
-
-        <div class="col-md-3">
-          <a href="noi"><img src="/lino_logo.png" width="50px"/>
-          <h2>Lino Noi</h2>
-          </a>
-          <p>A ticketing and time tracking system to use when time is
-          more than money.</p>
-        </div>
-
-        <div class="col-md-3 text-center">
-        <a href="care">
-          <img src="/lino_logo.png" width="50px"/>
-          <h2>Lino Care</h2>
-          </a>
-          <p>Eine Datenbank zur Hilfevermittlung zwischen Menschen</p>
-         </div>
-
-        <div class="col-md-3 text-center">
-          <a href="about">
-          <img src="/rumma_logo.png" width="60px"/>
-          <h2>Your project here</h2>
-          </a>
-          <p>We are open for new ideas</p>
-         </div>
-
-
+          </div>
       </div>
     </div>
 
-
-
 .. remark
-
 
     | Go placidly amid the noise and haste, and remember what peace there may be in silence.
     | As far as possible, without surrender, be on good terms with all persons.

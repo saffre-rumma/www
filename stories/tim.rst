@@ -2,6 +2,11 @@
 TIM
 ===
 
+
+  Ein Buchhaltungsprogramm, das seit 1994 läuft und auch in 2017 noch
+  ganz ohne Maus benutzt wird.
+
+
 TIM ist eine Datenbankanwendung, die seit 1992 in Ostbelgien in 62
 kleinen und mittleren Betrieben als zentrale Verwaltungssoftware
 benutzt wird. Die meistbenutzten Funktionen sind Fakturation,
