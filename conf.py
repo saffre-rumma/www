@@ -28,7 +28,7 @@ SITE_URL = "http://www.saffre-rumma.net/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://www.saffre-rumma.net/"
-BLOG_EMAIL = "luc.saffre@gmx.net"
+BLOG_EMAIL = "luc@saffre-rumma.net"
 BLOG_DESCRIPTION = "Welcome to our web site!"  # (translatable)
 
 # Nikola is multilingual!
@@ -365,7 +365,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = ''
+# LOGO_URL = '/lino_logo.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
@@ -521,13 +521,13 @@ HIDDEN_CATEGORIES = []
 
 # If ENABLE_AUTHOR_PAGES is set to True and there is more than one
 # author, author pages are generated.
-# ENABLE_AUTHOR_PAGES = True
+ENABLE_AUTHOR_PAGES = True
 
 # Final locations are:
 # output / TRANSLATION[lang] / AUTHOR_PATH / index.html (list of tags)
 # output / TRANSLATION[lang] / AUTHOR_PATH / author.html (list of posts for a tag)
 # output / TRANSLATION[lang] / AUTHOR_PATH / author.xml (RSS feed for a tag)
-# AUTHOR_PATH = "authors"
+AUTHOR_PATH = "authors"
 
 # If AUTHOR_PAGES_ARE_INDEXES is set to True, each author's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
@@ -536,12 +536,11 @@ HIDDEN_CATEGORIES = []
 # Set descriptions for author pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the author list or index page’s title.
-# AUTHOR_PAGES_DESCRIPTIONS = {
-#    DEFAULT_LANG: {
-#        "Juanjo Conti": "Python coder and writer.",
-#        "Roberto Alsina": "Nikola father."
-#    },
-# }
+AUTHOR_PAGES_DESCRIPTIONS = {
+   DEFAULT_LANG: {
+       "Luc Saffre": "Author of Lino and TIM, CEO of Rumma & Ko.",
+   },
+}
 
 
 # If you do not want to display an author publicly, you can mark it as hidden.
@@ -1201,7 +1200,7 @@ UNSLUGIFY_TITLES = True
 # If webassets is installed, bundle JS and CSS into single files to make
 # site loading faster in a HTTP/1.1 environment but is not recommended for
 # HTTP/2.0 when caching is used. Defaults to True.
-USE_BUNDLES = False
+USE_BUNDLES = True
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
@@ -1248,4 +1247,44 @@ GLOBAL_CONTEXT = {}
 # rendered
 GLOBAL_CONTEXT_FILLER = []
 
+
+# INDEX_READ_MORE_LINK = '<a class="button is-link" href="{link}" style="height:28px"> {read_more} <span class="icon is-small"> <i class="fa fa-angle-double-right"></i></span></a>'
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         ("http://twitter.com/luc.saffre", "fa fa-twitter"),
+#         ("http://github.com/lino-framework", "fa fa-github"),
+#         ("/rss.xml", "fa fa-rss"),
+#     ),
+# }
+
+# THEME = 'canterville'
+# # LOGO_URL = 'https://getnikola.com/assets/img/logo.svg'
+# GLOBAL_CONTEXT = {
+#         'TWITTER_URL': 'https://twitter.com/lino-framework',
+#         'GITHUB_URL': 'https://github.com/lino-framework',
+#         'BANNER_URL': '/assets/img/dsc03819.jpg'
+# }
+
+
+THEME = 'zen'
+
+NAVIGATION_LINKS = {    # http://fontawesome.io/icons/
+    DEFAULT_LANG: (
+        ('/index.html', 'Home', 'icon-home'),
+        ('/lino', 'Lino', 'icon-calendar'),
+        ('/tim', 'TIM', 'icon-bell'),
+        # ("/vtt", "Vigala Wikipedia Workshop", None),
+        # ("/vcc", "Vigala Code Camps", None),
+        # ("/vilma", "The Vilma project", None),
+        ("/blog", "Blog", 'icon-plane'),
+        ('/rss.xml', 'RSS', 'icon-rss'),
+        ("/archive.html", "Archive", 'icon-search'),
+        # ("/categories/", "Tags"),
+        ("/team", "Our team", 'icon-user'),
+        ("/views", "Philosophy", 'icon-eye-open'),
+        ("/jobs", "Jobs", 'icon-euro'),
+        ("/about", "Rumma & Ko", 'icon-briefcase'),
+        ('/contact', 'Contact', 'icon-envelope'),
+    )
+}
 

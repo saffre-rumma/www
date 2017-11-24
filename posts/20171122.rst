@@ -5,6 +5,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Luc Saffre
 
 November 2017 (in Bearbeitung)
 ==============================
@@ -15,8 +16,12 @@ stellen Sie sich vor: eine Woche lang habe ich an Lino gezweifelt! Und
 zwar nachdem ich gehört hatte, dass die Eiche VoG, die zwei Jahre lang
 mit uns Lino Voga als Pilotprojekt entwickelt hat, sich nun doch für
 ein anderes Produkt entscheiden hat. Das war schon ein **Rückschlag**
-für uns.  Aber wie so oft bringt auch dieser Rückschlag letzten Endes
-Gutes in Gange und uns eher **gestärkt** als geschwächt.
+für uns.
+
+Aber wie so oft bringt auch dieser Rückschlag letzten Endes Gutes in
+Gange und uns eher **gestärkt** als geschwächt.  Abgesehen von einem
+neuen Look für unsere Webseite fährt unser Schiff unbeirrt weiter.
+
 
 Wichtig war die Erkenntnis, dass der Fehler nicht auf technischer
 Seite, sondern im **Marketing** lag.  Dass ich im Marketing nicht der
@@ -36,26 +41,25 @@ Mensch-zu-Mensch-Vertrauen ausreicht.  AbAKUS ist weiterhin unser
 erster Partner für größere Lino-Projekte in Belgien.  Mehr über unser
 Angebot `in Englisch </lino>`__.
 
-Abgesehen von dem Schreck fährt unser Schiff stabil weiter. Zwei
-aktive Entwicklungsprojekte laufen zufriendenstellend und lasten uns
-voll aus.  Habe ich Ihnen **Tonis** eigentlich schon vorgestellt? Er
-arbeitet seit Februar 2017 ganztags für Rumma & Ko als mein Assistent.
-Inzwischen darf man ihn als den zweiten Mann hinter Lino
-bezeichnen. Auf unserer `Team-Site
-<http://www.saffre-rumma.net/team/>`__ ist ein Foto von ihm. Im
-Programmieren ist er stellenweise besser als ich. Zumal er im
-Gegensatz zu mir ein `digital native
-<https://de.wikipedia.org/wiki/Digital_Native>`__ ist, dagegen haben
-Leute meines Alters einfach keine Chance.  Auch **Hamza** ist übrigens
-weiterhin mit dabei, wenngleich er als Freelancer weniger mitredet.
+Habe ich Ihnen **Tonis** schon vorgestellt? Er arbeitet seit Februar
+2017 ganztags für Rumma & Ko als mein Assistent.  Inzwischen darf man
+ihn als den zweiten Mann hinter Lino bezeichnen. Im Programmieren ist
+er stellenweise besser als ich. Zumal er im Gegensatz zu mir ein
+`digital native <https://de.wikipedia.org/wiki/Digital_Native>`__ ist,
+dagegen haben Leute meines Alters einfach keine Chance.  Auch
+**Hamza** ist weiterhin mit dabei, wenngleich er als Freelancer
+weniger mitredet.  Auf unserer `Team-Site
+<http://www.saffre-rumma.net/team/>`__ ist ein Foto der beiden.
 
-Wir sind uns mehr denn je dessen bewusst, dass Lino genial ist und
+Wir sind uns **mehr denn je** dessen bewusst, dass Lino genial ist und
 seine Daseinsberechtigung auf dem Markt hat.  Dass Lino nicht perfekt
 ist und nicht jedem auf den ersten Blick gefällt, liegt lediglich an
-unseren begrenzten Ressourcen. Aber wir sind inzwischen immerhin drei
-Progammierer, die dran glauben und sich dafür einsetzen, damit Lino
-immer besser wird.  Wir legen weiterhin viel Wert auf Forschungsarbeit
-und Qualitätssicherung, denn wahre Schönheit kommt von innen.
+unseren begrenzten Ressourcen.  Aber wir sind inzwischen immerhin drei
+Progammierer, die daran glauben und sich dafür einsetzen, damit Lino
+immer besser wird.  Zwei aktive Entwicklungsprojekte laufen
+zufriendenstellend und lasten uns genügend aus, denn wir legen
+weiterhin viel Wert auf Forschungsarbeit und Qualitätssicherung. Wahre
+Schönheit kommt von innen.
 
 Ich halte Sie so gut es geht auf dem Laufenden, aber das ist nicht
 immer leicht, denn es passiert ja so viel! Sie dürfen mich gerne
@@ -63,10 +67,3 @@ jederzeit anrufen, ich freue mich über Ideen und lobende wie kritische
 Anregungen.
 
 Luc Saffre
-|br|
-http://luc.lino-framework.org/about
-
-.. |br| raw:: html
-
-   <br />   
-   
