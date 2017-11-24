@@ -15,46 +15,47 @@ stellen Sie sich vor: eine Woche lang habe ich an Lino gezweifelt! Und
 zwar nachdem ich gehört hatte, dass die Eiche VoG, die zwei Jahre lang
 mit uns Lino Voga als Pilotprojekt entwickelt hat, sich nun doch für
 ein anderes Produkt entscheiden hat. Das war schon ein **Rückschlag**
-für uns.  Aber wie jeder Rückschlag bringt auch dieser letzten Endes
-Gutes in Gange: nach einigen Versammlungen mit Tonis sind wir uns
-einig, dass wir deshalb nicht die Flinte ins Korn werfen, sondern
-daraus lernen.
+für uns.  Aber wie so oft bringt auch dieser Rückschlag letzten Endes
+Gutes in Gange und uns eher **gestärkt** als geschwächt.
 
-Habe ich Ihnen **Tonis** eigentlich schon vorgestellt? Er arbeitet
-seit Februar 2017 ganztags für Rumma & Ko als mein Assistent.
+Wichtig war die Erkenntnis, dass der Fehler nicht auf technischer
+Seite, sondern im **Marketing** lag.  Dass ich im Marketing nicht der
+richtige Mann bin, wussten wir ja schon lange. Wir hoffen also
+weiterhin auf den dritten Mann im Bunde (es darf auch eine Frau sein)
+und pflegen die `offizielle Stellenbeschreibung
+<http://www.saffre-rumma.net/jobs/ma/>`_.  Andererseits wächst unsere
+Zusammenarbeit mit unabhängigen Partnern wie AbAKUS.  Beim nächsten
+Projekt dieser Art wird Rumma & Ko mehr Verantwortung übernehmen und
+neben dem "inhouse hosting" und dem "partner hosting" auch unsere
+eigene nachhaltige Einsteigerformel zu konkurrenzfähigem Preis
+anbieten.  Diese Idee hatte ich ja schon im Januar 2017 ausgearbeitet
+und angekündigt, und im März dann einen Rückzieher gemacht, weil ich
+hoffte, dass AbAKUS uns diese Verantwortung abnehmen würde.  Aber wie
+sich herausstellt, würde das zu teuer für Projekte, bei denen
+Mensch-zu-Mensch-Vertrauen ausreicht.  AbAKUS ist weiterhin unser
+erster Partner für größere Lino-Projekte in Belgien.  Mehr über unser
+Angebot `in Englisch </lino>`__.
+
+Abgesehen von dem Schreck fährt unser Schiff stabil weiter. Zwei
+aktive Entwicklungsprojekte laufen zufriendenstellend und lasten uns
+voll aus.  Habe ich Ihnen **Tonis** eigentlich schon vorgestellt? Er
+arbeitet seit Februar 2017 ganztags für Rumma & Ko als mein Assistent.
 Inzwischen darf man ihn als den zweiten Mann hinter Lino
 bezeichnen. Auf unserer `Team-Site
 <http://www.saffre-rumma.net/team/>`__ ist ein Foto von ihm. Im
 Programmieren ist er stellenweise besser als ich. Zumal er im
 Gegensatz zu mir ein `digital native
-<https://de.wikipedia.org/wiki/Digital_Native>`__ ist. Dagegen haben
-Leute meines Alters einfach keine Chance.
+<https://de.wikipedia.org/wiki/Digital_Native>`__ ist, dagegen haben
+Leute meines Alters einfach keine Chance.  Auch **Hamza** ist übrigens
+weiterhin mit dabei, wenngleich er als Freelancer weniger mitredet.
 
-Wie gesagt, der Rückschlag hat uns eher **gestärkt** als geschwächt.
 Wir sind uns mehr denn je dessen bewusst, dass Lino genial ist und
-seine Daseinsberechtigung auf dem Markt hat. Dass Lino nicht perfekt
+seine Daseinsberechtigung auf dem Markt hat.  Dass Lino nicht perfekt
 ist und nicht jedem auf den ersten Blick gefällt, liegt lediglich an
-unseren begrenzten Ressourcen. Aber wir sind immerhin zwei
-Progammierer, die dran glauben und sich ganztags dafür einsetzen,
-damit Lino immer besser wird. Wir legen weiterhin viel Wert auf
-Forschungsarbeit und Qualitätssicherung, denn wahre Schönheit kommt
-von innen.  Dass ich im Marketing nicht der richtige Mann bin, wussten
-wir im Grunde ja schon lange. Wir hoffen also weiterhin auf den
-dritten Mann im Bunde (es darf auch eine Frau sein). Offizielle
-Stellenbeschreibung: http://www.saffre-rumma.net/jobs/ma/
-
-Wir haben auch erkannt, dass Rumma & Ko mehr Verantwortung übernehmen
-und **Komplettlösungen für kleinere Betriebe** bieten muss.  Neben dem
-"inhouse hosting" und dem "partner hosting" werden wir deshalb
-demnächst auch unser eigenes "cloud hosting" anbieten zu einem
-konkurrenzfähigen Preis, wodurch Lino-Anwendungen wie Così, Noi, Voga
-und Amici für kleine Unternehmen erschwinglich werden. Diese Idee
-hatte ich ja schon im Januar 2017 angekündigt und im März dann einen
-Rückzieher gemacht, weil ich hoffte, dass AbAKUS mir diese Arbeit
-abnehmen würde.  Aber wie sich herausstellt, würde das für kleine
-Betriebe zu teuer.  AbAKUS ist weiterhin Vertreter und Hosting-Partner
-für größere Lino-Projekte. Mehr über unser Angebot `in Englisch
-</lino>`__.
+unseren begrenzten Ressourcen. Aber wir sind inzwischen immerhin drei
+Progammierer, die dran glauben und sich dafür einsetzen, damit Lino
+immer besser wird.  Wir legen weiterhin viel Wert auf Forschungsarbeit
+und Qualitätssicherung, denn wahre Schönheit kommt von innen.
 
 Ich halte Sie so gut es geht auf dem Laufenden, aber das ist nicht
 immer leicht, denn es passiert ja so viel! Sie dürfen mich gerne
