@@ -1266,25 +1266,44 @@ GLOBAL_CONTEXT_FILLER = []
 # }
 
 
-THEME = 'zen'
+# THEME = 'zen'
 
+# NAVIGATION_LINKS = {    # http://fontawesome.io/icons/
+#     DEFAULT_LANG: (
+#         ('/index.html', 'Home', 'icon-home'),
+#         ('/lino', 'Lino', 'icon-tags'),
+#         ('/tim', 'TIM', 'icon-bell'),
+#         # ("/vtt", "Vigala Wikipedia Workshop", None),
+#         # ("/vcc", "Vigala Code Camps", None),
+#         # ("/vilma", "The Vilma project", None),
+#         ("/blog", "Blog", 'icon-plane'),
+#         # ("/categories/", "Tags"),
+#         # ("/about", "Rumma & Ko", 'icon-briefcase'),
+#         # ("/team", "Our team", 'icon-user'),
+#         # ("/views", "Philosophy", 'icon-eye-open'),
+#         ("/jobs", "Jobs", 'icon-euro'),
+#         ('/contact', 'Contact', 'icon-envelope'),
+#         ("/more", "More", 'icon-search'),
+#     )
+# }
+
+THEME = 'maupassant'
 NAVIGATION_LINKS = {    # http://fontawesome.io/icons/
     DEFAULT_LANG: (
-        ('/index.html', 'Home', 'icon-home'),
-        ('/lino', 'Lino', 'icon-calendar'),
-        ('/tim', 'TIM', 'icon-bell'),
+        ('/index.html', 'Home'),
+        ('/lino', 'Lino'),
+        ('/tim', 'TIM'),
         # ("/vtt", "Vigala Wikipedia Workshop", None),
         # ("/vcc", "Vigala Code Camps", None),
         # ("/vilma", "The Vilma project", None),
-        ("/blog", "Blog", 'icon-plane'),
-        ('/rss.xml', 'RSS', 'icon-rss'),
-        ("/archive.html", "Archive", 'icon-search'),
+        ("/blog", "Blog"),
         # ("/categories/", "Tags"),
-        ("/team", "Our team", 'icon-user'),
-        ("/views", "Philosophy", 'icon-eye-open'),
-        ("/jobs", "Jobs", 'icon-euro'),
-        ("/about", "Rumma & Ko", 'icon-briefcase'),
-        ('/contact', 'Contact', 'icon-envelope'),
+        # ("/about", "Rumma & Ko", 'icon-briefcase'),
+        # ("/team", "Our team", 'icon-user'),
+        # ("/views", "Philosophy", 'icon-eye-open'),
+        ("/jobs", "Jobs"),
+        ('/contact', 'Contact'),
+        ("/more", "More"),
     )
 }
 

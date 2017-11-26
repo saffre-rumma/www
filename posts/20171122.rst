@@ -22,6 +22,8 @@ Aber wie so oft bringt auch dieser Rückschlag letzten Endes Gutes in
 Gange und uns eher **gestärkt** als geschwächt.  Abgesehen von einem
 neuen Look für unsere Webseite fährt unser Schiff unbeirrt weiter.
 
+.. TEASER_END
+
 
 Wichtig war die Erkenntnis, dass der Fehler nicht auf technischer
 Seite, sondern im **Marketing** lag.  Dass ich im Marketing nicht der

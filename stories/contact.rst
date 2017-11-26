@@ -17,3 +17,10 @@ Official address:
 
 
 | Estonian National registry number `10501849 <http://www.teatmik.ee/et/info/10501849>`_
+
+
+- :doc:`team`
+- :doc:`views`
+- :doc:`about`
+
+ 

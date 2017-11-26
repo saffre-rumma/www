@@ -24,3 +24,5 @@ We believe that Lino and our business model have a future that goes
 beyond the career of a few developers.  Our strategy is to follow a
 gentle and sustainable way, making Lino grow into a community project.
 See also :doc:`views`.
+
+
