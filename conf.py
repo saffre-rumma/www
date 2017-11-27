@@ -1266,44 +1266,43 @@ GLOBAL_CONTEXT_FILLER = []
 # }
 
 
-# THEME = 'zen'
-
-# NAVIGATION_LINKS = {    # http://fontawesome.io/icons/
-#     DEFAULT_LANG: (
-#         ('/index.html', 'Home', 'icon-home'),
-#         ('/lino', 'Lino', 'icon-tags'),
-#         ('/tim', 'TIM', 'icon-bell'),
-#         # ("/vtt", "Vigala Wikipedia Workshop", None),
-#         # ("/vcc", "Vigala Code Camps", None),
-#         # ("/vilma", "The Vilma project", None),
-#         ("/blog", "Blog", 'icon-plane'),
-#         # ("/categories/", "Tags"),
-#         # ("/about", "Rumma & Ko", 'icon-briefcase'),
-#         # ("/team", "Our team", 'icon-user'),
-#         # ("/views", "Philosophy", 'icon-eye-open'),
-#         ("/jobs", "Jobs", 'icon-euro'),
-#         ('/contact', 'Contact', 'icon-envelope'),
-#         ("/more", "More", 'icon-search'),
-#     )
-# }
-
-THEME = 'maupassant'
+THEME = 'zen'
 NAVIGATION_LINKS = {    # http://fontawesome.io/icons/
     DEFAULT_LANG: (
-        ('/index.html', 'Home'),
-        ('/lino', 'Lino'),
-        ('/tim', 'TIM'),
+        ('/index.html', 'Home', 'icon-home'),
+        ('/lino', 'Lino', 'icon-desktop'),
+        ('/tim', 'TIM', 'icon-keyboard'),
         # ("/vtt", "Vigala Wikipedia Workshop", None),
         # ("/vcc", "Vigala Code Camps", None),
         # ("/vilma", "The Vilma project", None),
-        ("/blog", "Blog"),
+        ("/blog", "Blog", 'icon-rss'),
         # ("/categories/", "Tags"),
         # ("/about", "Rumma & Ko", 'icon-briefcase'),
         # ("/team", "Our team", 'icon-user'),
         # ("/views", "Philosophy", 'icon-eye-open'),
-        ("/jobs", "Jobs"),
-        ('/contact', 'Contact'),
-        ("/more", "More"),
+        ("/jobs", "Jobs", 'icon-euro'),
+        ('/contact', 'Contact', 'icon-envelope'),
+        ("/more", "More", 'icon-search'),
     )
 }
+
+# THEME = 'maupassant'
+# NAVIGATION_LINKS = {    # http://fontawesome.io/icons/
+#     DEFAULT_LANG: (
+#         ('/index.html', 'Home'),
+#         ('/lino', 'Lino'),
+#         ('/tim', 'TIM'),
+#         # ("/vtt", "Vigala Wikipedia Workshop", None),
+#         # ("/vcc", "Vigala Code Camps", None),
+#         # ("/vilma", "The Vilma project", None),
+#         ("/blog", "Blog"),
+#         # ("/categories/", "Tags"),
+#         # ("/about", "Rumma & Ko", 'icon-briefcase'),
+#         # ("/team", "Our team", 'icon-user'),
+#         # ("/views", "Philosophy", 'icon-eye-open'),
+#         ("/jobs", "Jobs"),
+#         ('/contact', 'Contact'),
+#         ("/more", "More"),
+#     )
+# }
 

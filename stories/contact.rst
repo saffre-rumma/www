@@ -16,11 +16,4 @@ Official address:
 | GSM: +372 / 5667 2435
 
 
-| Estonian National registry number `10501849 <http://www.teatmik.ee/et/info/10501849>`_
-
-
-- :doc:`team`
-- :doc:`views`
-- :doc:`about`
-
- 
+See also: :doc:`about`, :doc:`team`, :doc:`views`.

@@ -1,4 +1,4 @@
-.. title: November 2017
+.. title: Lino Voga looking for a new pilot customer
 .. slug: 20171122
 .. date: 2017-11-22 16:24:54 UTC+02:00
 .. category: 
@@ -7,65 +7,79 @@
 .. type: text
 .. author: Luc Saffre
 
-November 2017 (in Bearbeitung)
-==============================
 
-Liebe Benutzer von TIM und Lino,
+Lino Voga looking for a new pilot customer
+==========================================
 
-stellen Sie sich vor: eine Woche lang habe ich an Lino gezweifelt! Und
-zwar nachdem ich gehört hatte, dass die Eiche VoG, die zwei Jahre lang
-mit uns Lino Voga als Pilotprojekt entwickelt hat, sich nun doch für
-ein anderes Produkt entscheiden hat. Das war schon ein **Rückschlag**
-für uns.
+Our `Lino Voga <http://voga.lino-framework.org/>`__ pilot customer
+announced that they have to stop helping us with the development
+because they are drowned in work and don't have enough personnel for
+testing and analyzing.  What a pity! But we know that it is mostly a
+marketing failure (and it's nothing new that Lino needs a `marketing
+assistant </jobs/ma/>`__).  We did our best and invested some time
+into updating our company website and added a new hosting formula for
+low-cost public cloud hosting.
 
-Aber wie so oft bringt auch dieser Rückschlag letzten Endes Gutes in
-Gange und uns eher **gestärkt** als geschwächt.  Abgesehen von einem
-neuen Look für unsere Webseite fährt unser Schiff unbeirrt weiter.
+.. 
+    November 2017 (in Bearbeitung)
+    ==============================
 
-.. TEASER_END
+    Liebe Benutzer von TIM und Lino,
+
+    stellen Sie sich vor: eine Woche lang habe ich an Lino gezweifelt! Und
+    zwar nachdem ich gehört hatte, dass die Eiche VoG, die zwei Jahre lang
+    mit uns Lino Voga als Pilotprojekt entwickelt hat, sich nun doch für
+    ein anderes Produkt entscheiden hat. Das war schon ein **Rückschlag**
+    für uns.
+
+    Aber wie so oft bringt auch dieser Rückschlag letzten Endes Gutes in
+    Gange und uns eher **gestärkt** als geschwächt.  Abgesehen von einem
+    neuen Look für unsere Webseite fährt unser Schiff unbeirrt weiter.
+
+    .. TEASER_END
 
 
-Wichtig war die Erkenntnis, dass der Fehler nicht auf technischer
-Seite, sondern im **Marketing** lag.  Dass ich im Marketing nicht der
-richtige Mann bin, wussten wir ja schon lange. Wir hoffen also
-weiterhin auf den dritten Mann im Bunde (es darf auch eine Frau sein)
-und pflegen die `offizielle Stellenbeschreibung
-<http://www.saffre-rumma.net/jobs/ma/>`_.  Andererseits wächst unsere
-Zusammenarbeit mit unabhängigen Partnern wie AbAKUS.  Beim nächsten
-Projekt dieser Art wird Rumma & Ko mehr Verantwortung übernehmen und
-neben dem "inhouse hosting" und dem "partner hosting" auch unsere
-eigene nachhaltige Einsteigerformel zu konkurrenzfähigem Preis
-anbieten.  Diese Idee hatte ich ja schon im Januar 2017 ausgearbeitet
-und angekündigt, und im März dann einen Rückzieher gemacht, weil ich
-hoffte, dass AbAKUS uns diese Verantwortung abnehmen würde.  Aber wie
-sich herausstellt, würde das zu teuer für Projekte, bei denen
-Mensch-zu-Mensch-Vertrauen ausreicht.  AbAKUS ist weiterhin unser
-erster Partner für größere Lino-Projekte in Belgien.  Mehr über unser
-Angebot `in Englisch </lino>`__.
+    Wichtig war die Erkenntnis, dass der Fehler nicht auf technischer
+    Seite, sondern im **Marketing** lag.  Dass ich im Marketing nicht der
+    richtige Mann bin, wussten wir ja schon lange. Wir hoffen also
+    weiterhin auf den dritten Mann im Bunde (es darf auch eine Frau sein)
+    und pflegen die `offizielle Stellenbeschreibung
+    <http://www.saffre-rumma.net/jobs/ma/>`_.  Andererseits wächst unsere
+    Zusammenarbeit mit unabhängigen Partnern wie AbAKUS.  Beim nächsten
+    Projekt dieser Art wird Rumma & Ko mehr Verantwortung übernehmen und
+    neben dem "inhouse hosting" und dem "partner hosting" auch unsere
+    eigene nachhaltige Einsteigerformel zu konkurrenzfähigem Preis
+    anbieten.  Diese Idee hatte ich ja schon im Januar 2017 ausgearbeitet
+    und angekündigt, und im März dann einen Rückzieher gemacht, weil ich
+    hoffte, dass AbAKUS uns diese Verantwortung abnehmen würde.  Aber wie
+    sich herausstellt, würde das zu teuer für Projekte, bei denen
+    Mensch-zu-Mensch-Vertrauen ausreicht.  AbAKUS ist weiterhin unser
+    erster Partner für größere Lino-Projekte in Belgien.  Mehr über unser
+    Angebot `in Englisch </lino>`__.
 
-Habe ich Ihnen **Tonis** schon vorgestellt? Er arbeitet seit Februar
-2017 ganztags für Rumma & Ko als mein Assistent.  Inzwischen darf man
-ihn als den zweiten Mann hinter Lino bezeichnen. Im Programmieren ist
-er stellenweise besser als ich. Zumal er im Gegensatz zu mir ein
-`digital native <https://de.wikipedia.org/wiki/Digital_Native>`__ ist,
-dagegen haben Leute meines Alters einfach keine Chance.  Auch
-**Hamza** ist weiterhin mit dabei, wenngleich er als Freelancer
-weniger mitredet.  Auf unserer `Team-Site
-<http://www.saffre-rumma.net/team/>`__ ist ein Foto der beiden.
+    Habe ich Ihnen **Tonis** schon vorgestellt? Er arbeitet seit Februar
+    2017 ganztags für Rumma & Ko als mein Assistent.  Inzwischen darf man
+    ihn als den zweiten Mann hinter Lino bezeichnen. Im Programmieren ist
+    er stellenweise besser als ich. Zumal er im Gegensatz zu mir ein
+    `digital native <https://de.wikipedia.org/wiki/Digital_Native>`__ ist,
+    dagegen haben Leute meines Alters einfach keine Chance.  Auch
+    **Hamza** ist weiterhin mit dabei, wenngleich er als Freelancer
+    weniger mitredet.  Auf unserer `Team-Site
+    <http://www.saffre-rumma.net/team/>`__ ist ein Foto der beiden.
 
-Wir sind uns **mehr denn je** dessen bewusst, dass Lino genial ist und
-seine Daseinsberechtigung auf dem Markt hat.  Dass Lino nicht perfekt
-ist und nicht jedem auf den ersten Blick gefällt, liegt lediglich an
-unseren begrenzten Ressourcen.  Aber wir sind inzwischen immerhin drei
-Progammierer, die daran glauben und sich dafür einsetzen, damit Lino
-immer besser wird.  Zwei aktive Entwicklungsprojekte laufen
-zufriendenstellend und lasten uns genügend aus, denn wir legen
-weiterhin viel Wert auf Forschungsarbeit und Qualitätssicherung. Wahre
-Schönheit kommt von innen.
+    Wir sind uns **mehr denn je** dessen bewusst, dass Lino genial ist und
+    seine Daseinsberechtigung auf dem Markt hat.  Dass Lino nicht perfekt
+    ist und nicht jedem auf den ersten Blick gefällt, liegt lediglich an
+    unseren begrenzten Ressourcen.  Aber wir sind inzwischen immerhin drei
+    Progammierer, die daran glauben und sich dafür einsetzen, damit Lino
+    immer besser wird.  Zwei aktive Entwicklungsprojekte laufen
+    zufriendenstellend und lasten uns genügend aus, denn wir legen
+    weiterhin viel Wert auf Forschungsarbeit und Qualitätssicherung. Wahre
+    Schönheit kommt von innen.
 
-Ich halte Sie so gut es geht auf dem Laufenden, aber das ist nicht
-immer leicht, denn es passiert ja so viel! Sie dürfen mich gerne
-jederzeit anrufen, ich freue mich über Ideen und lobende wie kritische
-Anregungen.
+    Ich halte Sie so gut es geht auf dem Laufenden, aber das ist nicht
+    immer leicht, denn es passiert ja so viel! Sie dürfen mich gerne
+    jederzeit anrufen, ich freue mich über Ideen und lobende wie kritische
+    Anregungen.
 
-Luc Saffre
+    Luc Saffre

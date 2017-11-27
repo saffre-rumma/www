@@ -35,7 +35,26 @@ we offer four hosting solutions, depending on your particular needs:
   others.
 
 
-.. raw:: html
+Lino is a framework with an extremely wide range of applications.  Our
+**portfolio** of usable applications includes highly customizable and
+integrated plugins for
+
+- contacts management
+- standard office functionality (calendar, uploads, notes,
+  reports)
+- reception and waiting room management
+- households and family members
+- skills, job search assistance, career and curriculum  
+- client assistance for social workers or therapists
+- accounting, invoicing, general ledger, bank statements, payment
+  orders, VAT declarations
+- ticket management, time tracking
+
+
+See the full list of `Lino applications maintained by our team
+<http://www.lino-framework.org/api/index.html>`__
+
+.. .. raw html
 
     <div class="container">
       <div class="row text-center">
