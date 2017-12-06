@@ -1,3 +1,5 @@
+.. title: Lino Voga
+   
 =========
 Lino Voga
 =========

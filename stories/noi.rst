@@ -1,6 +1,5 @@
-========
-Lino Noi
-========
+.. title: Lino Noi
+
 
 We are proud to be maintainer and service provider for `Lino Noi
 <http://noi.lino-framework.org>`_, a customizable ticket management

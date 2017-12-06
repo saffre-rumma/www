@@ -1,3 +1,5 @@
+.. title: Lino Core Developer
+
 ===================
 Lino Core Developer
 ===================

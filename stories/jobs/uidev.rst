@@ -1,5 +1,4 @@
-Lino UI Developer
-=================
+.. title: Lino UI Developer
 
 **Requirements**
 

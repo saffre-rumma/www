@@ -1,6 +1,5 @@
-=========
-Jobs
-=========
+.. title: Jobs
+           
 
 .. _Lino: http://www.lino-framework.org
 .. _Django: http://www.djangoproject.org

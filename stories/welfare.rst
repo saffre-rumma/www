@@ -1,3 +1,5 @@
+.. title: Lino Welfare
+   
 ============
 Lino Welfare
 ============
@@ -11,7 +13,7 @@ in Belgium.
 
 
 - **What can it do?**
-  :doc:`welfare_flyer`.
+  See `French documentation site <http://fr.welfare.lino-framework.org/>`_
 
 - **How much does it cost?**
   Read our tariff in :doc:`welfare_services`.

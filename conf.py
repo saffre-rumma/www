@@ -29,7 +29,7 @@ SITE_URL = "http://www.saffre-rumma.net/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://www.saffre-rumma.net/"
 BLOG_EMAIL = "luc@saffre-rumma.net"
-BLOG_DESCRIPTION = "Welcome to our web site!"  # (translatable)
+BLOG_DESCRIPTION = "Lino Database Solutions"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -365,11 +365,11 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = '/lino_logo.png'
+LOGO_URL = '/rumma_logo.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
-# SHOW_BLOG_TITLE = True
+SHOW_BLOG_TITLE = False
 
 # Writes tag cloud data in form of tag_cloud_data.json.
 # Warning: this option will change its default value to False in v8!
@@ -1266,25 +1266,25 @@ GLOBAL_CONTEXT_FILLER = []
 # }
 
 
-THEME = 'zen'
-NAVIGATION_LINKS = {    # http://fontawesome.io/icons/
-    DEFAULT_LANG: (
-        ('/index.html', 'Home', 'icon-home'),
-        ('/lino', 'Lino', 'icon-desktop'),
-        ('/tim', 'TIM', 'icon-keyboard'),
-        # ("/vtt", "Vigala Wikipedia Workshop", None),
-        # ("/vcc", "Vigala Code Camps", None),
-        # ("/vilma", "The Vilma project", None),
-        ("/blog", "Blog", 'icon-rss'),
-        # ("/categories/", "Tags"),
-        # ("/about", "Rumma & Ko", 'icon-briefcase'),
-        # ("/team", "Our team", 'icon-user'),
-        # ("/views", "Philosophy", 'icon-eye-open'),
-        ("/jobs", "Jobs", 'icon-euro'),
-        ('/contact', 'Contact', 'icon-envelope'),
-        ("/more", "More", 'icon-search'),
-    )
-}
+# THEME = 'zen'
+# NAVIGATION_LINKS = {    # http://fontawesome.io/icons/
+#     DEFAULT_LANG: (
+#         ('/index.html', 'Home', 'icon-home'),
+#         ('/lino', 'Lino', 'icon-desktop'),
+#         ('/tim', 'TIM', 'icon-keyboard'),
+#         # ("/vtt", "Vigala Wikipedia Workshop", None),
+#         # ("/vcc", "Vigala Code Camps", None),
+#         # ("/vilma", "The Vilma project", None),
+#         ("/blog", "Blog", 'icon-rss'),
+#         # ("/categories/", "Tags"),
+#         # ("/about", "Rumma & Ko", 'icon-briefcase'),
+#         # ("/team", "Our team", 'icon-user'),
+#         # ("/views", "Philosophy", 'icon-eye-open'),
+#         ("/jobs", "Jobs", 'icon-euro'),
+#         ('/contact', 'Contact', 'icon-envelope'),
+#         ("/more", "More", 'icon-search'),
+#     )
+# }
 
 # THEME = 'maupassant'
 # NAVIGATION_LINKS = {    # http://fontawesome.io/icons/
@@ -1305,4 +1305,25 @@ NAVIGATION_LINKS = {    # http://fontawesome.io/icons/
 #         ("/more", "More"),
 #     )
 # }
+
+#THEME = 'libretto'
+THEME = 'hyde'
+NAVIGATION_LINKS = {    
+    DEFAULT_LANG: (
+        ('/index.html', 'Home'),
+        ('/lino', 'Lino'),
+        ('/tim', 'TIM'),
+        # ("/vtt", "Vigala Wikipedia Workshop", None),
+        # ("/vcc", "Vigala Code Camps", None),
+        # ("/vilma", "The Vilma project", None),
+        ("/blog", "Blog"),
+        # ("/categories/", "Tags"),
+        # ("/about", "Rumma & Ko", 'icon-briefcase'),
+        # ("/team", "Our team", 'icon-user'),
+        # ("/views", "Philosophy", 'icon-eye-open'),
+        ("/jobs", "Jobs"),
+        ('/contact', 'Contact'),
+        ("/more", "More"),
+    )
+}
 

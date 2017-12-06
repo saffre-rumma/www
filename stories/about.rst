@@ -1,6 +1,4 @@
-========
-About us
-========
+.. title: About us
 
 **Rumma and Ko** is a limited private share company (osaühing) under
 Estonian law.  National registry number `10501849

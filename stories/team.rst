@@ -1,6 +1,4 @@
-========
-Our team
-========
+.. title: Our team
 
 
 .. |br| raw:: html

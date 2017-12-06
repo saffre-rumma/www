@@ -1,6 +1,5 @@
-=========
-Tutvustus
-=========
+.. title: Tutvustus
+
 
 **Rumma ja Ko OÜ** on Eesti omanikega väikeettevõte, mille põhitegevus
 on vaba tarkvara arendamine ja klienditugi kaugtöö vormis. Ettevõttel

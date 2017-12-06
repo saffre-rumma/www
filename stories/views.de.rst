@@ -1,6 +1,4 @@
-=================
-Unsere Grundsätze
-=================
+.. title: Unsere Grundsätze
 
 Worauf es bei einem guten Service ankommt:
 

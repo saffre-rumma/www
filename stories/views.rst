@@ -1,6 +1,4 @@
-==============
-Our philosophy
-==============
+.. title: Our philosophy
 
 Some of our choices
 

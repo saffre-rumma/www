@@ -2,8 +2,9 @@
 Lino Welfare in a nutshell
 ==========================
 
-Currently available only in `French
-<http://www.saffre-rumma.net/fr/welfare_flyer/>`_.
+This content has been moved
+`here <http://fr.welfare.lino-framework.org/>`_
+
 
 .. :doc:`welfare`  currently covers the following functions:
 

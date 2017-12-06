@@ -1,5 +1,5 @@
-Lino System Administrator
-=========================
+.. title: Lino System Administrator
+   
 
 **Work**
 

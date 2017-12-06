@@ -1,15 +1,16 @@
-=================
-The Vilma project
-=================
+.. title: Lino Vilma
+   
+==========
+Lino Vilma
+==========
 
-This document, maintained by Rumma & Ko, is currently under
-discussion.  It is a first vision with the goal of finding partners
-for starting a pilot pilot in Raplamaa county (Estonia).  Please send
-your suggestions and feedback to luc.saffre@gmail.com.
+We are proud to be initiator and service provider for `Lino Vilma
+<http://vilma.lino-framework.org>`_, a tool which helps inhabitants of
+small rural villages for managing their public projects and
+relationships.
 
-**Lino Vilma** might be a customized Lino application which helps
-inhabitants of small rural villages for managing their public projects
-and relationships.
+This document is a first vision with the goal of finding partners for
+starting a pilot project in Raplamaa county (Estonia). 
 
 The current project name "Vilma" is both an acronym of "village
 manager" and a typical given name of 60+ aged female inhabitants of

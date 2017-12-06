@@ -1,42 +1,12 @@
-Lino solutions
-==============
-
-.. _Lino: http://www.lino-framework.org
-
-**Lino** is a framework for writing customized database solutions
-which features a wide range of reusable plugins, including solutions
-for CRM, Invoicing, Calendar, Courses management, Notes, Office
-integration, Time tracking, Accounting and more.
+.. title: Lino solutions
+   
 
 .. straight | powerful | flexible | stable | modular | free | maintainable
 
+.. _Lino: http://www.lino-framework.org
 
-**Lino is free software** and you can run a Lino site completely
-without our help, but as the most competent Lino partner in the world
-we offer four hosting solutions, depending on your particular needs:
-
-- Public Cloud hosting -- the cheapest and easiest solution for
-  small projects
-- Partner hosting -- for customers with a third-party hosting provider
-- Inhouse hosting -- for customers running their own server 
-- Developer support -- for customers with their own application
-  development team
-
-**Lino is for you** if
-
-- you have some concrete need for a customized database application
-- you want a professional, stable and long-term solution
-- you don't expect a finished product and want to help with analysis
-  and testing
-- you want to remain the master of your data even if our collaboration
-  comes to an end
-- you agree that the software created by our common efforts is being
-  published as open source under a free license and can be used by
-  others.
-
-
-Lino is a framework with an extremely wide range of applications.  Our
-**portfolio** of usable applications includes highly customizable and
+We develop database applications for our customers based on the Lino_
+framework. Lino features a wide range highly customizable and
 integrated plugins for
 
 - contacts management
@@ -48,8 +18,20 @@ integrated plugins for
 - client assistance for social workers or therapists
 - accounting, invoicing, general ledger, bank statements, payment
   orders, VAT declarations
+- courses and events management  
 - ticket management, time tracking
 
+Our **portfolio** of applications ready for production includes
+
+- :doc:`welfare` Facilite le travail des travailleurs sociaux dans les CPAS belges
+- :doc:`voga` Das Verwaltung&shy;sprogramm für die
+  Erwachsenenbildungsorganisationen der Deutschsprachigen Gemeinschaft
+- :doc:`cosi` -- accounting made simple
+- :doc:`noi` -- A ticketing and time tracking system to use when time is
+  more than money.
+- :doc:`care` -- Eine Datenbank zur Hilfevermittlung zwischen Menschen
+- :doc:`vilma` -- helps rural villages for managing their public
+  projects and relationships.
 
 See the full list of `Lino applications maintained by our team
 <http://www.lino-framework.org/api/index.html>`__

@@ -1,5 +1,4 @@
-Contact
-========
+.. title: Contact
 
 Official address:
 

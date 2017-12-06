@@ -1,10 +1,12 @@
+.. title: Services Lino Welfare
+           
 =====================
 Services Lino Welfare
 =====================
 
-Ce document décrit notre tarif principal pour :doc:`welfare` à
-destination des CPAS belges.  Il est publié à titre indicatif et ne
-remplace pas une offre individuelle.
+.. Ce document décrit notre tarif principal pour :doc:`welfare` à
+   destination des CPAS belges.  Il est publié à titre indicatif et ne
+   remplace pas une offre individuelle.
 
 Rumma & Ko est l’entreprise qui développe le progiciel Lino
 Welfare. `AbAKUS it-solutions <http://www.abakusitsolutions.eu/>`__

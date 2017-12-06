@@ -1,6 +1,5 @@
-=========================
-Lino Documentation Editor
-=========================
+.. title: Lino Documentation Editor
+
 
 **Requirements**
 

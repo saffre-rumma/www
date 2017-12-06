@@ -1,5 +1,4 @@
-Lino Application Analyst
-========================
+.. title: Lino Application Analyst
 
 **Requirements**
 

@@ -1,6 +1,4 @@
-=================
-Vigala Code Camps
-=================
+.. title: Vigala Code Camps
 
 .. _Python: https://www.python.org/
 .. _Vigala: https://en.wikipedia.org/wiki/Vigala_Parish

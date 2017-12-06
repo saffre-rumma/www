@@ -1,6 +1,5 @@
-================
-à propos de nous
-================
+.. title: à propos de nous
+
 
 **Rumma & Ko** est une société privée à responsabilité limitée avec
 siège en Estonie. Les propriétaires et gérants sont le belge Luc

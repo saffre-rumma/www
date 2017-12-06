@@ -1,3 +1,5 @@
+.. title: Lino Consultant
+
 ===============
 Lino Consultant
 ===============

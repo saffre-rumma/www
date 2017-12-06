@@ -1,6 +1,4 @@
-=========
-Lino Così
-=========
+.. title: Lino Così
 
 We are proud to be maintainer and recommended service provider for
 `Lino Così <http://cosi.lino-framework.org>`_.

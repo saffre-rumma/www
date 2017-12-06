@@ -1,3 +1,5 @@
+.. title: Lino Marketing Assistant
+           
 ========================
 Lino Marketing Assistant
 ========================

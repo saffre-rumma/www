@@ -1,3 +1,5 @@
+.. title: Lino Welfare
+   
 ============
 Lino Welfare
 ============
@@ -13,7 +15,7 @@ für den Betrieb gleichwo in Belgien.
 
 - **Was kann es?**
   Funktionsbeschreibung zur Zeit nur 
-  in  `Französisch <../../fr/welfare_flyer/>`__.
+  in  `Französisch <http://fr.welfare.lino-framework.org/>`__.
 
 - **Wie sieht es aus?** Schauen Sie die `Lino-Tour
   <http://de.welfare.lino-framework.org/tour>`_, oder probieren Sie es selber aus 

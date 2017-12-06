@@ -7,51 +7,34 @@
 .. description: Rumma & Ko, welcome
 
 
-..
-  <div class="jumbotron">
-    <div class="container">
-        <div class="col-md-6 text-center">
-         Go placidly amid the noise and haste.
-         <br>As far as possible be on good terms with all persons.
-         <br>Speak your truth quietly and clearly; and listen to others.
-         <super><a href="https://en.wikipedia.org/wiki/Desiderata">[1]</a></super>
-        </div>
+`Rumma & Ko <about>`__
+provides
+`free <free>`__
+custom database solutions
+for small and medium-sized organizations
+using the `Lino framework <lino>`__.
 
-.. raw:: html
-         
-    <div class="container">
-    
-      <div class="row text-center">
-        <div class="col-md-3 text-center">
-          <p><a href="about">
-          <img src="/rumma_logo.png" width="150px"/>
-          </a></p>
-          
-        </div>
-         
-        <div class="col-md-6 text-center">
-          <h1>Bringing free software to humans since 2001</h1>
-        </div>
-         
-        <div class="col-md-3 text-center">
-        <a href="lino">
-          <img src="/lino_logo.png" width="120px"/>
-          </a>
-        </div>
+- analysis -- we help you formulate what you want
+- development -- we write the Lino you need, import your data
+- hotline -- we answer your questions about Lino
+- hosting -- we offer different hosting formulas depending on your needs
+- maintenance -- we install your Lino to your server, apply upgrades
+  when you want them
+- training -- we write end-user documentation and organize trainings
 
-        </div>
-      <div class="row text-center">
-          <div class="jumbotron">
-          <p><a href="about">Rumma &amp; Ko</a>
-          provides
-          custom database solutions
-          for small and medium-sized organizations
-          using the <a href="lino">Lino framework</a>.
-          </p>
+You should contact us if
 
-          </div>
-      </div>
-    </div>
+- you have some concrete need for a customized database application
+- you want a professional, stable and long-term solution
+- you don't expect a finished product and want to help with analysis
+  and testing
+- you want to remain the master of your data even if our collaboration
+  comes to an end
+- you agree that the software created by our common efforts is being
+  published as open source under a free license and can be used by
+  others.
+
+  
 
 .. remark
 
