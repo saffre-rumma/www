@@ -24,11 +24,12 @@ integrated plugins for
 Our **portfolio** of applications ready for production includes
 
 - :doc:`welfare` Facilite le travail des travailleurs sociaux dans les CPAS belges
-- :doc:`voga` Das Verwaltung&shy;sprogramm für die
-  Erwachsenenbildungsorganisationen der Deutschsprachigen Gemeinschaft
 - :doc:`cosi` -- accounting made simple
 - :doc:`noi` -- A ticketing and time tracking system to use when time is
   more than money.
+- :doc:`tera` -- a management system for therapeutic centres
+- :doc:`voga` Das Verwaltung&shy;sprogramm für die
+  Erwachsenenbildungsorganisationen der Deutschsprachigen Gemeinschaft
 - :doc:`care` -- Eine Datenbank zur Hilfevermittlung zwischen Menschen
 - :doc:`vilma` -- helps rural villages for managing their public
   projects and relationships.

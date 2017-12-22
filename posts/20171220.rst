@@ -1,0 +1,61 @@
+.. title: Danke für 2017
+.. slug: 20171220
+.. date: 2017-12-20 18:05:00 UTC+02:00
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: Luc Saffre
+
+
+Liebe Benutzer von TIM und Lino, wieder einmal neigt sich ein Jahr
+seinem Ende zu, und wieder einmal darf ich dankbar zurückblicken auf
+ein erfolgreiches Geschäftsjahr.  Ohne Sie als treue Kunden wäre
+dieser Erfolg nicht möglich. Ich danke Ihnen für das Vertrauen, das
+Sie unserer langsam wachsenden Mannschaft entgegenbringen.
+
+.. TEASER_END
+
+Dieses Jahr kam der finanzielle Geschäftserfolg für mich
+**überraschend**.  Eigentlich hatte ich mit einer roten Zahl
+gerechnet, weil wir ja jetzt immerhin zu zwei Ganztags-Programmierern
+sind.  Und staunend stelle ich fest, dass meine Prognose falsch war:
+TIM und Lino haben in 2017 zwei Familien ernährt und werden das auch
+in 2018 tun. Wer das genauer verstehen will, kann mich ja mal
+interviewen, aber für mich als Amateur-Geschäftsführer, der in Sachen
+Marketing eher auf Gott denn auf eigene Planung vertraut, ist das
+einfach ein Wunder, ein Geschenk des Himmels, das mich ermutigt,
+weiter zu gehen auf diesem Weg, dessen Ziel auch ich selbst oft nur
+ahne.
+
+Habe ich Ihnen **Tonis** eigentlich schon vorgestellt? Er arbeitet
+seit Februar 2017 ganztags für Rumma & Ko als mein
+Assistent. Inzwischen darf man ihn als den zweiten Mann hinter Lino
+bezeichnen. Auf unserer :doc:`Team-Seite <team>` ist ein Foto von ihm.
+Im Programmieren ist er stellenweise besser als ich, immerhin ist er
+im Gegensatz zu mir ein `digital native
+<https://de.wikipedia.org/wiki/Digital_Native>`__, dagegen haben Leute
+meines Alters einfach keine Chance.  Auch **Hamza** ist weiterhin in
+unserer Mannschaft, wenngleich er 2017 weniger aktiv war.  Als
+Freelancer passt er sich den Umständen an: er hat sich im Juni verlobt
+und deshalb jetzt neben Lino manchmal auch andere Dinge im Kopf.  Das
+ist nicht nur erfreulich, sondern es passte mir auch gut in den Kram,
+weil ich wegen Tonis weniger Zeit hatte, um Hamza Arbeit zuzuweisen.
+
+Was wird 2018 uns bringen? Wie gesagt kann ich die Zukunft nur ahnen,
+aber eines darf ich mittlerweile ankündigen: Rumma & Ko wird mehr
+Verantwortung übernehmen, indem wir **Komplettlösungen für kleinere
+Betriebe** bieten. An dieser Idee hatten wir seit Januar 2017
+gearbeitet und :doc:`im März <20170317>` dann einen Rückzieher
+gemacht, weil ich hoffte, dass AbAKUS uns diese Arbeit abnehmen
+würde. Aber wie sich herausstellt, würde Lino für kleine Betriebe
+dadurch zu komplex. AbAKUS ist Hosting-Partner erster Wahl für größere
+Lino-Projekte, aber daneben werden wir nun auch unser eigenes "cloud
+hosting" anbieten.
+
+Gesegnete Weihnachten und einen guten Rutsch ins Jahr 2018, sowie
+Erfolg in Geschäfts- und Privatleben wünscht
+
+Luc Saffre
+
+

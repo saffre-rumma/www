@@ -1,0 +1,33 @@
+.. title: Celebrating the success of Lino Avanti
+.. slug: 20170816
+.. date: 2017-08-16 23:00:00 UTC+01:00
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: Luc Saffre
+
+
+Celebrating the success of Lino Avanti
+======================================
+
+Today the main actors of `Lino Avanti
+<http://avanti.lino-framework.org/>`__ met in a restaurant in Eupen
+and celebrated the successful start of the project.
+
+.. TEASER_END
+
+Both planning and implementation were a nice example of a classical
+software development project with Rumma & Ko:
+
+- a single live meeting with users and developer in november 2016
+- we write a concise document of a few pages describing the project
+- the customer buys a number of credit work hours.
+- we start coding, publish our work on GitHub, set up a server with a
+  prototype running
+- we write monthly service reports.  
+- A series of *field visits*, remote shared screen meetings of
+  developer and a designated key user. During this phase the
+  application is incrementally being made "ready to teach"
+- The customer organizes training of their users
+  

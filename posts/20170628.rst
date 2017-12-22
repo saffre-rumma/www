@@ -1,0 +1,37 @@
+.. title: Lino Tera got active
+.. slug: 20170628
+.. date: 2017-06-28 23:00:00 UTC+01:00
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: Luc Saffre
+
+
+Lino Tera got active
+====================
+
+Finally.  After long months of waiting for general questions to be
+settled, this month Lydia and I started to actively develop on
+:doc:`Lino Tera <tera>`.  For the first time they saw their data from
+legacy system TIM as it looks in Lino.
+
+.. TEASER_END
+
+Lydia and I had to get used to
+meet with shared screen using Skype or Hangouts. I am amazed about
+Lydias competence: she has no problem switching back and forth between
+two fundamentally different user interfaces, she has a feeling for
+finding bugs and reporting them accurately.
+
+It is the typical workflow during this phase:
+
+1. We prepare the site and write a first prototype
+2. We invite the customer to a field visit, i.e. a meeting where we
+   show what has been done, listen to the user's reaction, discuss
+   about what needs to be done for next time.
+3. We write a report of that visit, including a list of tasks to do.
+4. Our developers work on their tasks until they are ready for an
+   upgrade.
+5. Restart from 2.
+   

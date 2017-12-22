@@ -12,12 +12,10 @@
    :align: left
 
 **Luc Saffre** 
-|br| Senior developer, author of Lino_ and Lino's predecessor TIM_.
-|br| `Blog <http://luc.lino-framework.org/blog/2017/index.html>`__, `LinkedIn <https://www.linkedin.com/in/lucsaffre>`__
-or `GitHub <https://github.com/lsaffre/>`__
+|br| Senior developer & project manager, author of Lino_ and TIM_.
+|br| `More <http://luc.lino-framework.org/about>`__.
 
 
-|br| |br| |br| 
 
 .. image:: /images/ly.jpg
    :width: 80px
@@ -27,7 +25,6 @@ or `GitHub <https://github.com/lsaffre/>`__
 |br| Web designer, company founder and woman behind the
 scenes who holds it all together.
 
-|br| |br| |br| 
 
 .. image:: /images/hamza.png
    :width: 80px
@@ -38,8 +35,6 @@ scenes who holds it all together.
 Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`__
 |br| `GitHub <https://github.com/orgs/lino-framework/people/khchine5>`__
 
-|br| |br| |br| 
-
 .. image:: /images/tonis.jpg
    :width: 80px
    :align: left
@@ -48,7 +43,6 @@ Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`__
 |br| Developer and consultant in **Tallinn**
 works for us since February 2017.
 
-|br| |br| |br| 
 
 
 
