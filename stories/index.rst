@@ -15,11 +15,11 @@ for small and medium-sized organizations
 using the `Lino framework <lino>`__.
 
 - analysis -- we help you formulate what you want
-- development -- we write the Lino you need, import your data
-- hotline -- we answer your questions about Lino
+- development -- we write the application you need, 
 - hosting -- we offer different hosting formulas depending on your needs
-- maintenance -- we install your Lino to your server, apply upgrades
-  when you want them
+- maintenance -- we install your Lino to your server, import your
+  legacy data, apply upgrades when you want them
+- hotline -- we answer your questions about Lino
 - training -- we write end-user documentation and organize trainings
 
 You should contact us if

@@ -31,7 +31,7 @@ scenes who holds it all together.
    :align: left
 
 **Hamza Khchine** 
-|br| Luc's assistant in **Tunisia** works for us as freelancer.
+|br| Core developer in **Tunisia** works for us as freelancer.
 Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`__
 |br| `GitHub <https://github.com/orgs/lino-framework/people/khchine5>`__
 

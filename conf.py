@@ -674,7 +674,7 @@ GITHUB_REMOTE_NAME = 'origin'
 #
 from nikola import filters
 FILTERS = {
-    # ".html": [filters.typogrify],
+    ".html": [filters.typogrify],
     # ".js": [filters.closure_compiler],
     # ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
 }
@@ -915,7 +915,7 @@ COMMENT_SYSTEM_ID = ""
 # setting the "annotations" metadata.
 # If set to True, you can disable them for individual posts and pages using
 # the "noannotations" metadata.
-# ANNOTATIONS = False
+ANNOTATIONS = True
 
 # Create index.html for page (story) folders?
 # WARNING: if a page would conflict with the index file (usually
@@ -1200,7 +1200,7 @@ UNSLUGIFY_TITLES = True
 # If webassets is installed, bundle JS and CSS into single files to make
 # site loading faster in a HTTP/1.1 environment but is not recommended for
 # HTTP/2.0 when caching is used. Defaults to True.
-USE_BUNDLES = True
+USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
