@@ -1310,7 +1310,7 @@ GLOBAL_CONTEXT_FILLER = []
 THEME = 'hyde'
 NAVIGATION_LINKS = {    
     DEFAULT_LANG: (
-        ('/index.html', 'Home'),
+        # ('/index.html', 'Home'),
         ('/lino', 'Lino'),
         ('/tim', 'TIM'),
         # ("/vtt", "Vigala Wikipedia Workshop", None),

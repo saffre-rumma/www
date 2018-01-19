@@ -1,13 +1,14 @@
 .. title: Contact
+.. slug: contact
+.. date: 1970-01-01 00:00:00 UTC
+.. tags:
+.. link:
+.. description: Official address
+
 
 Official address:
 
-| Rumma & Ko OÜ
-| Uus tänav 1
-| Vana-Vigala küla
-| Vigala vald
-| 78003 Raplamaa
-| Estonia
+  Rumma & Ko OÜ, Uus tn 1, Vana-Vigala küla, Märjamaa vald, 78003 Raplamaa, Estonia
 
 
 | E-Mail *info at saffre-rumma.net*
@@ -16,3 +17,4 @@ Official address:
 
 
 See also: :doc:`about`, :doc:`team`, :doc:`views`.
+

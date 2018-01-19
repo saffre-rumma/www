@@ -1,9 +1,12 @@
-===
-TIM
-===
+.. title: TIM
+.. slug: tim
+.. date: 1970-01-01 00:00:00 UTC
+.. tags:
+.. link:
+.. description: 
 
 
-  Ein Buchhaltungsprogramm, das seit 1994 läuft und auch in 2017 noch
+  Ein Buchhaltungsprogramm, das seit 1994 läuft und auch in 2018 noch
   ganz ohne Maus benutzt wird.
 
 
