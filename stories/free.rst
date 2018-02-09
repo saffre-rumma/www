@@ -1,21 +1,26 @@
 .. title: Why software should be free
 
+**Lino is free software.** You can run a Lino site completely without
+our help.
 
-**Lino is free software** and you can run a Lino site completely
-without our help.  While this might seem irrelevant at first glance,
-here is why this is an imporant choice.
+While this might seem utopic at first glance, it is actually an
+**important strategical choice**.
 
-Free software is to computers what **democracy** is to society. Free
-software means democracy, proprietary software means **dictature**.
+Using free software does not make you free from business partners to
+whom you trust your software needs, but it is the only strategy that
+permits a **sovereign** choice of these partners.
 
-Of course it is easier to live in a dictature, as long as you obey the
-rules. Managing your information using free software is **neither
-cheaper nor easier** than using proprietary software.  It is a
-strategical choice.
+It is true that this freedom has a price.  Using free software is
+**neither cheaper nor easier** than using proprietary software.  But
+the more your everyday life depends on computers, the more it is
+important to ask who controls these computers.
 
-**Software must be free** because the
-more your everyday life depends on computers, the more it is important
-to ask who controls these computers. Your **sovereignty** is not
-alienable.
+Free software is to computers what **democracy** is to society.  Using
+proprietary software for managing your business-critical valuable
+information means to accept **dictature**.
 
+**Software must be free because our sovereignty is inalienable**.
 
+Read more:
+
+- https://en.wikipedia.org/wiki/Free_software

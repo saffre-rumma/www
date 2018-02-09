@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Luc Saffre
 
 This weekend I finally invested some time into a task which had been
 waiting since :doc:`20151027`: make the Rumma & Ko website

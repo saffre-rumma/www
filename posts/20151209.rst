@@ -5,6 +5,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Luc Saffre
 
 Liebe Benutzer von TIM und Lino,
 

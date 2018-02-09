@@ -4,6 +4,7 @@
 .. tags:
 .. link:
 .. description: Jobs
+.. author: Luc Saffre
            
 
 .. _Lino: http://www.lino-framework.org

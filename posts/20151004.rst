@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Luc Saffre
 
 ============================
 Lino News #2 -- October 2015

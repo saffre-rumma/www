@@ -4,10 +4,12 @@
 .. tags:
 .. link:
 .. description: Rumma & Ko, welcome
+.. author: Luc Saffre
 
 
 `Rumma & Ko <about>`__
 provides
+`free <free>`__
 custom database solutions
 for small and medium-sized organizations
 using the `Lino framework <lino>`__.

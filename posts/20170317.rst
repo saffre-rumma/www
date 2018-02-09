@@ -5,6 +5,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Luc Saffre
 
 AbAKUS als Lino Hosting provider
 ================================

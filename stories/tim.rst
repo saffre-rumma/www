@@ -4,6 +4,7 @@
 .. tags:
 .. link:
 .. description: 
+.. author: Luc Saffre
 
 
   Ein Buchhaltungsprogramm, das seit 1994 läuft und auch in 2018 noch

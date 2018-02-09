@@ -915,7 +915,7 @@ COMMENT_SYSTEM_ID = ""
 # setting the "annotations" metadata.
 # If set to True, you can disable them for individual posts and pages using
 # the "noannotations" metadata.
-ANNOTATIONS = True
+ANNOTATIONS = False
 
 # Create index.html for page (story) folders?
 # WARNING: if a page would conflict with the index file (usually
@@ -1306,11 +1306,14 @@ GLOBAL_CONTEXT_FILLER = []
 #     )
 # }
 
-#THEME = 'libretto'
+# THEME = 'libretto'
 THEME = 'hyde'
+# THEME = 'bootstrap'
+# THEME = 'lanyon'
+# THEME = 'jidn'
 NAVIGATION_LINKS = {    
     DEFAULT_LANG: (
-        # ('/index.html', 'Home'),
+        ('/index.html', 'Home'),
         ('/lino', 'Lino'),
         ('/tim', 'TIM'),
         # ("/vtt", "Vigala Wikipedia Workshop", None),

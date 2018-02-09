@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Luc Saffre
 
 Here is Luc's status report after three weeks with three employees
 working on Lino.

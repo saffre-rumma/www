@@ -5,6 +5,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Luc Saffre
 
 Today was a historic day: Gerd, Mathieu, Aurélie, Elmar, Annabell and
 I met in order to discuss the strategies and priorities for *Lino
