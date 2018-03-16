@@ -1,7 +1,8 @@
-.. title: About us
+.. title: About Rumma & Ko Ltd
 
 **Rumma and Ko** is a limited private share company (osaühing) under
-Estonian law.  National registry number `10501849
+Estonian law.  Owners are the Belgian software developer Luc Saffre
+and his wife Ly Rumma.  National registry number `10501849
 <http://www.teatmik.ee/et/info/10501849>`_
 
 **We do** development, maintenance and end-user support of `free

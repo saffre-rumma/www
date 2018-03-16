@@ -1,4 +1,4 @@
-.. title: à propos de nous
+.. title: À propos de Rumma & Ko sprl
 
 
 **Rumma & Ko** est une société privée à responsabilité limitée avec

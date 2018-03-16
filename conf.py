@@ -29,7 +29,7 @@ SITE_URL = "http://www.saffre-rumma.net/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://www.saffre-rumma.net/"
 BLOG_EMAIL = "luc@saffre-rumma.net"
-BLOG_DESCRIPTION = "Lino Database Solutions"  # (translatable)
+BLOG_DESCRIPTION = "Rumma & Ko OÜ"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -1176,7 +1176,7 @@ UNSLUGIFY_TITLES = True
 # Nikola supports Open Graph Protocol data for enhancing link sharing and
 # discoverability of your site on Facebook, Google+, and other services.
 # Open Graph is enabled by default.
-# USE_OPEN_GRAPH = True
+USE_OPEN_GRAPH = False  # causes occasional strange output
 
 # Nikola supports Twitter Card summaries, but they are disabled by default.
 # They make it possible for you to attach media to Tweets that link
@@ -1313,7 +1313,7 @@ THEME = 'hyde'
 # THEME = 'jidn'
 NAVIGATION_LINKS = {    
     DEFAULT_LANG: (
-        ('/index.html', 'Home'),
+        # ('/index.html', 'Home'),
         ('/lino', 'Lino'),
         ('/tim', 'TIM'),
         # ("/vtt", "Vigala Wikipedia Workshop", None),
@@ -1321,10 +1321,10 @@ NAVIGATION_LINKS = {
         # ("/vilma", "The Vilma project", None),
         ("/blog", "Blog"),
         # ("/categories/", "Tags"),
-        # ("/about", "Rumma & Ko", 'icon-briefcase'),
         # ("/team", "Our team", 'icon-user'),
         # ("/views", "Philosophy", 'icon-eye-open'),
         ("/jobs", "Jobs"),
+        ("/about", "About"),
         ('/contact', 'Contact'),
         ("/more", "More"),
     )

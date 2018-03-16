@@ -1,6 +1,6 @@
 **General requirements**
 
-- You are able to work independently.
+- You are motivated and able to work independently.
 - You are able to coordinate your work with others.
 - You dare to ask for help when you get stuck.
 
@@ -23,5 +23,4 @@
   <http://noi.lino-framework.org/>`__ to report what you have been
   doing.
 
-- You work as independent freelancer and are able to send us invoices.
 

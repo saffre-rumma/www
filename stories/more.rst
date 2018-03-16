@@ -1,9 +1,9 @@
 .. title: More
 
-- :doc:`about`
 - :doc:`team`
 - :doc:`views`
 - :doc:`free`
+- :doc:`tim`
 
 - `Archive </archive.html>`_
 - `RSS </rss.xml>`_

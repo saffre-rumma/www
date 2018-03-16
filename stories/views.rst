@@ -2,9 +2,9 @@
 
 Some of our choices
 
-- We are working hard for making Lino grow into a big community, but
-  regarding ourselves we are a small organization and want to remain
-  human size. We will rather multiply than become big.
+- We want Lino to become a big community, but regarding ourselves we
+  are a small organization and want to remain human size. We will
+  rather multiply than become big.
 
 - We concentrate on a limited number of products for which we can
   ensure our competence. 
@@ -13,9 +13,14 @@ Some of our choices
   developers should work and get paid like *artists*.
 
 - We believe in `Free software
-  <https://en.wikipedia.org/wiki/Free_software>`__ and refuse to turn
-  our spiritual work into private property.
+  <https://en.wikipedia.org/wiki/Free_software>`__ and refuse to use
+  our spiritual work as private property.
 
+Our strategy is to grow in a **gentle, organic and sustainable** way.
+We grow because *Lino* grows, not because *we* want to be big.
+Besides engaging people ourselves, we also provide free **mentoring**
+and encourage independent actors to learn Lino and use it to make
+their own money.
 
 Our whole business model, incuding sales, development and maintenance
 is based on these choices.  Lino solutions work best in the context of

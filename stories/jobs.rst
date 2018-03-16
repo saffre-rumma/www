@@ -12,35 +12,23 @@
 .. _ExtJS: http://www.sencha.com/products/extjs/
 .. _OpenUI5: http://openui5.org/
 
-Rumma & Ko does development, maintenance and end-user support of free
-customized database applications since 2001.  Since 2009 we are
-investing most of our energy into Lino_, a framework that combines the
-powers of Django_ with those of ExtJS_ or OpenUI5_.  We are currently
-the motor of the Lino community.
+We provide professional customized database solutions to our
+customers, including design, development, maintenance and end-user
+support.  We invest most of our energy into Lino_, a framework that
+extends Django_ with an alternative admin interfaces based on ExtJS_
+and (under development) OpenUI5_.  We can look back to 16 years of
+successful activity.
 
-We provide **professional Lino solutions** to our customers.  We have
-around 20 satisfied customers being handled by a small team of core
-developers.  Our team is doing a great job with Lino, but our
-customers have more projects than we can deliver.  That's why we
-believe that Lino and our business model have a future that goes
-beyond the career of a few developers.
+We have around 20 satisfied customers being handled by a small team of
+core developers.  But our customers have more projects than we can
+deliver.  Lino and our business model have a future that goes beyond
+the career of a few developers.
 
-Our strategy is to grow in a
-**gentle, organic and sustainable** way.
-We grow because *Lino* grows, not because *we* want to be big.
-Besides engaging people ourselves, we also provide free **mentoring** and
-encourage independent actors to learn Lino and use it to make their
-own money.
-
-Here is a list of people we clearly need.  Priority candidates are
-those who have proven their skills by contributions to open-source
-projects.
-
+Here is a list of people we would love to welcome to our team.
 
 **Short-term**
 
-- :doc:`coredev`
-- :doc:`uidev`
+- `Python/Django developer </dl/coredev.pdf>`_ located in Estonia.
 
 **Medium-term**
 
