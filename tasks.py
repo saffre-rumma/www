@@ -1,5 +1,5 @@
-from atelier.invlib.ns import ns
-ns.setup_from_tasks(globals())
+from atelier.invlib import setup_from_tasks
+ns = setup_from_tasks(globals())
 
 cfg = dict()
 # cfg.update(tolerate_sphinx_warnings=True)
