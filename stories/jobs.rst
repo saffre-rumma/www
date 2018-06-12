@@ -33,9 +33,12 @@ Here is a list of people we would love to welcome to our team.
 **Medium-term**
 
 - :doc:`ma`
+- :doc:`pm`
 - :doc:`consultant_welfare`
 - :doc:`analyst`
 - :doc:`admin`
 - :doc:`consultant`
 - :doc:`documentor`
+
+
 
