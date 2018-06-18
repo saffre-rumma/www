@@ -7,14 +7,13 @@
 .. author: Luc Saffre
 
 
-`Rumma & Ko <about>`__
-provides
-`free <free>`__
-custom database solutions
-for small and medium-sized organizations
-using the `Lino framework <lino>`__.
+`Rumma & Ko <about>`__ provides `free <free>`__ custom database
+solutions for small and medium-sized organizations using the `Lino
+framework <lino>`__.
 
-- analysis -- we help you formulate what you want
+**Our services** include
+
+- analysis -- we help you to formulate what you want
 - hosting -- we offer different hosting formulas depending on your
   needs
 - development -- we write the application you need, we install your
@@ -23,6 +22,19 @@ using the `Lino framework <lino>`__.
   when you want them
 - hotline -- we answer your questions about Lino
 - training -- we write end-user documentation and organize trainings
+
+**You want our services** if
+
+- you need a database application and can't find any satisfying stock
+  solution
+- you don't expect a finished product and want to help with analysis
+  and testing
+- you want a stable and long-term solution
+- you want to remain the master of your data even if our collaboration
+  comes to an end
+- you want the software created by our common efforts to be shared
+  with others as open source software under a free license.
+
 
  
 

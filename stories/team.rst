@@ -17,15 +17,6 @@
 
 
 
-.. image:: /images/ly.jpg
-   :width: 80px
-   :align: left
-
-**Ly Rumma** 
-|br| Web designer, company founder and woman behind the
-scenes who holds it all together.
-
-
 .. image:: /images/hamza.png
    :width: 80px
    :align: left
@@ -42,6 +33,15 @@ Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`__
 **Tonis Piip** 
 |br| Developer and consultant in **Tallinn**
 works for us since February 2017.
+
+
+.. image:: /images/ly.jpg
+   :width: 80px
+   :align: left
+
+**Ly Rumma** 
+|br| Web designer, company founder and woman behind the
+scenes who holds it all together.
 
 
 

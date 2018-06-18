@@ -20,18 +20,13 @@ and (under development) OpenUI5_.  We can look back to 16 years of
 successful activity.
 
 We have around 20 satisfied customers being handled by a small team of
-core developers.  But our customers have more projects than we can
-deliver.  Lino and our business model have a future that goes beyond
-the career of a few developers.
+core developers.  Our customers have more projects than we can
+deliver.  Lino has a future that goes beyond the career of a few
+developers.
 
 Here is a list of people we would love to welcome to our team.
 
-**Short-term**
-
-- `Python/Django developer </dl/coredev.pdf>`_ located in Estonia.
-
-**Medium-term**
-
+- `Python/Django developer </dl/coredev.pdf>`_
 - :doc:`ma`
 - :doc:`pm`
 - :doc:`consultant_welfare`
