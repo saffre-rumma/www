@@ -25,12 +25,13 @@ The basic idea of this project is developed below in a few steps:
   free.
 
 - This potential is currently merely visible to investors and
-  stakeholders.  There is much work to do.  Even professional
-  developers can get scared when they realize how much there is to do.
+  stakeholders.  There is much work to do to bring Lino to the next
+  level so that it can grow from a project with a handful of
+  developers into a reliable international infrastructure.
 
 - Rumma & Ko wants to remain a family-sized dynamic team of creative
-  developers. We don't have sufficient human resources for bringing
-  Lino to the next level.
+  developers.  We don't have the human resources for bringing Lino to
+  the next level.
 
 - Even if we *would* decide to become big ourselves, this wouldn't be
   a solution.  The role of bringing Lino to the next level must be
