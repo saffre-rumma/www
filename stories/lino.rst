@@ -6,7 +6,7 @@
 .. _Lino: http://www.lino-framework.org
 
 We develop database applications for our customers based on the Lino_
-framework. Lino features a wide range highly customizable and
+framework. Lino features a wide range of highly customizable and
 integrated plugins for
 
 - contacts management
@@ -15,9 +15,10 @@ integrated plugins for
 - reception and waiting room management
 - households and family members
 - skills, job search assistance, career and curriculum  
-- client assistance for social workers or therapists
-- accounting, invoicing, general ledger, bank statements, payment
-  orders, VAT declarations
+- client coaching for social workers or therapists
+- invoicing (automatically generate invoices)
+- accounting (general ledger, bank statements, payment
+  orders, VAT declarations)
 - courses and events management  
 - ticket management, time tracking
 

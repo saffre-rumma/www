@@ -20,9 +20,8 @@ The basic idea of this project is developed below in a few steps:
   database applications is currently dominated by a few proprietary
   giants.
 
-- The Lino framework has the potential of becoming such a solution.
-  Lino is a sign of hope for those who believe that software must be
-  free.
+- The Lino framework has the potential of becoming a solution for this
+  problem.
 
 - This potential is currently merely visible to investors and
   stakeholders.  There is much work to do to bring Lino to the next
