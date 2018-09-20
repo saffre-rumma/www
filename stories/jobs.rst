@@ -26,6 +26,7 @@ developers.
 
 Here is a list of people we would love to welcome to our team.
 
+- :doc:`uidev`
 - :doc:`seniordev`
 - `Python/Django developer </dl/coredev.pdf>`_
 - :doc:`ma`
