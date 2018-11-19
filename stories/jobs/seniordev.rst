@@ -10,27 +10,35 @@ framework maintained by a distributed team of developers.
 
 **Work description**
 
-- You work independently at home using your own hardware.
-  
-- You communicate with the other core developers and synchonize their
-  work.  You respond to their questions within 12 hours on workdays.
-  
-- You actively ask for help when needed.
-  
+- You work at home using your own hardware.
 - You don't have any direct customer contact.
-
-**Your responsibilities**
-
-- You know and understand every part of Lino.
+- You learn independently and ask for help when needed.
+  
+**Your responsibilities**  
+  
+- You communicate with the other team members on Slack, Hangouts or
+  other platforms.
+  
+- You monitor and triage the tickets in our issue tracking system.
+  
+- You manage the developer team, help the other members to pick a
+  task that suits them.
+  
+- You respond to questions of other team members within hours on
+  workdays.
+  
 - You monitor the build reports on Travis and fix issues.
-- You review pull requests and ensure their quality.
-- You make Lino installable using pip.
+- You review pull requests and commits of contributors and ensure
+  their quality.
 - You add new test cases to increase coverage.
+- You know and understand every part of Lino.
+- You constantly review the Lino book and make changes where needed.
 
 **Requirements**
 
 - You have contributed to other open-source projects.
-  You are able to publish your source code on a public code repository
+  
+- You are able to publish your source code on a public code repository
   like `GitHub <https://github.com/>`_
   
 - You are familiar with `Python <https://www.python.org/>`__ `Django
