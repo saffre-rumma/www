@@ -1,0 +1,79 @@
+.. title: Rückschau 2018 und Ausblick 2019
+.. slug:
+.. date: 2019-01-11 12:17:39 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Liebe Freunde und Benutzer von TIM und Lino,
+
+Tonis, Hamza und ich wünschen Ihnen ein erfolgreiches Jahr 2019 und danken für
+Ihr Vertrauen in unser gemeinsames Projekt.
+
+Vorige Woche traf sich unser dreiköpfiges Entwicklerteam erstmals zu einem
+Gruppenfoto, das die passionierte estnische Fotografin `Siiri Kumari
+<https://www.siirikumari.com/1488340-contact>`__ für uns geschossen hat.
+
+.. image:: /images/2019/foto-2.jpg
+
+.. TEASER_END
+
+Worin "unser" Projekt genau besteht und was daran "gemeinsam" ist, das ist
+freilich eine komplexe Frage.
+
+Unser Vertriebsmodell war bisher recht einfach: der Kunde zahlt einen individuell festgelegten Jahresbeitrag und kriegt dafür so viele Dienstleistungen wie er braucht, und nur für Sonderwünsche zahlt er dazu. Und ob etwas ein Sonderwunsch ist, darüber einigen wir uns wenn die Arbeit erledigt ist. Manch einer braucht meine Hilfe fast nie, manch anderer kommt jede Woche mit neuen Verbesserungsideen. Zum Beispiel meldete vorige Woche ein TIM-Benutzer ein Problem " 119 Periode nicht definiert", das sich dann als ein echter Y2K-Bug erwies, für dessen Lösung wir eine neue Version aufspielen mussten. Falls Sie diese Meldung in Ihrem TIM auch schon gesehen haben (sie erscheint gleich nach der Anmeldung einmal kurz in der Meldungszeile), sollten Sie sich mit mir in Verbindung setzen, damit wir auch Ihnen die neue Version aufspielen. 18 Jahre hat dieser Bug unerkannt geschlummert. Selbstverständlich war das kein Sonderwunsch.
+
+Selbstverständlich? Von wegen! Unter den Lino-Benutzern zeichnet sich eine neue
+Entwicklung ab. Manche Kunden wollen  sehr genau wissen, wofür sie zahlen.
+Nicht aus Misstrauen, sondern aus dem Bedürfnis nach Planbarkeit und
+Transparenz. Im vergangenen Jahr hat sich da vieles getan und sogar ich (!)
+habe eingesehen, dass unser altbewährtes "familiäres" Vertriebsmodell
+spätestens bei meiner Pensionierung in voraussichtlich 14 Jahren zu Ende gehen
+wird und schon jetzt für Betriebe ab 50 Benutzern nicht tragfähig ist. Für
+solche Betriebe musste ich dieses Jahr neue Spielregeln entwickeln. So ist für
+Lino aus dem einseitigen `Software-Wartungsvertrag
+<https://saffre-rumma.net/dl/Software-Wartungsvertrag.pdf>`__ ein achtseitiges
+Dokument `Kooperationsrichtlinien
+<https://saffre-rumma.net/dl/Kooperationsrichtlinien.pdf>`__ geworden.
+Wohlgemerkt: TIM-Benutzer brauchen das neue Dokument nicht zu lesen, denn für
+uns geht es weiter auf die altbewährte Art, die nebenbei bemerkt deutlich
+kostengünstiger ist.
+
+Als geistiger "Vater" von TIM und Lino freue ich mich über das Wachstum meiner
+"Kinder" und sehe mit Freude, wie Lino beginnt, über mich hinaus zu wachsen.
+Freilich macht mir diese Entwicklung auch Angst. Lino wird *zu* groß für mich.
+Aber ich fühle mich getragen. Zum Beispiel spüre ich dankbar das Wohlwollen der
+größeren Kunden, die mich im vergangenen Jahr mit teils heftigen Diskussionen
+zu den neuen Kooperationsrichtlinien gedrängt haben. Oder im Oktober begegnete
+ich ganz ohne eigenen Verdienst einem IT-Berater aus Sankt-Vith, der sich
+sogleich in Lino "verliebte" und mir seitdem schon viele Stunden geholfen hat,
+über die Zukunft von Lino nachzudenken. Für die nächsten Entwicklungsprojekte
+wird er voraussichtlich die Analyse übernehmen und mich dadurch entlasten. Aber
+das sind nur zwei Beispiele. Herzlichen Dank auch an die vielen Freunde, die
+mir in diesem Jahr geduldig Nachhilfestunden in Projektmanagement gegeben
+haben.
+
+Wieso wächst Lino so langsam? Immer deutlicher wird, dass die Präsentation
+meiner Projekte an Außenstehende eben *nicht* meine Berufung ist.  Rumma & Ko
+investiert weiterhin so gut wie nichts in Verkaufsarbeit. Das wäre auch für
+2019 einfach unlogisch, denn mittlerweile warten schon vier Betriebe in
+Ostbelgien auf ihren Lino, und ich kann diesen Leuten nur sagen "Sobald ich
+Zeit für euch habe, fange ich an". Tonis und Hamza leisten sehr wichtige
+Arbeit, um die Qualität des Frameworks zu gewährleisten, aber für die
+Anwendungsentwicklung können sie mich nicht entlasten, dazu bäuchte es einen
+deutschsprachigen Programmierer.
+
+Wir hoffen also, dass Lino in 2019 weitere aktive Mitarbeiter und eine Trägerstruktur in Belgien findet.
+
+*Die Geduld aber soll zu einem vollkommenen Werk führen, damit ihr vollkommen
+und untadelig seid und es euch an nichts fehlt. Fehlt es aber einem von euch
+an Weisheit, dann soll er sie von Gott erbitten.* (`Jakobus 1,4-5
+<https://www.bibleserver.com/text/EU/Jakobus1>`__). In diesem Sinne wünsche
+ich uns allen Gottes Segen für unsere Zusammenarbeit.
+
+Mit freundlichen Grüßen
+
+| Luc Saffre
+| Rumma & Ko OÜ
