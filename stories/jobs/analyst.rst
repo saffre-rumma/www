@@ -1,4 +1,4 @@
-.. title: Lino Application Analyst
+.. title: Lino Application Consultant
 
 **Requirements**
 
