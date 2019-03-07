@@ -35,6 +35,7 @@ Here is a list of people we would love to welcome to our team.
 - :doc:`admin`
 - :doc:`consultant`
 - :doc:`documentor`
+- :doc:`thesis`
 
 
 
