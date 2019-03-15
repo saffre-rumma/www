@@ -1,14 +1,6 @@
-.. title: Professional support for Lino applications
+.. title: Write your thesis about Lino
 
-We accept candidatures of students who plan to write a thesis about
-
-  Providing and managing professional end-user support for customized
-  database applications developed using the Lino framework
-
-During the internship the candidate will work locally in several different
-organizations in **Eupen**. The customers will ask the author to sign a
-confidentiality agreement.
-
+We provide mentorships for students who plan to write a thesis related to Lino.
 The candidates should be applying for an academic degree or professional
 qualification in one of the following fields:
 
@@ -16,35 +8,39 @@ qualification in one of the following fields:
 - Business administration (Betriebswirtschaft / Gestion d'entreprise)
 - Analyst/Programmer (Anwendungsentwickler / Analyste-Programmeur)
 
-The candidate will choose to focus on one or several of the following topics.
+**Suggested topics**
 
-- The challenges of providing high quality support to end users of specialized
-  software applications.
+- Providing professional end-user support for customized business applications
+  developed using the Lino framework
 
-- Advantages and challenges of developing a customized database application
+- Using Open Source Software tools for project management and time tracking
 
-- Managing a non-profit association that sells professional support for
-  Free Open Source Software
+- Advantages and challenges of a customized business application
 
-- Strategic advantages and challenges of Open Source Software in a professional
-  context
+- Developing a customized business application using the Lino framework.
+  Analysis, code, deployment, quality control, documentation, maintenance.
 
-- Using software tools for project management and time tracking
+- Authoring documentation about a Lino application using the Sphinx
+  documentation system
 
-- Developing a customized database application (analysis, code, deployment,
-  quality control, documentation, maintenance)
+- Strategic advantages and challenges of Open Source Software
+  for customized business applications
 
-- Authoring technical documentation about a Lino application
+- Advantages and challenges of the Lino framework compared to similar
+  frameworks
 
-- Using the Sphinx documentation system as a tool for writing a thesis.
-
-- Comparing the Lino framework to other frameworks.
+- Founding a sustainable non-profit association that sells professional support
+  for Free Open Source Software
 
 
 **Requirements**
 
+During the internship the author will work locally in several different
+organizations in `Eupen <https://en.wikipedia.org/wiki/Eupen>`__. The customers
+will ask the author to sign a confidentiality agreement.
+
 - You speak both German and English
-- You live near `Eupen <https://en.wikipedia.org/wiki/Eupen>`__
+- You live near Eupen
 - You love working with computer software and its users
 - You have your own notebook computer and Internet connection
 - You have read about the `Lino framework <http://www.lino-framework.org>`__
@@ -68,7 +64,7 @@ The candidate will choose to focus on one or several of the following topics.
   desktop sessions.
 
 
-At the end of your internship you will
+**At the end of your internship you will**
 
 - have valuable skills for working anywhere in the Free Open Source Software
   industry
