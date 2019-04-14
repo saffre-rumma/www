@@ -14,24 +14,27 @@ Lino needs somebody who does that job.
  
 **Requirements**
 
-- You have experience with managing information systems  and
-  database applications.
-- You love explaining to others why they should choose your product.
-- You live in Belgium
+- You have experience with information systems and database applications.
+- You understand how free software differs from proprietary software.
+- You love sharing your knowledge with others.
+- You live in Belgium.
 - You speak and write (besides English) either German or French. Both together are
   a bonus.
 
-**Your duties**
+**Your job**
 
-- You know what's so cool about Lino, you know its features and
-  limits.  You understand why software must be free.
+- You understand why Lino is so cool, you know its features and limits.
 
-- You know our customers and partners in order to become their
+- You talk about Lino with our customers and partners in order to become their
   first and preferred contact for everything that doesn't need direct
   communication with a developer.
 
-- You help with writing and maintaining our sales offers, partner agreements,
-  privacy statements, our website and other public texts.
+- You help us writing and maintaining our sales offers, partner agreements,
+  privacy statements, our website and other documents.
+
+- You help us managing a growing community of volunteer contributors.
+
+- You write projects and and collaborate with public instanceas in Belgium.
 
 ..
     - help us with deciding what's important
@@ -39,5 +42,6 @@ Lino needs somebody who does that job.
     - write regular newsletters about Lino and free software
     - talk with customers and partners
 
+.. include:: include/jobs_conditions.rst
 
 .. include:: include/jobs_contact.rst
