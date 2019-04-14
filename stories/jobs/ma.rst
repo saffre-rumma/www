@@ -9,26 +9,35 @@ it was being used in small organisations where trust
 works on human level.
 But more and more medium-sized organisations want to use Lino.
 Having bigger customers requires additional work for
-marketing, promotion and sales.
+customer care, marketing, promotion and sales.
 Lino needs somebody who does that job.
  
 **Requirements**
 
-- You understand what's so cool about Lino, you know its features and
-  limits.
 - You have experience with managing information systems  and
   database applications.
-- You understand why software must be free.
 - You love explaining to others why they should choose your product.
-- You feel well with writing PR texts.
+- You live in Belgium
+- You speak and write (besides English) either German or French. Both together are
+  a bonus.
 
 **Your duties**
 
-- review the *saffre-rumma.net* website, write content where necessary
-- help us with deciding what's important
-- describe workflow processes and requirements for our development team
-- write regular newsletters about Lino and free software
-- talk with customers and partners
+- You know what's so cool about Lino, you know its features and
+  limits.  You understand why software must be free.
+
+- You know our customers and partners in order to become their
+  first and preferred contact for everything that doesn't need direct
+  communication with a developer.
+
+- You help with writing and maintaining our sales offers, partner agreements,
+  privacy statements, our website and other public texts.
+
+..
+    - help us with deciding what's important
+    - describe workflow processes and requirements for our development team
+    - write regular newsletters about Lino and free software
+    - talk with customers and partners
 
 
 .. include:: include/jobs_contact.rst
