@@ -1146,10 +1146,13 @@ SEARCH_FORM = """
 # before </head>
 # (translatable)
 # EXTRA_HEAD_DATA = ""
+
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
+BODY_END = """
+<script async id="slcLiveChat" src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="206906398"></script>
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
@@ -1312,7 +1315,7 @@ THEME = 'hyde'
 # THEME = 'bootstrap'
 # THEME = 'lanyon'
 # THEME = 'jidn'
-NAVIGATION_LINKS = {    
+NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         # ('/index.html', 'Home'),
         ('/lino', 'Lino'),
@@ -1330,4 +1333,3 @@ NAVIGATION_LINKS = {
         ("/more", "More"),
     )
 }
-
