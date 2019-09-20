@@ -1150,9 +1150,10 @@ SEARCH_FORM = """
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-BODY_END = """
-<script async id="slcLiveChat" src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="206906398"></script>
-"""
+# removed 20190919 because the widget causes problems with site navigation
+# BODY_END = """
+# <script async id="slcLiveChat" src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="206906398"></script>
+# """
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
