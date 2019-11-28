@@ -3,45 +3,48 @@
 
 .. |br| raw:: html
 
-   <br />   
-   
+   <br />
 
-.. image:: /images/luc.jpg
-   :alt: Luc
-   :width: 80px
-   :align: left
+.. list-table::
+  :widths: 20 80
 
-**Luc Saffre** 
-|br| Senior developer & project manager, author of Lino_ and TIM_.
-|br| `More <http://luc.lino-framework.org/about>`__.
+  * - .. image:: /images/luc.jpg
+         :alt: Luc
+         :width: 80pt
 
-
-
-.. image:: /images/hamza.png
-   :width: 80px
-   :align: left
-
-**Hamza Khchine** 
-|br| Core developer in **Tunisia** works for us as freelancer.
-Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`__
-|br| `GitHub <https://github.com/orgs/lino-framework/people/khchine5>`__
-
-.. image:: /images/tonis.jpg
-   :width: 80px
-   :align: left
-
-**Tonis Piip** 
-|br| Developer and consultant in **Tallinn**
-works for us since February 2017.
+    - **Luc Saffre**
+      |br| Senior developer & project manager, author of Lino_ and TIM_.
+      `More <http://luc.lino-framework.org/about>`__.
+      |br| luc@saffre-rumma.net or via `GitHub <https://github.com/orgs/lino-framework/people/lsaffre>`__
 
 
-.. image:: /images/ly.jpg
-   :width: 80px
-   :align: left
+  * - .. image:: /images/hamza.png
+         :alt: Hamza
+         :width: 80pt
 
-**Ly Rumma** 
-|br| Web designer, company founder and woman behind the
-scenes who holds it all together.
+    - **Hamza Khchine**
+      |br| Core developer in **Tunisia** works for us as freelancer.
+      Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`__
+      |br| hamza@saffre-rumma.net
+      or via `GitHub <https://github.com/orgs/lino-framework/people/khchine5>`__
+
+  * - .. image:: /images/tonis.jpg
+         :alt: Tonis
+         :width: 80pt
+
+    - **Tonis Piip**
+      |br| Developer and consultant in **Tallinn**
+      works for us since February 2017.
+      |br| tonis@saffre-rumma.net
+      or via `GitHub <https://github.com/orgs/lino-framework/people/CylonOven>`__
+
+  * - .. image:: /images/ly.jpg
+         :alt: Ly
+         :width: 80pt
+
+    - **Ly Rumma**
+      |br| Web designer, company founder and woman behind the
+      scenes who holds it all together.
 
 
 
@@ -50,6 +53,3 @@ scenes who holds it all together.
 .. _Lino: http://www.lino-framework.org
 .. _Django: http://www.djangoproject.org
 .. _ExtJS: http://www.sencha.com/products/extjs/
-
-
-
