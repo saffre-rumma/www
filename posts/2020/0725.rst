@@ -1,0 +1,88 @@
+.. title: Sommergruß 2020
+.. slug:
+.. date: 2020-07-25 15:42:27 UTC+03:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Luc Saffre
+
+Liebe Freunde und Benutzer von TIM und Lino,
+
+seit meinem :doc:`letzten Rundbrief <0101>` im Januar hat die Welt ja einiges
+erlebt. Ich hoffe, dass Sie und Ihr Unternehmen die Corona-Krise ohne allzu
+große Schwierigkeiten meistern. Ich wünsche Ihren Erfolg, Gesundheit und Frieden
+im Herzen bei all Ihren Projekten.
+
+Lino und TIM haben ja keinen eigenen Kundenbetreuer, der alle Kunden regelmäßig
+kontaktiert um zu fragen, wie es geht. Aber ich bin stets gerne für ein
+unverbindliches Gespräch zu haben unter den bekannten Telefonnummern. Auf meine
+Handynummer können Sie auch kostenlos über WhatsApp anrufen. Oder Sie können per
+E-Mail einen Terminvorschlag für ein Videogespräch machen. Ich funktioniere
+weiterhin hauptsächlich nach dem Prinzip "Wer sich nicht meldet, dem geht es
+gut".
+
+Für uns bei Rumma & Ko hat die Corona-Krise quasi keine Änderung hervorgerufen,
+weil wir schon seit Jahren voll auf Distanz arbeiten. Wir haben einfach weiter
+gemacht wie bisher. Eine Ausnahme gab es ja wohl, nämlich die angekündigte Reise
+im Juni musste ausfallen.
+
+Ende Juni kam dann --sogar für mich ziemlich überraschend-- etwas Neues für uns.
+Ich habe eine strategische Entscheidung getroffen, für die ich mein ganzes
+Vertrauen in die Zukunft der Freien Software brauchte: ich habe Hamza und Tonis
+in die Welt hinaus geschickt. Tonis geht voraussichtlich in Tallinn bei Thorgate
+arbeiten und Hamza bei AbAKUS. Ich habe also sozusagen zwei Experten jahrelang
+herangebildet und „schenke“ sie nun meinen „Konkurrenten“. In der klassischen
+Betriebswirtschaft schwer vorstellbar, aber in der Welt der freien Software
+macht es Sinn. Denn für Lino ist es wichtig, dass Rumma & Ko Konkurrenz kriegt
+und nicht der einzige Dienstleistungsanbieter bleibt. Thorgate und AbAKUS haben
+nun einen eigenen Mitarbeiter, der Lino kennt. Dadurch steigt ihre Motivation,
+Lino bei ihren Kunden einzusetzen. Und auch für uns ist das ideal: Rumma & Ko
+funktioniert weiter wie bisher. Hamza und Tonis hatten ja nie direkten
+Kundenkontakt, insofern kann ich unsere bestehenden und zukünftigen Kunden auch
+allein bedienen. Falls ich mal technische Rückendeckung brauche in schwierigeren
+Fällen, können die beiden mir stundenweise helfen. Es gibt schon seit längerem
+einen Notrufplan für den Fall, dass Sie ein dringendes Problem haben und mich
+nicht erreichen können. Hamza und Tonis stehen dort weiter zur Verfügung und
+würden im Fall eines Falles ihr Bestes geben.
+
+.. Mein oben erwähntes "Vertrauen in die Zukunft der Freien Software" teilt nicht
+  unbedingt jeder. Das ist auch nicht nötig. Ich erwähne es lediglich, um zu
+  erklären, weshalb es TIM und Lino überhaupt gibt, und weshalb auch Sie
+  vertrauensvoll in die Zukunft schauen dürfen.
+
+Dass meine Entscheidung richtig war, spüre ich seitdem an vielen Stellen. Ich
+nenne deren mal zwei.
+
+1) Ich habe wieder mehr Energie frei für die eigentliche Arbeit, anstatt mir
+Gedanken zu machen, wie ich meine Mitarbeiter dazu bringe, sie an meiner Stelle
+zu erledigen. Nicht dass ich keine Freude am Delegieren und Leiten gehabt hätte
+(siehe mein Rundbrief vom Januar), aber das alles nimmt nun mal viel Zeit und
+Energie. TIM und Lino sind so kostengünstig, weil sie von der Liebe eines
+verrückten Einzelkämpfers leben. Der Umsatz fließt quasi zu 100% in Support und
+Entwicklung statt wie bei größeren Softwareentwicklern hauptsächlich in
+Management und Verkauf.
+
+2) Andererseits bin ich ja im Grunde absolut kein Einzelkämpfer. Aber meine
+Erfahrungen will ich nicht nur mit einer kleinen Mannschaft von Lohnarbeitern
+teilen, sondern mit allen interessierten Menschen. Ich kann jetzt wieder mehr
+Zeit investieren in technische Dokumentation für Entwickler und Systemverwalter
+aus aller Welt, die Lino nutzen möchten, um damit Geld zu verdienen. Deshalb
+freute es mich, als Mitte Juni eine Mail eintraf von Ismail, einem SAP-Experten
+aus der Türkei, der mit einem Freund irgendwann einmal Lino-Hosting in der
+Türkei anbieten will.
+
+Ich hoffe weiterhin, dass sich neben kommerziellen Anbietern auch eine VoG in
+Ostbelgien findet oder bildet, die Lino-Dienstleistungen verkauft. Da würde ich
+sofort einsteigen. Sie als normale Benutzer können mitwirken bei meinem
+Lebenstraum, indem Sie anderen Leuten erzählen, wie zufrieden Sie mit TIM bzw.
+Lino sind.
+
+Nun lasse ich Sie für dieses Mal wieder in Ruhe und schließe wie im Januar:
+Danke allen Freunden, die diese Mail bis zu Ende gelesen haben und im kommenden
+Jahr vielleicht einen neuen Benutzer entdecken.
+
+| Mit freundlichen Grüßen
+| Luc Saffre
+| Rumma & Ko OÜ

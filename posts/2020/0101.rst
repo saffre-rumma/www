@@ -1,0 +1,79 @@
+.. title: TIM und Lino 2020
+.. slug:
+.. date: 2020-01-01 22:42:27 UTC+03:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Luc Saffre
+
+
+Liebe Freunde und Benutzer von TIM und Lino,
+
+wieder einmal geht ein Jahr unserer Zusammenarbeit vorüber. Ich hoffe, Sie
+hatten erholsame Feiertage mit vielen guten Begegnungen. Für das Jahr 2020
+wünsche ich Ihnen Gesundheit, viele Erfolgserlebnisse und Gottes Segen für
+unsere Projekte.
+
+Mindestens ein Projekt haben wir ja gemeinsam, nämlich TIM bzw. Lino. Beide sind
+gewachsen aus meiner **Vision** eines Frameworks zur Entwicklung von
+nachhaltigen Datenbankanwendungen, das niemanden in proprietäre Softwarelizenzen
+verstrickt.
+
+**TIM** steht technologisch am Ende der Fahnenstange, hält sich dort aber erfreulich
+gut. Das allein ist schon ein Grund, stolz und dankbar zu sein.
+Softwareprodukte, die sich seit dem vorigen Jahrtausend nicht mehr nennenswert
+verändert haben, konnte man im Jahr 2019 an den Fingern einer Hand abzählen.
+Eine TIM-Benutzerin, die vor Jahren einmal eine Steuerkontrolle hatte,
+berichtete mir von der Reaktion des Steuerprüfers, als der sich ihren TIM
+genauer anschaute: "Oh, das ist aber mal eine transparente
+Buchhaltungssoftware!". Solche und ähnliche Berichte höre ich immer wieder mal
+genau dann, wenn es nötig ist.
+
+Dass TIM und Lino funktionieren, liegt natürlich großteils daran, dass da ein
+Programmierer **begeistert** genug ist, an diese Vision zu glauben und seit 18
+Jahren für einen sehr geringen Lohn zu arbeiten. Volkswirtschaftlich betrachtet
+kann das nicht lange gut gehen, denn solche Leute sind selten. Aber zum Glück
+für TIM und Lino habe ich nie Wirtschaftswissenschaften studiert.
+
+Begeisterung und Glaube mag viel bewirken, aber ohne **Hamza** und **Tonis**
+hätte selbst ich inzwischen vielleicht aufgegeben. Die beiden sind mir zu
+unschätzbar wertvollen Assistenten geworden, auf die ich nicht mehr verzichten
+möchte. Hamza, Tonis und ich werden auch im Jahr 2020 unser Bestes geben, um
+Lino immer noch besser zu machen. Wir arbeiten zusammen wie eine Familie:
+dreimal pro Woche begegnen wir uns im Standup-Meeting. Je nach Bedarf sprechen
+wir uns ab für zusätzliche Zweiersitzungen. Ein zuverlässig funktionierendes
+international verteiltes Team, das vollkommen ohne gemeinsames Büro auskommt.
+Lino wird von drei Entwicklern ganztags weiter ausgebaut und gewartet, und das
+zu sensationell niedrigen Kosten!
+
+**Lino ist weiter gewachsen.** Das Projekt wird gewissermaßen zu groß für einen
+Manager wie mich. In einem öffentlichen Betrieb mit 50 Benutzern gelten andere
+Regeln als in einem Familienbetrieb mit 5 Angestellten. Kooperationsrichtlinien,
+Verträge, Angebote, Dienstleistungsberichte... lauter Dinge, von denen ich lange
+Zeit glaubte, dass irgendwann jemand anderer sie für mich erledigt. Im
+vergangenen Jahr bin auch ich diesbezüglich gewachen und beginne, mich den neuen
+Aufgabenbereichen zu stellen und damit umzugehen. Das hat mich -und somit Lino-
+viel Arbeit gekostet. Glücklicherweise bekam ich immer wieder Nachhilfestunden
+und praktischen Unterricht von Menschen, die sich besser auskennen als ich.
+Danke an Bruno, Mads Michael, Thomas, Paul, Thierry, Olivier, Christophe, Gerd,
+Elmar, Ott, Manuel.
+
+Unsere großen Kunden sind wichtig, aber **die kleinen Betriebe** ebenso. Die
+Kleinen werden bald Früchte unserer Arbeit der letzten Jahre sehen. Für 2020
+wollen wir erstmals Lino-Komplettlösungen für kleine Betriebe zu Preisen ab 32€
+pro Benutzer pro Monat anbieten (Details folgen demnächst, aber so darf ich das
+schon mal ankündigen).
+
+Eigentlich möchte ich aber vor allem eines sagen : **Danke!** Danke den über 100
+Endbenutzern, die TIM oder Lino täglich benutzen, sich manchmal über Bugs ärgern
+und durch ihre Problemmeldung zur Verbesserung beitragen. Danke den Entscheidern
+und Direktoren, die meine Vision nachvollziehen und mit tragen. Danke den
+Systemverwaltern, die ihre Anlage am Laufen halten. Danke allen Freunden, die
+diese Mail bis zu Ende gelesen haben und im kommenden Jahr vielleicht einen
+neuen Benutzer entdecken.
+
+| Mit freundlichen Grüßen
+| Luc Saffre
+| Rumma & Ko OÜ

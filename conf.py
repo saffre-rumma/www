@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-from __future__ import unicode_literals
 import time
 
 # !! This is the configuration of Nikola. !! #
@@ -672,9 +671,9 @@ GITHUB_REMOTE_NAME = 'origin'
 # Many filters are shipped with Nikola. A list is available in the manual:
 # <https://getnikola.com/handbook.html#post-processing-filters>
 #
-#from nikola import filters
+from nikola import filters
 FILTERS = {
-    # ".html": [filters.typogrify],
+    ".html": [filters.typogrify],
     # ".js": [filters.closure_compiler],
     # ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
 }
