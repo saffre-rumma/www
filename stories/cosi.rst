@@ -17,11 +17,9 @@ as a joy** to
 - record your bank statements
 - get your financial situation
 
-Lino Così is **almost ready for use**.  Despite the fact that Lino
-Così itself keeps things simple, its codebase is **used by more
-sophisticated applications** like `Lino Welfare
+Lino Così is *almost ready for use*.
+
+Despite the fact that Lino Così itself keeps things simple, its codebase is
+**used by more sophisticated applications** like `Lino Welfare
 <http://welfare.lino-framework.org>`__ or `Lino Voga
 <http://voga.lino-framework.org>`__.
-
-
-

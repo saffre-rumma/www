@@ -8,8 +8,8 @@
 
 
 `Rumma & Ko <about>`__ provides `free <free>`__ custom database
-solutions for small and medium-sized organizations using the `Lino
-framework <lino>`__.
+solutions using the `Lino framework <lino>`__. We are also the current motor of
+the `Lino community <https://community.lino-framework.org/>`__.
 
 **Our services** include
 
@@ -36,7 +36,7 @@ framework <lino>`__.
   with others as open source software under a free license.
 
 
- 
+
 
 .. remark
 
@@ -46,6 +46,3 @@ framework <lino>`__.
     | even to the dull and ignorant; they too have their story.
     |
     | (from `Desiderata <https://en.wikipedia.org/wiki/Desiderata>`_)
-
-
-

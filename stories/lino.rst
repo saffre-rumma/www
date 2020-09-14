@@ -1,5 +1,5 @@
 .. title: Lino solutions
-   
+
 
 .. straight | powerful | flexible | stable | modular | free | maintainable
 
@@ -14,12 +14,12 @@ integrated plugins for
   reports)
 - reception and waiting room management
 - households and family members
-- skills, job search assistance, career and curriculum  
+- skills, job search assistance, career and curriculum
 - client coaching for social workers or therapists
 - invoicing (automatically generate invoices)
 - accounting (general ledger, bank statements, payment
   orders, VAT declarations)
-- courses and events management  
+- courses and events management
 - ticket management, time tracking
 
 Our **portfolio** of applications ready for production includes
@@ -31,12 +31,15 @@ Our **portfolio** of applications ready for production includes
 - :doc:`tera` -- a management system for therapeutic centres
 - :doc:`voga` Das Verwaltung&shy;sprogramm für die
   Erwachsenenbildungsorganisationen der Deutschsprachigen Gemeinschaft
-- :doc:`care` -- Eine Datenbank zur Hilfevermittlung zwischen Menschen
-- :doc:`vilma` -- helps rural villages for managing their public
-  projects and relationships.
+- `Lino Amici <https://amici.lino-framework.org/>`_
+
+..
+  - :doc:`care` -- Eine Datenbank zur Hilfevermittlung zwischen Menschen
+  - :doc:`vilma` -- helps rural villages for managing their public
+    projects and relationships.
 
 See the full list of `Lino applications maintained by our team
-<http://www.lino-framework.org/api/index.html>`__
+<https://www.lino-framework.org/api/index.html>`__
 
 .. .. raw html
 
@@ -56,7 +59,7 @@ See the full list of `Lino applications maintained by our team
           <img src="/lino_logo.png" width="50px"/>
           <h2>Lino Voga</h2>
           </a>
-          <p>Das Verwaltung&shy;sprogramm für 
+          <p>Das Verwaltung&shy;sprogramm für
           die Erwachsenen&shy;bildungs&shy;organisationen der Deutschsprachigen Gemeinschaft</p>
          </div>
 
@@ -100,6 +103,3 @@ See the full list of `Lino applications maintained by our team
 
       </div>
     </div>
-
-
-    

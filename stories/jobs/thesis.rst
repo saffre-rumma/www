@@ -1,8 +1,8 @@
 .. title: Write your thesis about Lino
 
-We provide mentorships for students who plan to write a thesis related to Lino.
-The candidates should be applying for an academic degree or professional
-qualification in one of the following fields:
+We provide mentorship and financial support for students who plan to write a
+thesis related to Lino.  Candidates should be students applying for an academic
+degree or professional qualification in one of the following fields:
 
 - Industrial engineering (Industrieingenieur / Ingénieur industriel)
 - Business administration (Betriebswirtschaft / Gestion d'entreprise)

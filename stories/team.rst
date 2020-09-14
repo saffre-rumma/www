@@ -5,6 +5,9 @@
 
    <br />
 
+Employees
+=========
+
 .. list-table::
   :widths: 20 80
 
@@ -18,12 +21,26 @@
       |br| luc@saffre-rumma.net or via `GitHub <https://github.com/orgs/lino-framework/people/lsaffre>`__
 
 
+  * - .. image:: /images/ly.jpg
+         :alt: Ly
+         :width: 80pt
+
+    - **Ly Rumma**
+      |br| Web designer, company founder and woman behind the
+      scenes who holds it all together.
+
+Certified application developers
+================================
+
+.. list-table::
+  :widths: 20 80
+
   * - .. image:: /images/hamza.png
          :alt: Hamza
          :width: 80pt
 
     - **Hamza Khchine**
-      |br| Core developer in **Tunisia** works for us as freelancer.
+      |br| Core developer in **Tunisia**.
       Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`__
       |br| hamza@saffre-rumma.net
       or via `GitHub <https://github.com/orgs/lino-framework/people/khchine5>`__
@@ -33,19 +50,9 @@
          :width: 80pt
 
     - **Tonis Piip**
-      |br| Developer and consultant in **Tallinn**
-      works for us since February 2017.
+      |br| Developer and consultant in **Tallinn**.
       |br| tonis@saffre-rumma.net
       or via `GitHub <https://github.com/orgs/lino-framework/people/CylonOven>`__
-
-  * - .. image:: /images/ly.jpg
-         :alt: Ly
-         :width: 80pt
-
-    - **Ly Rumma**
-      |br| Web designer, company founder and woman behind the
-      scenes who holds it all together.
-
 
 
 

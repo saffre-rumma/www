@@ -1,8 +1,7 @@
 .. title: Lino Voga
-   
+
 =========
 Lino Voga
 =========
 
-`Lino Voga <http://voga.lino-framework.org>`_ 
-
+See https://voga.lino-framework.org

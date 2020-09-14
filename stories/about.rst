@@ -5,8 +5,8 @@ under Estonian law.  Owners are the Belgian software developer Luc
 Saffre and his wife Ly Rumma.  National registry number `10501849
 <http://www.teatmik.ee/et/info/10501849>`_
 
-**We are small** and will remain so.  We are a family-sized team of
-three full-time developers.  See also :doc:`team`.
+**We are small** and will remain so.  We are a family-sized team with a network
+of independent certified developers.  See also :doc:`team`.
 
 .. During the first decade we satisfied our customers with only one
    full-time developer. But our customers had more projects than a
@@ -22,4 +22,3 @@ three full-time developers.  See also :doc:`team`.
 few developers.  Our strategy is to follow a gentle and sustainable
 way, helping Lino to grow into a community project.  See also
 :doc:`views`.
-

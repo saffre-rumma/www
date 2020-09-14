@@ -6,9 +6,9 @@ Worauf es bei einem guten Service ankommt:
   Software-Grundgerüste und bieten eine begrenzte Zahl klar
   definierter Servicepakete an.
 
-- Wir sind klein und wollen es bleiben. Sollte eine Abteilung zu groß
+- Wir sind klein und werden es bleiben. Sollte eine Geschäftsaktivität zu groß
   werden, sorgt unser offenes Geschäftsmodell dafür, dass wir uns ohne
-  allzu heftige Geburtswehen teilen können.
+  nennenswerte Geburtswehen teilen können.
 
 - Wir fördern die kooperative Zusammenarbeit zwischen Entwicklern und
   Endbenutzern.
@@ -29,4 +29,3 @@ Worauf es bei einer Datenbankanwendung ankommt:
 - dass man seine Daten in viele Formate exportieren und an andere
   Anwendungen weitergeben kann.
 - dass man klein anfangen und ohne Einschränkungen wachsen kann.
-
