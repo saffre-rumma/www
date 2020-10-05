@@ -21,6 +21,15 @@ Employees
       |br| luc@saffre-rumma.net or via `GitHub <https://github.com/orgs/lino-framework/people/lsaffre>`__
 
 
+  * - .. image:: /images/hannes.png
+         :alt: Hannes
+         :width: 80pt
+
+    - **Hannes Liivat**
+      |br| System administrator, customer support.
+      |br| hannes@saffre-rumma.net
+
+
   * - .. image:: /images/ly.jpg
          :alt: Ly
          :width: 80pt
