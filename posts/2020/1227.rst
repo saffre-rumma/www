@@ -1,0 +1,109 @@
+.. title: Weihnachtsgruß 2020
+.. slug:
+.. date: 2020-12-27 20:00:00 UTC+03:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+.. author: Luc Saffre
+
+Liebe Freunde und Benutzer von TIM und Lino,
+
+das Jahr 2020 war ja weltweit eine Herausforderung. Uns stehen möglicherweise
+ungeahnte Änderungen bevor. Auch ich habe dieses Jahr mehr Zeit als früher mit
+Nachrichtenlesen und Sich-Sorgen-um-die-Zukunft-machen verbracht.
+
+Vor diesem Hintergrund kann ich auch dieses Jahr wieder nur staunend dankbar
+feststellen, wie gut TIM und Lino sich im Sturm bewähren.
+
+Rumma & Ko hat dieses Jahr einen wichtigen Entwicklungsschritt gemacht. Kurz
+nachdem ich Tonis und Hamza im Juni :doc:`in die Welt geschickt <0725>` habe,
+hat sich fast zufällig --ich könnte auch sagen "durch Gottes Fügung"-- ein neuer
+Mitarbeiter zu uns gesellt, der seit Oktober ganztags eingestellt ist. Hannes
+heißt er, fast so alt wie ich ist er, und lebt in Tartu (die zweite Stadt in
+Estland, 200 Km von Tallinn). Wir arbeiten über Jitsi miteinander, ich habe ihn
+erst einmal live getroffen. Er kann Deutsch und seine Telefonnummer steht in
+unserem Notrufplan. Hannes ist kein Progammierer, sondern ein Systemverwalter.
+Das war der springende Punkt, den auch ich nicht vorausgeplant hatte. Mit Tonis
+und Hamza haben wir viel Zeit in Programmierung investiert. Das war auch gut
+(ein wichtiges Resultat dieser Arbeit ist die neue, auf React basierende
+Benutzeroberfläche, mit der man Lino auch per Smartphone bedienen kann), aber
+irgendwann muss man aufhören mit einem Perfektionismus, der alles immer noch
+länger reifen lassen will. Durch Hannes sind wir bereiter als je zuvor für die
+Betreuung neuer Lino-Anlagen im Produktionsbetrieb.
+
+Nach zehn Jahren Reifezeit beginnen wir mit dem Einholen der Ernte. Lino als
+Framework ist technologisch schon seit Jahren reif und stabil (der erste Lino
+läuft seit 2010 im Produktionsbetrieb und hat also dieses Jahr ganz still seinen
+10. Geburtstag erlebt). Woran es noch fehlt, ist eine Serie von überzeugenden
+Anwendungen, die bei einem neuen Benutzer sozusagen *out of the box* ein
+gewisses Vertrauen erwecken. Favoriten in diesem Rennen sind Così und Voga,
+dicht gefolgt von Amici und Noi. Diese Anwendungen haben einen Zustand erreicht,
+der "sich verkaufen lässt".
+
+Ich rechne in 2021 mit einigen neuen Lino-Betreibern, weil Rumma & Ko jetzt eine
+Komplettlösung anbieten kann für kleine und mittlere Betriebe und
+Organisationen.   Außerdem wird es --glaube ich-- durch die Covid-19-Krise
+wachsenden Bedarf nach kleinen und flexiblen Softwarelösungen geben.
+
+Alle Verkaufsarbeit von Lino findet weiterhin über den Freundeskreis statt.
+Viele aktive oder ehemalige Benutzer von TIM oder Lino wünschen dem Projekt
+Erfolg und Nachhaltigkeit. Dieser Wunsch lebt in den Herzen von über hundert
+Menschen und bleibt nicht ungehört. Ein besonderer Dank geht diesbezüglich an
+Steve und Arnold, die dieses Jahr zukunftsfähige neue Pilotprojekte vermittelt
+haben.
+
+Ich richte mein Augenmerk im kommenden Jahr noch gar nicht auf die Umstellung
+der bestehenden TIM-Benutzer. Denn die sind ja glücklich und zufrieden mit TIM.
+Mag sein, dass TIM altmodisch wirkt mit seiner mauslosen und zeichenbasierten
+Benutzeroberfläche. Aber ich habe in den letzten Jahren mit einigen
+TIM-Benutzern an einem Umstieg gearbeitet und immer kam dabei raus, dass TIM
+--bisher-- unschlagbar ist. Wer sich an die Vorteile von TIM gewöhnt hat, der
+freundet sich nicht so leicht mit einem Lino an. Ich selbst bin dabei
+wahrscheinlich das flagranteste Beispiel: noch immer mache ich die Buchhaltung
+von Rumma & Ko bis hin zur Jahresbilanz mit TIM. Ich habe mir aber trotzdem
+vorgenommen, demnächst mal endlich umzusteigen.
+
+Meine Arbeit als der Hauptverantwortliche von Lino bleibt skurril. Jedem
+Menschen seine Berufung. Ich kann kein ordentlicher Manager werden und zugleich
+kreativer Softwareentwickler bleiben.  Lino als Gesamtprojekt ist eigentlich
+viel zu groß für mich.  Wir hoffen weiterhin darauf, dass sich jemand findet,
+der die Hauptverantwortung für Lino an meiner Stelle übernimmt. Dieser Jemand,
+davon bin ich überzeugt, darf keine Eigeninteressen verfolgen, sondern muss eine
+juristische Person im Allgemeininteresse sein.
+
+Lino ist weiterhin kein Startup. Da wird kein sensationeller Durchbruch kommen,
+sondern es wird eine nachhaltige Entwicklung bleiben, die immer auch Geduld
+braucht. Mindestens zwei begonnene Projekte sind fast fertig, müssen aber noch
+warten wegen Engpässen beim Kunden. Das Entwickeln einer maßgeschneiderten
+Softwareanwendung bleibt ein gemeinsamer Prozess, der sich mit einer auf
+Konsumzwang basierenden Marktwirtschaft nur schwer in Einklang bringen lässt.
+
+Im September bekam ich eine wohltuende Bestätigung der langfristigen Lino-Vision
+aus Thessaloniki (Griechenland). Dort hat ein Programmierer Lino entdeckt und
+plant eine Anwendung zum Vermitteln der Praktikanten einer medizinischen
+Hochschule. Er schrieb  "I am not an expert either as a developer or as a human
+worker but I can say I have a good sense and I put a lot of thought in wide
+perspectives for all things in my life. From my journey in the digital realm
+Lino was the one encomprising all the qualities I seem to feel that a software
+framework should have: Free & open software, Worked philosophy, Creative spirit
+and Generosity of knowledge share." Wir dürfen also hoffen, dass Rumma & Ko
+nicht nur Kunden sondern auch Konkurrenten bekommt. Konkurrenz belebt ja
+bekanntlich das Geschäft.
+
+Ich ende diesen Brief mit einem hoffnungsvollen Gedanken von `Joanna Macy
+<https://www.joannamacy.net/biography>`__ zur aktuellen Weltsituation: "Die
+bemerkenswerteste Eigenart dieses historischen Moments ist nicht, dass wir dabei
+sind, unsere Welt zu zerstören-- damit sind wir eigentlich schon eine ganze
+Weile beschäftigt. Das Besondere ist, dass wir dabei sind, aufzuwachen, von
+einem Jahrtausende langem Schlaf, in eine neue Beziehung zu unserer Welt, zu uns
+selbst und zueinander."
+
+In diesem Sinne wünsche ich Ihnen in dieser besonderen Zeit erholsame Feiertage,
+liebende Aufmerksamkeit für die, die Ihre Hilfe brauchen, und Gottes Segen im
+Jahr 2021.
+
+| Mit freundlichen Grüßen
+| Luc Saffre
+| Rumma & Ko OÜ

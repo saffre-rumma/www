@@ -1312,9 +1312,21 @@ GLOBAL_CONTEXT_FILLER = []
 
 # THEME = 'libretto'
 THEME = 'hyde'
+# GLOBAL_CONTEXT.update({
+#     "hyde_subtheme": "theme-base-0f"
+# })
+# THEME = 'hpstr'
+
 # THEME = 'bootstrap'
 # THEME = 'lanyon'
+
 # THEME = 'jidn'
+# # See README.md for extra configuration details
+# GLOBAL_CONTEXT.update({
+#     "JIDN": {},  # Extra info about authors
+#     # "JIDN-theme": "theme-base-blue",
+# })
+
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         # ('/index.html', 'Home'),
