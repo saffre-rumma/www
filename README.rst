@@ -2,8 +2,8 @@
 saffre-rumma
 ============
 
-These are the Nikola source files for generating our
-`company website <http://www.saffre-rumma.net>`__.
+No longer maintained. These are the Nikola source files we used UNTIL DECEMBER 2020 for generating our
+`company website <https://www.saffre-rumma.net>`__. We switched from Nikola to Sphinx and from GitHub to GitLab: https://gitlab.com/saffre-rumma/www
 
 Instructions:
 
